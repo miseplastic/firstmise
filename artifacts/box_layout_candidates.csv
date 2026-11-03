@@ -1,0 +1,10 @@
+a,b,split_a,split_b,na,nb,layout_score,transform
+a--63-_jpg.rf.c4f483904f14ce7bf174f164d0af58a5.jpg,a--64-_jpg.rf.795308943bf5527c15d98cd657fbc407.jpg,train,train,4,5,0.506,id
+d--1-_jpg.rf.b37e794762fcd2f017ba3289c0e8183f.jpg,d--28-_jpg.rf.6ac3e5875346b295980f47d51d2ffbdd.jpg,train,train,1,1,0.519,flipv
+d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg,d--30-_jpg.rf.c15d6e586efe0fd55ee78f1280a4ed36.jpg,train,train,1,1,0.545,fliph
+d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg,d--93-_jpg.rf.c18fd024483919ec196960833ffa6c8d.jpg,train,train,1,2,0.501,fliph
+d--16-_jpg.rf.f5f93d055779c902fed83e37c3280d63.jpg,d--4-_jpg.rf.81ae2a86ed4fb978be6a19aea9dd76a2.jpg,train,train,1,2,0.518,fliph
+d--27-_jpg.rf.2e1b5f94935bfe187979db71d1aece54.jpg,d--84-_jpg.rf.cc08c7955f217a2b3179bc9b5382291a.jpg,train,train,2,3,0.527,flipv
+d--3-_jpg.rf.8469e5e5df1eabf5092043affe883127.jpg,d--53-_jpg.rf.a15e6635cea49e2d6a44e4dc1b1fc7b2.jpg,train,train,1,2,0.509,flipv
+d--31-_jpg.rf.e974a263856c8993d294bba282d7bef4.jpg,d--32-_jpg.rf.644adb98535b87f67582f61ae029981f.jpg,train,train,2,3,0.678,id
+d--39-_jpg.rf.ad058b973ec93f9e4c2974e46ee53cf9.jpg,d--40-_jpg.rf.6da89bed0ed9949fb0de2e2c108df063.jpg,train,train,3,3,0.547,flipv
