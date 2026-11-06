@@ -4,6 +4,10 @@
 - 기준 자료: `guideline/`(팀원 1 매뉴얼), `toss to team2/`(팀원 2 매뉴얼)
 - 완료 상태: 팀원 2가 추가 질문 없이 `groups_reviewed.csv` 작성을 시작할 수 있다
 
+## 준비된 도구
+
+`scripts/`에 3–7단계용 스크립트가 있다. 임시 폴더에서 실제 이미지 사본으로 시험했고, 실제 `DATA_v001`은 아직 만들지 않았다. 실행 명령은 [README.md](../README.md)에 있다.
+
 ## 범위
 
 **팀원 1이 하는 일:** 원본 보존, 출처 기록, 작업본과 기초 검사, 상자 검토, 중복 1차 판정, 인계.
@@ -27,7 +31,7 @@
 |---|---|---|---|---|
 | 0. 합의 | 안건 전달, 팀 입력 수령, 문서 충돌 수정 | [TEAM_AGENDA.md](TEAM_AGENDA.md), 수정된 문서 | 안건 전달과 답변 수령 | 진행 중. 문서 수정 완료, 팀 답변 대기 |
 | 1. 연습 | 매뉴얼의 연습 흐름 수행 | 판정 예시 (실제 자료와 분리, `guideline/toolkit/practice_review/`) | 상자 20장 열어 보기, 판정 연습 | 실행 완료, 사람 확인 대기 |
-| 2. 출처 | `original/` 보존, 파일별 해시 목록, Kaggle 압축 대조 | `source_notes.md` | Kaggle 압축파일 받기 | 대기 |
+| 2. 출처 기록 | `train/`, `valid/`를 읽기 전용 원본으로 보존, 파일별 해시 목록 작성. 재다운로드 대조는 하지 않음 | `source_notes.md` | 확인한 다운로드 경로 기록, 모르는 항목은 미기록으로 표시 | 대기 |
 | 3. 작업본 | CSV를 YOLO로 변환, `valid`→`val`, `classes.txt` 작성 | `dataset_work/`, `file_mapping.csv` | 변환 방식 승인 | 대기 |
 | 4. 검사 | `audit_dataset.py --near --overlays 781` 실행 | `audit/` | `issues.csv` 확인 | 대기 |
 | 5. 라벨 검토 | 층화 표본 약 36장과 특이 사례 검토, 오류가 반복되면 확대 | `label_review.csv`, `change_log.csv` | 판정 전부 | 대기 |

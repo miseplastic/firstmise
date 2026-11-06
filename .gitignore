@@ -1,3 +1,8 @@
 guideline/*
 toss to team2/*
 original/*
+__pycache__/
+DATA_v*/dataset_work/
+DATA_v*/dataset_work.tmp/
+DATA_v*/audit/
+DATA_v*/review/pair_images/

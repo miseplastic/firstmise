@@ -43,7 +43,6 @@
 firstmise/
 ├─ README.md
 ├─ requirements.txt
-├─ original/                  보존용 원본 사본 (git 제외, train/valid와 SHA-256 동일)
 ├─ guideline/                 팀원 1 매뉴얼, 툴킷, 템플릿 (git 제외)
 ├─ toss to team2/             팀원 2 매뉴얼, 툴킷, 템플릿 (git 제외)
 ├─ train/                     원본 데이터 (jpg 577장 + _annotations.csv)
@@ -58,7 +57,12 @@ firstmise/
 ├─ notebook/
 │  └─ 01_data_inventory.ipynb 이미지 목록과 분포 그림 생성 (T01)
 ├─ scripts/
-│  └─ report01_audit.py       무결성·SHA-256·pHash·박스 통계 감사 (REPORT_01)
+│  ├─ report01_audit.py       무결성·SHA-256·pHash·박스 통계 감사 (REPORT_01)
+│  ├─ build_dataset_work.py   CSV 데이터를 툴킷용 작업본으로 변환 (승인자 필수)
+│  ├─ make_label_review.py    사람이 채울 상자 검토표 생성
+│  ├─ find_duplicates.py      중복 후보, 탐지 성능, 사람이 채울 쌍 검토표 생성
+│  ├─ check_data_bundle.py    DATA 묶음 인계 전 점검
+│  └─ data_common.py          위 스크립트의 공통 함수
 └─ artifacts/                 위 노트북과 스크립트가 만든 결과 (재생성 가능)
 ```
 
@@ -89,13 +93,34 @@ jupyter nbconvert --to notebook --execute --inplace notebook/01_data_inventory.i
 python scripts/report01_audit.py
 ```
 
+### DATA_v001 만들기
+
+팀 합의와 변환 승인 후에 실행한다. 같은 출력 파일이 있으면 덮어쓰지 않고 멈춘다.
+
+```bash
+# 1) 작업본 생성 → DATA_v001/dataset_work, review/file_mapping.csv, source_manifest.csv
+python scripts/build_dataset_work.py --source . --bundle DATA_v001 --approved-by 승인자
+
+# 2) 기초 검사 → DATA_v001/audit
+python guideline/toolkit/audit_dataset.py --root DATA_v001/dataset_work --out DATA_v001/audit --near --overlays 781
+
+# 3) 상자 검토표 → review/label_review.csv, image_meta.csv (판정은 사람이 채운다)
+python scripts/make_label_review.py --bundle DATA_v001
+
+# 4) 중복 후보와 쌍 검토표 → review/pair_review.csv 등 (판정은 사람이 채운다, 약 10분)
+python scripts/find_duplicates.py --bundle DATA_v001
+
+# 5) 인계 전 점검
+python scripts/check_data_bundle.py --bundle DATA_v001 --rerun-audit --open-items DATA_v001/review/open_items.csv
+```
+
 학습, 평가 명령은 팀원 2의 분할 인계 후 학습 담당과 팀원 3의 기준에 맞춰 추가한다.
 
 ## 데이터 메모
 
 - 주석 형식: CSV(`filename,width,height,class,xmin,ymin,xmax,ymax`), 클래스는 `Microplastic` 하나
 - `test` 분할은 없다
-- 출처 후보: [Kaggle Microplastic Dataset for Computer Vision](https://www.kaggle.com/datasets/imtkaggleteam/microplastic-dataset-for-computer-vision) v1. 합계 용량이 같지만 파일별 대조는 하지 않았다
+- 출처: [Kaggle Microplastic Dataset for Computer Vision](https://www.kaggle.com/datasets/imtkaggleteam/microplastic-dataset-for-computer-vision) v1. 합계 용량이 같고 팀원 1이 같은 다운로드 경로임을 확인했다
 - Kaggle 표기 라이선스는 CC0이다. 상위 출처의 이용 조건은 미확인이므로 저장소를 공개하기 전에 확인한다
 - [논문 저장소](https://github.com/zayedarju/microplastic-detection)의 데이터는 이 데이터와 달라 보인다. 같다고 확인되기 전에는 논문 수치와 비교하지 않는다
 - 다운로드 날짜와 원본 압축파일 해시는 아직 기록되지 않았다
