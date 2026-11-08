@@ -2,11 +2,12 @@
 
 - 작성일: 2026-11-06
 - 기준 자료: `guideline/`(팀원 1 매뉴얼), `toss to team2/`(팀원 2 매뉴얼)
-- 완료 상태: 팀원 2가 추가 질문 없이 `groups_reviewed.csv` 작성을 시작할 수 있다
+- 완료 목표: 팀원 2가 추가 질문 없이 `groups_reviewed.csv` 작성을 시작할 수 있다
+- 현재: `DATA_v001`은 `REVIEW_NEEDED`다. 사람 판정이 비어 있으므로 그룹 작성은 아직 시작하지 않는다
 
 ## 준비된 도구
 
-`scripts/`에 3–7단계용 스크립트가 있다. 임시 폴더에서 실제 이미지 사본으로 시험했고, 실제 `DATA_v001`은 아직 만들지 않았다. 실행 명령은 [README.md](../README.md)에 있다.
+`scripts/`에 3–7단계용 스크립트가 있다. 2026-11-09에 실제 `DATA_v001`을 만들었고, 상태는 `REVIEW_NEEDED`다. 실행 명령은 [README.md](../README.md)에 있다.
 
 ## 범위
 
@@ -31,12 +32,12 @@
 |---|---|---|---|---|
 | 0. 합의 | 안건 전달, 팀 입력 수령, 문서 충돌 수정 | [TEAM_AGENDA.md](TEAM_AGENDA.md), 수정된 문서 | 안건 전달과 답변 수령 | 진행 중. 문서 수정 완료, 팀 답변 대기 |
 | 1. 연습 | 매뉴얼의 연습 흐름 수행 | 판정 예시 (실제 자료와 분리, `guideline/toolkit/practice_review/`) | 상자 20장 열어 보기, 판정 연습 | 실행 완료, 사람 확인 대기 |
-| 2. 출처 기록 | `train/`, `valid/`를 읽기 전용 원본으로 보존, 파일별 해시 목록 작성. 재다운로드 대조는 하지 않음 | `source_notes.md` | 확인한 다운로드 경로 기록, 모르는 항목은 미기록으로 표시 | 대기 |
-| 3. 작업본 | CSV를 YOLO로 변환, `valid`→`val`, `classes.txt` 작성 | `dataset_work/`, `file_mapping.csv` | 변환 방식 승인 | 대기 |
-| 4. 검사 | `audit_dataset.py --near --overlays 781` 실행 | `audit/` | `issues.csv` 확인 | 대기 |
-| 5. 라벨 검토 | 층화 표본 약 36장과 특이 사례 검토, 오류가 반복되면 확대 | `label_review.csv`, `change_log.csv` | 판정 전부 | 대기 |
-| 6. 중복 1차 판정 | 후보 탐색 보강, 탐지 성능 측정, 합의한 범위 판정 | `pair_review.csv`, 보조 파일 | 판정 전부 | 대기 |
-| 7. 묶음과 사전 점검 | `DATA_v001` 구성, 수신 흐름 시험 | `handoff.json`, 점검 결과 | 상태 값 결정, 전달 | 대기 |
+| 2. 출처 기록 | `train/`, `valid/`를 읽기 전용 원본으로 보존, 파일별 해시 목록 작성. 재다운로드 대조는 하지 않음 | `source_notes.md` | 확인한 다운로드 경로 기록, 모르는 항목은 미기록으로 표시 | 기록 완료. 다운로드 날짜와 압축파일 해시는 미기록 |
+| 3. 작업본 | CSV를 YOLO로 변환, `valid`→`val`, `classes.txt` 작성 | `dataset_work/`, `file_mapping.csv` | 변환 방식 승인 | 완료. 이미지 781장, 박스 7,126개, 왕복 불일치 0건. 승인자 기록은 팀원 1 |
+| 4. 검사 | `audit_dataset.py --near --overlays 781` 실행 | `audit/` | `issues.csv` 확인 | 완료. ERROR 0건, 픽셀 완전 중복 0그룹, dHash 후보 1,256쌍 |
+| 5. 라벨 검토 | 층화 표본 약 36장과 특이 사례 검토, 오류가 반복되면 확대 | `label_review.csv`, `change_log.csv` | 판정 전부 | 검토표 60장 생성. decision은 비어 있음 |
+| 6. 중복 1차 판정 | 후보 탐색 보강, 탐지 성능 측정, 합의한 범위 판정 | `pair_review.csv`, 보조 파일 | 판정 전부 | 후보 2,639쌍, 검토표 110쌍 생성. decision은 비어 있음 |
+| 7. 묶음과 사전 점검 | `DATA_v001` 구성, 수신 흐름 시험 | `handoff.json`, 점검 결과 | 상태 값 결정, 전달 | 점검 완료. FAIL 1은 사람 상자 검토 0장. 상태는 REVIEW_NEEDED |
 | 8. 인계 후 | 반환 오류 처리, 팀원 3 자료 전달, 확정 그룹 반영 | `DATA_v002`(변경 시), 설명 초안 | 수신 확인 받기 | 대기 |
 
 ### 3단계 검증

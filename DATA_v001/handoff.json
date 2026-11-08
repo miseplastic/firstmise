@@ -1,0 +1,53 @@
+{
+  "stage": "DATA",
+  "version": "DATA_v001",
+  "sender": "team1",
+  "recipients": [
+    "team2"
+  ],
+  "status": "REVIEW_NEEDED",
+  "created_at": "2026-11-09",
+  "input_versions": {
+    "source": "저장소 train/ 577장, valid/ 204장, _annotations.csv 2개",
+    "python": "3.14.2",
+    "toolkit_py_sha256": "502fbf1b863c5cfba5d3957c2c5201585a2bdea63c768a3c4512cad76a804cf9",
+    "audit_dataset_py_sha256": "f306afa01eb96a8c3d971dbb9c3f2403d80bb4ca67ee8d11b33200e5df9b99d4",
+    "common_py_sha256": "cb7369df0b1ec8713997fb8f6ec3b8ef26377cd2925dbe96e457b6330e443f98"
+  },
+  "files": [
+    "dataset_work/classes.txt",
+    "dataset_work/images",
+    "dataset_work/labels",
+    "audit/summary.json",
+    "audit/images.csv",
+    "audit/boxes.csv",
+    "audit/issues.csv",
+    "audit/overlays",
+    "audit/exact_duplicates.csv",
+    "audit/near_candidates.csv",
+    "audit/groups_template.csv",
+    "review/label_review.csv",
+    "review/pair_review.csv",
+    "review/change_log.csv",
+    "review/file_mapping.csv",
+    "review/source_manifest.csv",
+    "review/image_meta.csv",
+    "review/image_coverage.csv",
+    "review/pair_candidates_all.csv",
+    "review/pair_images",
+    "review/duplicate_search_notes.md",
+    "review/conversion_report.json",
+    "review/open_items.csv",
+    "source_notes.md"
+  ],
+  "unresolved_issues": [
+    "제공 분할에 test가 없어 dataset_work/images/test를 만들지 않았다. make_official.py는 test가 있어야 통과하므로, O 조건 처리 방침이 정해지기 전에는 공식 분할 목록을 만들 수 없다.",
+    "label_review.csv 60장의 decision, reviewer, unlabeled_particles는 비어 있다. 최소 20장의 사람 판정이 필요하다.",
+    "pair_review.csv 110쌍의 decision, reviewer, evidence는 비어 있다. 후보는 같은 원본의 증거가 아니다.",
+    "후보 2,639쌍 중 검토표 밖의 쌍과, 검토표에 들지 않은 이미지 631장은 미검토다. 미검토는 중복이 없다는 뜻이 아니다.",
+    "TEAM_AGENDA.md의 안건은 결정이 없다. 검토 범위, uncertain 처리, CSV에서 YOLO로의 변환과 valid에서 val로의 이름 변경은 제안 상태로 실행했다.",
+    "다운로드 날짜, 원본 압축파일 해시, 상위 출처 이용 조건, 박스 좌표 관례의 출처 문서 확인은 source_notes.md에 미기록 또는 미확인으로 남아 있다."
+  ],
+  "reviewer": "팀원 1",
+  "notes": "이 묶음은 그룹 확정이나 학습 시작 승인이 아니다. audit ERROR는 0건, 픽셀 기준 완전 중복은 0그룹, dHash 거리 5 이하 후보는 1,256쌍이다. groups_template.csv의 group_id는 비어 있으며 확정 그룹이 아니다. dHash 거리 5 이하를 연결하면 최대 307장 묶음이 생기므로 연결해 그룹으로 만들지 않는다. 라벨과 쌍의 reviewer에는 판정한 사람만 적는다."
+}

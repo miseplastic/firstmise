@@ -1,0 +1,1563 @@
+﻿original_relative_path,working_relative_path,reason
+train/100_jpg.rf.f1b9d16649ab385e3691fa54301a3b61.jpg,images/train/100_jpg.rf.f1b9d16649ab385e3691fa54301a3b61.jpg,변경 없음
+train/_annotations.csv,labels/train/100_jpg.rf.f1b9d16649ab385e3691fa54301a3b61.txt,CSV 행을 YOLO txt로 변환
+train/106_jpg.rf.e8dc04354de3fadaea50922857adf45e.jpg,images/train/106_jpg.rf.e8dc04354de3fadaea50922857adf45e.jpg,변경 없음
+train/_annotations.csv,labels/train/106_jpg.rf.e8dc04354de3fadaea50922857adf45e.txt,CSV 행을 YOLO txt로 변환
+train/10_jpg.rf.ecfa6fcdfec86c013936528ac959e40d.jpg,images/train/10_jpg.rf.ecfa6fcdfec86c013936528ac959e40d.jpg,변경 없음
+train/_annotations.csv,labels/train/10_jpg.rf.ecfa6fcdfec86c013936528ac959e40d.txt,CSV 행을 YOLO txt로 변환
+train/110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3.jpg,images/train/110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3.jpg,변경 없음
+train/_annotations.csv,labels/train/110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3.txt,CSV 행을 YOLO txt로 변환
+train/111_jpg.rf.43dd53d60dae89a68f02b58f3b167ad7.jpg,images/train/111_jpg.rf.43dd53d60dae89a68f02b58f3b167ad7.jpg,변경 없음
+train/_annotations.csv,labels/train/111_jpg.rf.43dd53d60dae89a68f02b58f3b167ad7.txt,CSV 행을 YOLO txt로 변환
+train/112_jpg.rf.92193a5794943f9f116c91578f806da4.jpg,images/train/112_jpg.rf.92193a5794943f9f116c91578f806da4.jpg,변경 없음
+train/_annotations.csv,labels/train/112_jpg.rf.92193a5794943f9f116c91578f806da4.txt,CSV 행을 YOLO txt로 변환
+train/113_jpg.rf.e2abde6eee16765e4266a017b1a3a1d0.jpg,images/train/113_jpg.rf.e2abde6eee16765e4266a017b1a3a1d0.jpg,변경 없음
+train/_annotations.csv,labels/train/113_jpg.rf.e2abde6eee16765e4266a017b1a3a1d0.txt,CSV 행을 YOLO txt로 변환
+train/114_jpg.rf.2fbc0ca69bdb966bcc642e80dc195efc.jpg,images/train/114_jpg.rf.2fbc0ca69bdb966bcc642e80dc195efc.jpg,변경 없음
+train/_annotations.csv,labels/train/114_jpg.rf.2fbc0ca69bdb966bcc642e80dc195efc.txt,CSV 행을 YOLO txt로 변환
+train/115_jpg.rf.b67b6f9a57244ad787dd942e85efcc4c.jpg,images/train/115_jpg.rf.b67b6f9a57244ad787dd942e85efcc4c.jpg,변경 없음
+train/_annotations.csv,labels/train/115_jpg.rf.b67b6f9a57244ad787dd942e85efcc4c.txt,CSV 행을 YOLO txt로 변환
+train/116_jpg.rf.91a6014ed9c5f347b7573c3f24e708b1.jpg,images/train/116_jpg.rf.91a6014ed9c5f347b7573c3f24e708b1.jpg,변경 없음
+train/_annotations.csv,labels/train/116_jpg.rf.91a6014ed9c5f347b7573c3f24e708b1.txt,CSV 행을 YOLO txt로 변환
+train/117_jpg.rf.da22e9ff457d8821649c8d638cfa455b.jpg,images/train/117_jpg.rf.da22e9ff457d8821649c8d638cfa455b.jpg,변경 없음
+train/_annotations.csv,labels/train/117_jpg.rf.da22e9ff457d8821649c8d638cfa455b.txt,CSV 행을 YOLO txt로 변환
+train/118_jpg.rf.0c7e43e16d89ff68409085be8b836561.jpg,images/train/118_jpg.rf.0c7e43e16d89ff68409085be8b836561.jpg,변경 없음
+train/_annotations.csv,labels/train/118_jpg.rf.0c7e43e16d89ff68409085be8b836561.txt,CSV 행을 YOLO txt로 변환
+train/119_jpg.rf.e35f1d7f9e075d0d21511036b11cda56.jpg,images/train/119_jpg.rf.e35f1d7f9e075d0d21511036b11cda56.jpg,변경 없음
+train/_annotations.csv,labels/train/119_jpg.rf.e35f1d7f9e075d0d21511036b11cda56.txt,CSV 행을 YOLO txt로 변환
+train/121_jpg.rf.2ffbea3e855456e2b977197e05d10943.jpg,images/train/121_jpg.rf.2ffbea3e855456e2b977197e05d10943.jpg,변경 없음
+train/_annotations.csv,labels/train/121_jpg.rf.2ffbea3e855456e2b977197e05d10943.txt,CSV 행을 YOLO txt로 변환
+train/123_jpg.rf.ad9bf1104c3cf812645aed431a1a027a.jpg,images/train/123_jpg.rf.ad9bf1104c3cf812645aed431a1a027a.jpg,변경 없음
+train/_annotations.csv,labels/train/123_jpg.rf.ad9bf1104c3cf812645aed431a1a027a.txt,CSV 행을 YOLO txt로 변환
+train/124_jpg.rf.e0ef75ee5b996f8e83cec07891450864.jpg,images/train/124_jpg.rf.e0ef75ee5b996f8e83cec07891450864.jpg,변경 없음
+train/_annotations.csv,labels/train/124_jpg.rf.e0ef75ee5b996f8e83cec07891450864.txt,CSV 행을 YOLO txt로 변환
+train/125_jpg.rf.f37f515011dff4fbb0b882e824432b93.jpg,images/train/125_jpg.rf.f37f515011dff4fbb0b882e824432b93.jpg,변경 없음
+train/_annotations.csv,labels/train/125_jpg.rf.f37f515011dff4fbb0b882e824432b93.txt,CSV 행을 YOLO txt로 변환
+train/126_jpg.rf.f7af3aff196462c418de0a98847a93f3.jpg,images/train/126_jpg.rf.f7af3aff196462c418de0a98847a93f3.jpg,변경 없음
+train/_annotations.csv,labels/train/126_jpg.rf.f7af3aff196462c418de0a98847a93f3.txt,CSV 행을 YOLO txt로 변환
+train/127_jpg.rf.d5a2865d579a33b7ad207f3bdfd4671a.jpg,images/train/127_jpg.rf.d5a2865d579a33b7ad207f3bdfd4671a.jpg,변경 없음
+train/_annotations.csv,labels/train/127_jpg.rf.d5a2865d579a33b7ad207f3bdfd4671a.txt,CSV 행을 YOLO txt로 변환
+train/128_jpg.rf.5d9b24db1406b3584c30a9a9c4c87b6d.jpg,images/train/128_jpg.rf.5d9b24db1406b3584c30a9a9c4c87b6d.jpg,변경 없음
+train/_annotations.csv,labels/train/128_jpg.rf.5d9b24db1406b3584c30a9a9c4c87b6d.txt,CSV 행을 YOLO txt로 변환
+train/129_jpg.rf.8672159b4320dbb95a5a62d7f763efe3.jpg,images/train/129_jpg.rf.8672159b4320dbb95a5a62d7f763efe3.jpg,변경 없음
+train/_annotations.csv,labels/train/129_jpg.rf.8672159b4320dbb95a5a62d7f763efe3.txt,CSV 행을 YOLO txt로 변환
+train/12_jpg.rf.141bac2f39d8211e111ed5f947bf8136.jpg,images/train/12_jpg.rf.141bac2f39d8211e111ed5f947bf8136.jpg,변경 없음
+train/_annotations.csv,labels/train/12_jpg.rf.141bac2f39d8211e111ed5f947bf8136.txt,CSV 행을 YOLO txt로 변환
+train/131_jpg.rf.429974f7222f6b61a84b1971a6eb7218.jpg,images/train/131_jpg.rf.429974f7222f6b61a84b1971a6eb7218.jpg,변경 없음
+train/_annotations.csv,labels/train/131_jpg.rf.429974f7222f6b61a84b1971a6eb7218.txt,CSV 행을 YOLO txt로 변환
+train/132_jpg.rf.17268cc947dbd738fbb534f57111d31b.jpg,images/train/132_jpg.rf.17268cc947dbd738fbb534f57111d31b.jpg,변경 없음
+train/_annotations.csv,labels/train/132_jpg.rf.17268cc947dbd738fbb534f57111d31b.txt,CSV 행을 YOLO txt로 변환
+train/134_jpg.rf.bfc2b2ce193188b9213229e9ff725045.jpg,images/train/134_jpg.rf.bfc2b2ce193188b9213229e9ff725045.jpg,변경 없음
+train/_annotations.csv,labels/train/134_jpg.rf.bfc2b2ce193188b9213229e9ff725045.txt,CSV 행을 YOLO txt로 변환
+train/135_jpg.rf.95b2d339db26f28f3179d4dd162aad9d.jpg,images/train/135_jpg.rf.95b2d339db26f28f3179d4dd162aad9d.jpg,변경 없음
+train/_annotations.csv,labels/train/135_jpg.rf.95b2d339db26f28f3179d4dd162aad9d.txt,CSV 행을 YOLO txt로 변환
+train/136_jpg.rf.2004d3fffff3f58a759dc6f0d10d3f10.jpg,images/train/136_jpg.rf.2004d3fffff3f58a759dc6f0d10d3f10.jpg,변경 없음
+train/_annotations.csv,labels/train/136_jpg.rf.2004d3fffff3f58a759dc6f0d10d3f10.txt,CSV 행을 YOLO txt로 변환
+train/138_jpg.rf.7e7286a215caebac413c3ac6c5ed0150.jpg,images/train/138_jpg.rf.7e7286a215caebac413c3ac6c5ed0150.jpg,변경 없음
+train/_annotations.csv,labels/train/138_jpg.rf.7e7286a215caebac413c3ac6c5ed0150.txt,CSV 행을 YOLO txt로 변환
+train/141_jpg.rf.ae0182b2d966fc94bf76f129f46c5a45.jpg,images/train/141_jpg.rf.ae0182b2d966fc94bf76f129f46c5a45.jpg,변경 없음
+train/_annotations.csv,labels/train/141_jpg.rf.ae0182b2d966fc94bf76f129f46c5a45.txt,CSV 행을 YOLO txt로 변환
+train/142_jpg.rf.9d8e6fa070a9e2c99c56fc36a5b6754d.jpg,images/train/142_jpg.rf.9d8e6fa070a9e2c99c56fc36a5b6754d.jpg,변경 없음
+train/_annotations.csv,labels/train/142_jpg.rf.9d8e6fa070a9e2c99c56fc36a5b6754d.txt,CSV 행을 YOLO txt로 변환
+train/143_jpg.rf.4bf2d593b2dcffe4a19da0d590ed30cb.jpg,images/train/143_jpg.rf.4bf2d593b2dcffe4a19da0d590ed30cb.jpg,변경 없음
+train/_annotations.csv,labels/train/143_jpg.rf.4bf2d593b2dcffe4a19da0d590ed30cb.txt,CSV 행을 YOLO txt로 변환
+train/145_jpg.rf.c7b023ab3763cd94bf5a6c083c10b985.jpg,images/train/145_jpg.rf.c7b023ab3763cd94bf5a6c083c10b985.jpg,변경 없음
+train/_annotations.csv,labels/train/145_jpg.rf.c7b023ab3763cd94bf5a6c083c10b985.txt,CSV 행을 YOLO txt로 변환
+train/148_jpg.rf.735bb3e0815dbb534fee4a5fddb8fc9a.jpg,images/train/148_jpg.rf.735bb3e0815dbb534fee4a5fddb8fc9a.jpg,변경 없음
+train/_annotations.csv,labels/train/148_jpg.rf.735bb3e0815dbb534fee4a5fddb8fc9a.txt,CSV 행을 YOLO txt로 변환
+train/149_jpg.rf.a9ca776619da0dd70e95602e523dbb1a.jpg,images/train/149_jpg.rf.a9ca776619da0dd70e95602e523dbb1a.jpg,변경 없음
+train/_annotations.csv,labels/train/149_jpg.rf.a9ca776619da0dd70e95602e523dbb1a.txt,CSV 행을 YOLO txt로 변환
+train/150_jpg.rf.2dd6790f5fc0211c6b8a0bebded08354.jpg,images/train/150_jpg.rf.2dd6790f5fc0211c6b8a0bebded08354.jpg,변경 없음
+train/_annotations.csv,labels/train/150_jpg.rf.2dd6790f5fc0211c6b8a0bebded08354.txt,CSV 행을 YOLO txt로 변환
+train/152_jpg.rf.da2c4d0f32d6f12ecd6ecacd1ee76a68.jpg,images/train/152_jpg.rf.da2c4d0f32d6f12ecd6ecacd1ee76a68.jpg,변경 없음
+train/_annotations.csv,labels/train/152_jpg.rf.da2c4d0f32d6f12ecd6ecacd1ee76a68.txt,CSV 행을 YOLO txt로 변환
+train/155_jpg.rf.093f66fb1b5c68857d3fb733ea6c28e0.jpg,images/train/155_jpg.rf.093f66fb1b5c68857d3fb733ea6c28e0.jpg,변경 없음
+train/_annotations.csv,labels/train/155_jpg.rf.093f66fb1b5c68857d3fb733ea6c28e0.txt,CSV 행을 YOLO txt로 변환
+train/156_jpg.rf.746421f245b72dbf541074bf5d373bdd.jpg,images/train/156_jpg.rf.746421f245b72dbf541074bf5d373bdd.jpg,변경 없음
+train/_annotations.csv,labels/train/156_jpg.rf.746421f245b72dbf541074bf5d373bdd.txt,CSV 행을 YOLO txt로 변환
+train/157_jpg.rf.346be485e8163f4150a6ab9427aac768.jpg,images/train/157_jpg.rf.346be485e8163f4150a6ab9427aac768.jpg,변경 없음
+train/_annotations.csv,labels/train/157_jpg.rf.346be485e8163f4150a6ab9427aac768.txt,CSV 행을 YOLO txt로 변환
+train/159_jpg.rf.fe559d95c93942ca2d444b5300d564bd.jpg,images/train/159_jpg.rf.fe559d95c93942ca2d444b5300d564bd.jpg,변경 없음
+train/_annotations.csv,labels/train/159_jpg.rf.fe559d95c93942ca2d444b5300d564bd.txt,CSV 행을 YOLO txt로 변환
+train/160_jpg.rf.d13ec28751f53832401f22568bd6f3d1.jpg,images/train/160_jpg.rf.d13ec28751f53832401f22568bd6f3d1.jpg,변경 없음
+train/_annotations.csv,labels/train/160_jpg.rf.d13ec28751f53832401f22568bd6f3d1.txt,CSV 행을 YOLO txt로 변환
+train/164_jpg.rf.0cd8354785a1a669f3254ae07ae70ae6.jpg,images/train/164_jpg.rf.0cd8354785a1a669f3254ae07ae70ae6.jpg,변경 없음
+train/_annotations.csv,labels/train/164_jpg.rf.0cd8354785a1a669f3254ae07ae70ae6.txt,CSV 행을 YOLO txt로 변환
+train/165_jpg.rf.5e80636a4986a65a5e690d9eab5b306a.jpg,images/train/165_jpg.rf.5e80636a4986a65a5e690d9eab5b306a.jpg,변경 없음
+train/_annotations.csv,labels/train/165_jpg.rf.5e80636a4986a65a5e690d9eab5b306a.txt,CSV 행을 YOLO txt로 변환
+train/166_jpg.rf.20a6d237232614558c921ed9f79ad4f0.jpg,images/train/166_jpg.rf.20a6d237232614558c921ed9f79ad4f0.jpg,변경 없음
+train/_annotations.csv,labels/train/166_jpg.rf.20a6d237232614558c921ed9f79ad4f0.txt,CSV 행을 YOLO txt로 변환
+train/167_jpg.rf.ef352fd875031ef9efbc0dc196cd8741.jpg,images/train/167_jpg.rf.ef352fd875031ef9efbc0dc196cd8741.jpg,변경 없음
+train/_annotations.csv,labels/train/167_jpg.rf.ef352fd875031ef9efbc0dc196cd8741.txt,CSV 행을 YOLO txt로 변환
+train/168_jpg.rf.f02330b81c9f554ea5eb070a4028ee8e.jpg,images/train/168_jpg.rf.f02330b81c9f554ea5eb070a4028ee8e.jpg,변경 없음
+train/_annotations.csv,labels/train/168_jpg.rf.f02330b81c9f554ea5eb070a4028ee8e.txt,CSV 행을 YOLO txt로 변환
+train/169_jpg.rf.b3b97dbfc52aa6836e9205da92746f8a.jpg,images/train/169_jpg.rf.b3b97dbfc52aa6836e9205da92746f8a.jpg,변경 없음
+train/_annotations.csv,labels/train/169_jpg.rf.b3b97dbfc52aa6836e9205da92746f8a.txt,CSV 행을 YOLO txt로 변환
+train/170_jpg.rf.4a1d239251ab64b3c733cbc93c07c52c.jpg,images/train/170_jpg.rf.4a1d239251ab64b3c733cbc93c07c52c.jpg,변경 없음
+train/_annotations.csv,labels/train/170_jpg.rf.4a1d239251ab64b3c733cbc93c07c52c.txt,CSV 행을 YOLO txt로 변환
+train/172_jpg.rf.5497cc1a60cf5885cbe8978e762ca7b4.jpg,images/train/172_jpg.rf.5497cc1a60cf5885cbe8978e762ca7b4.jpg,변경 없음
+train/_annotations.csv,labels/train/172_jpg.rf.5497cc1a60cf5885cbe8978e762ca7b4.txt,CSV 행을 YOLO txt로 변환
+train/174_jpg.rf.462670ef59ff501d8799423fbba4f72e.jpg,images/train/174_jpg.rf.462670ef59ff501d8799423fbba4f72e.jpg,변경 없음
+train/_annotations.csv,labels/train/174_jpg.rf.462670ef59ff501d8799423fbba4f72e.txt,CSV 행을 YOLO txt로 변환
+train/177_jpg.rf.78ce205aa324b8cb17ee4051188b13d5.jpg,images/train/177_jpg.rf.78ce205aa324b8cb17ee4051188b13d5.jpg,변경 없음
+train/_annotations.csv,labels/train/177_jpg.rf.78ce205aa324b8cb17ee4051188b13d5.txt,CSV 행을 YOLO txt로 변환
+train/180_jpg.rf.8553608dc0a9f4e6ab3c23e21abd0d38.jpg,images/train/180_jpg.rf.8553608dc0a9f4e6ab3c23e21abd0d38.jpg,변경 없음
+train/_annotations.csv,labels/train/180_jpg.rf.8553608dc0a9f4e6ab3c23e21abd0d38.txt,CSV 행을 YOLO txt로 변환
+train/181_jpg.rf.f7001538334765f4abe65e29deba727d.jpg,images/train/181_jpg.rf.f7001538334765f4abe65e29deba727d.jpg,변경 없음
+train/_annotations.csv,labels/train/181_jpg.rf.f7001538334765f4abe65e29deba727d.txt,CSV 행을 YOLO txt로 변환
+train/185_jpg.rf.486784ae35c66d14c8d9700817908e5f.jpg,images/train/185_jpg.rf.486784ae35c66d14c8d9700817908e5f.jpg,변경 없음
+train/_annotations.csv,labels/train/185_jpg.rf.486784ae35c66d14c8d9700817908e5f.txt,CSV 행을 YOLO txt로 변환
+train/187_jpg.rf.7f833781344024db5ea914b4f28b2501.jpg,images/train/187_jpg.rf.7f833781344024db5ea914b4f28b2501.jpg,변경 없음
+train/_annotations.csv,labels/train/187_jpg.rf.7f833781344024db5ea914b4f28b2501.txt,CSV 행을 YOLO txt로 변환
+train/188_jpg.rf.79a80e683f2b355bf9c333b89b065d12.jpg,images/train/188_jpg.rf.79a80e683f2b355bf9c333b89b065d12.jpg,변경 없음
+train/_annotations.csv,labels/train/188_jpg.rf.79a80e683f2b355bf9c333b89b065d12.txt,CSV 행을 YOLO txt로 변환
+train/189_jpg.rf.ff05bcd103da88fe266f0afd8b03baca.jpg,images/train/189_jpg.rf.ff05bcd103da88fe266f0afd8b03baca.jpg,변경 없음
+train/_annotations.csv,labels/train/189_jpg.rf.ff05bcd103da88fe266f0afd8b03baca.txt,CSV 행을 YOLO txt로 변환
+train/190_jpg.rf.bbffa7ff0e9df3f2603745032d9e56cb.jpg,images/train/190_jpg.rf.bbffa7ff0e9df3f2603745032d9e56cb.jpg,변경 없음
+train/_annotations.csv,labels/train/190_jpg.rf.bbffa7ff0e9df3f2603745032d9e56cb.txt,CSV 행을 YOLO txt로 변환
+train/191_jpg.rf.35076717096fbba567435ea2660d24df.jpg,images/train/191_jpg.rf.35076717096fbba567435ea2660d24df.jpg,변경 없음
+train/_annotations.csv,labels/train/191_jpg.rf.35076717096fbba567435ea2660d24df.txt,CSV 행을 YOLO txt로 변환
+train/192_jpg.rf.317b19d7d157d9e24328cdd74383144f.jpg,images/train/192_jpg.rf.317b19d7d157d9e24328cdd74383144f.jpg,변경 없음
+train/_annotations.csv,labels/train/192_jpg.rf.317b19d7d157d9e24328cdd74383144f.txt,CSV 행을 YOLO txt로 변환
+train/193_jpg.rf.e76f9b8cb574a63a589e75fbc2a32754.jpg,images/train/193_jpg.rf.e76f9b8cb574a63a589e75fbc2a32754.jpg,변경 없음
+train/_annotations.csv,labels/train/193_jpg.rf.e76f9b8cb574a63a589e75fbc2a32754.txt,CSV 행을 YOLO txt로 변환
+train/195_jpg.rf.cce4ecaf6582d659b765fcabd6a2b739.jpg,images/train/195_jpg.rf.cce4ecaf6582d659b765fcabd6a2b739.jpg,변경 없음
+train/_annotations.csv,labels/train/195_jpg.rf.cce4ecaf6582d659b765fcabd6a2b739.txt,CSV 행을 YOLO txt로 변환
+train/197_jpg.rf.96b63e1aef85d3a2cefc61d89717365a.jpg,images/train/197_jpg.rf.96b63e1aef85d3a2cefc61d89717365a.jpg,변경 없음
+train/_annotations.csv,labels/train/197_jpg.rf.96b63e1aef85d3a2cefc61d89717365a.txt,CSV 행을 YOLO txt로 변환
+train/198_jpg.rf.b2e419a6ce27de74ca40700b917799e3.jpg,images/train/198_jpg.rf.b2e419a6ce27de74ca40700b917799e3.jpg,변경 없음
+train/_annotations.csv,labels/train/198_jpg.rf.b2e419a6ce27de74ca40700b917799e3.txt,CSV 행을 YOLO txt로 변환
+train/199_jpg.rf.fcdbec1304124fee7e477c6ba0a31ab9.jpg,images/train/199_jpg.rf.fcdbec1304124fee7e477c6ba0a31ab9.jpg,변경 없음
+train/_annotations.csv,labels/train/199_jpg.rf.fcdbec1304124fee7e477c6ba0a31ab9.txt,CSV 행을 YOLO txt로 변환
+train/19_jpg.rf.acf9f1963ca15d84bad701680995c103.jpg,images/train/19_jpg.rf.acf9f1963ca15d84bad701680995c103.jpg,변경 없음
+train/_annotations.csv,labels/train/19_jpg.rf.acf9f1963ca15d84bad701680995c103.txt,CSV 행을 YOLO txt로 변환
+train/1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db.jpg,images/train/1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db.jpg,변경 없음
+train/_annotations.csv,labels/train/1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db.txt,CSV 행을 YOLO txt로 변환
+train/200_jpg.rf.55858a52069405c7e4834e17e34436a3.jpg,images/train/200_jpg.rf.55858a52069405c7e4834e17e34436a3.jpg,변경 없음
+train/_annotations.csv,labels/train/200_jpg.rf.55858a52069405c7e4834e17e34436a3.txt,CSV 행을 YOLO txt로 변환
+train/22_jpg.rf.4066aa909a5382af28f8815336d64c64.jpg,images/train/22_jpg.rf.4066aa909a5382af28f8815336d64c64.jpg,변경 없음
+train/_annotations.csv,labels/train/22_jpg.rf.4066aa909a5382af28f8815336d64c64.txt,CSV 행을 YOLO txt로 변환
+train/24_jpg.rf.b80589f1055481940f5e6852df90913f.jpg,images/train/24_jpg.rf.b80589f1055481940f5e6852df90913f.jpg,변경 없음
+train/_annotations.csv,labels/train/24_jpg.rf.b80589f1055481940f5e6852df90913f.txt,CSV 행을 YOLO txt로 변환
+train/25_jpg.rf.6cee017a690f9c2ccfeaca853ef1d66d.jpg,images/train/25_jpg.rf.6cee017a690f9c2ccfeaca853ef1d66d.jpg,변경 없음
+train/_annotations.csv,labels/train/25_jpg.rf.6cee017a690f9c2ccfeaca853ef1d66d.txt,CSV 행을 YOLO txt로 변환
+train/27_jpg.rf.bcda8bed58ced16c5e17ff727e84dbab.jpg,images/train/27_jpg.rf.bcda8bed58ced16c5e17ff727e84dbab.jpg,변경 없음
+train/_annotations.csv,labels/train/27_jpg.rf.bcda8bed58ced16c5e17ff727e84dbab.txt,CSV 행을 YOLO txt로 변환
+train/29_jpg.rf.2d7a802a59f28f44700485e2f7ad912b.jpg,images/train/29_jpg.rf.2d7a802a59f28f44700485e2f7ad912b.jpg,변경 없음
+train/_annotations.csv,labels/train/29_jpg.rf.2d7a802a59f28f44700485e2f7ad912b.txt,CSV 행을 YOLO txt로 변환
+train/31_jpg.rf.45f35ebba792f8ea3a03152f906d90bc.jpg,images/train/31_jpg.rf.45f35ebba792f8ea3a03152f906d90bc.jpg,변경 없음
+train/_annotations.csv,labels/train/31_jpg.rf.45f35ebba792f8ea3a03152f906d90bc.txt,CSV 행을 YOLO txt로 변환
+train/33_jpg.rf.d535b9a3bece4609fb68de34c285baad.jpg,images/train/33_jpg.rf.d535b9a3bece4609fb68de34c285baad.jpg,변경 없음
+train/_annotations.csv,labels/train/33_jpg.rf.d535b9a3bece4609fb68de34c285baad.txt,CSV 행을 YOLO txt로 변환
+train/36_jpg.rf.17bdf2be94ec37d1e81819d8a41e7cbc.jpg,images/train/36_jpg.rf.17bdf2be94ec37d1e81819d8a41e7cbc.jpg,변경 없음
+train/_annotations.csv,labels/train/36_jpg.rf.17bdf2be94ec37d1e81819d8a41e7cbc.txt,CSV 행을 YOLO txt로 변환
+train/37_jpg.rf.df9bdbddd9c4583b70cfda1a002f9347.jpg,images/train/37_jpg.rf.df9bdbddd9c4583b70cfda1a002f9347.jpg,변경 없음
+train/_annotations.csv,labels/train/37_jpg.rf.df9bdbddd9c4583b70cfda1a002f9347.txt,CSV 행을 YOLO txt로 변환
+train/38_jpg.rf.e6492d6787056d2b250b31eb390f929a.jpg,images/train/38_jpg.rf.e6492d6787056d2b250b31eb390f929a.jpg,변경 없음
+train/_annotations.csv,labels/train/38_jpg.rf.e6492d6787056d2b250b31eb390f929a.txt,CSV 행을 YOLO txt로 변환
+train/39_jpg.rf.5f38117455969132853b63ee7cf208e9.jpg,images/train/39_jpg.rf.5f38117455969132853b63ee7cf208e9.jpg,변경 없음
+train/_annotations.csv,labels/train/39_jpg.rf.5f38117455969132853b63ee7cf208e9.txt,CSV 행을 YOLO txt로 변환
+train/42_jpg.rf.6dde36c353f9080a04f3ea518a2e7ed7.jpg,images/train/42_jpg.rf.6dde36c353f9080a04f3ea518a2e7ed7.jpg,변경 없음
+train/_annotations.csv,labels/train/42_jpg.rf.6dde36c353f9080a04f3ea518a2e7ed7.txt,CSV 행을 YOLO txt로 변환
+train/43_jpg.rf.d755a6d1c9837f89b02ee52cc191b804.jpg,images/train/43_jpg.rf.d755a6d1c9837f89b02ee52cc191b804.jpg,변경 없음
+train/_annotations.csv,labels/train/43_jpg.rf.d755a6d1c9837f89b02ee52cc191b804.txt,CSV 행을 YOLO txt로 변환
+train/44_jpg.rf.c9949bb3f0e06bcaa6205c0eb672cf4c.jpg,images/train/44_jpg.rf.c9949bb3f0e06bcaa6205c0eb672cf4c.jpg,변경 없음
+train/_annotations.csv,labels/train/44_jpg.rf.c9949bb3f0e06bcaa6205c0eb672cf4c.txt,CSV 행을 YOLO txt로 변환
+train/46_jpg.rf.59af1a680d3ccf86bfffa8f4e52f1aa2.jpg,images/train/46_jpg.rf.59af1a680d3ccf86bfffa8f4e52f1aa2.jpg,변경 없음
+train/_annotations.csv,labels/train/46_jpg.rf.59af1a680d3ccf86bfffa8f4e52f1aa2.txt,CSV 행을 YOLO txt로 변환
+train/47_jpg.rf.b41454a637a141320ccdbd4fd48122bf.jpg,images/train/47_jpg.rf.b41454a637a141320ccdbd4fd48122bf.jpg,변경 없음
+train/_annotations.csv,labels/train/47_jpg.rf.b41454a637a141320ccdbd4fd48122bf.txt,CSV 행을 YOLO txt로 변환
+train/48_jpg.rf.ccec133363437b98ce167f8672f78abb.jpg,images/train/48_jpg.rf.ccec133363437b98ce167f8672f78abb.jpg,변경 없음
+train/_annotations.csv,labels/train/48_jpg.rf.ccec133363437b98ce167f8672f78abb.txt,CSV 행을 YOLO txt로 변환
+train/49_jpg.rf.3ce02da66fc92f94786590c28eab61b0.jpg,images/train/49_jpg.rf.3ce02da66fc92f94786590c28eab61b0.jpg,변경 없음
+train/_annotations.csv,labels/train/49_jpg.rf.3ce02da66fc92f94786590c28eab61b0.txt,CSV 행을 YOLO txt로 변환
+train/51_jpg.rf.dcb636539115eab579fcc00ca9c976e1.jpg,images/train/51_jpg.rf.dcb636539115eab579fcc00ca9c976e1.jpg,변경 없음
+train/_annotations.csv,labels/train/51_jpg.rf.dcb636539115eab579fcc00ca9c976e1.txt,CSV 행을 YOLO txt로 변환
+train/53_jpg.rf.7c216f083d98635b4f8d1debcbb8120a.jpg,images/train/53_jpg.rf.7c216f083d98635b4f8d1debcbb8120a.jpg,변경 없음
+train/_annotations.csv,labels/train/53_jpg.rf.7c216f083d98635b4f8d1debcbb8120a.txt,CSV 행을 YOLO txt로 변환
+train/54_jpg.rf.3ee0fced90f89e82ccbb474901437b1d.jpg,images/train/54_jpg.rf.3ee0fced90f89e82ccbb474901437b1d.jpg,변경 없음
+train/_annotations.csv,labels/train/54_jpg.rf.3ee0fced90f89e82ccbb474901437b1d.txt,CSV 행을 YOLO txt로 변환
+train/56_jpg.rf.46f86d32fd5434fd10da2d9c13360539.jpg,images/train/56_jpg.rf.46f86d32fd5434fd10da2d9c13360539.jpg,변경 없음
+train/_annotations.csv,labels/train/56_jpg.rf.46f86d32fd5434fd10da2d9c13360539.txt,CSV 행을 YOLO txt로 변환
+train/58_jpg.rf.f1986a9538429950b21c84d841f7bb84.jpg,images/train/58_jpg.rf.f1986a9538429950b21c84d841f7bb84.jpg,변경 없음
+train/_annotations.csv,labels/train/58_jpg.rf.f1986a9538429950b21c84d841f7bb84.txt,CSV 행을 YOLO txt로 변환
+train/59_jpg.rf.4acb705e78dc0565b173d313f404c3ff.jpg,images/train/59_jpg.rf.4acb705e78dc0565b173d313f404c3ff.jpg,변경 없음
+train/_annotations.csv,labels/train/59_jpg.rf.4acb705e78dc0565b173d313f404c3ff.txt,CSV 행을 YOLO txt로 변환
+train/5_jpg.rf.bae5eab1f3f565c87534464393ff620a.jpg,images/train/5_jpg.rf.bae5eab1f3f565c87534464393ff620a.jpg,변경 없음
+train/_annotations.csv,labels/train/5_jpg.rf.bae5eab1f3f565c87534464393ff620a.txt,CSV 행을 YOLO txt로 변환
+train/60_jpg.rf.e3b9ba1a5753286334e39a36e7d00569.jpg,images/train/60_jpg.rf.e3b9ba1a5753286334e39a36e7d00569.jpg,변경 없음
+train/_annotations.csv,labels/train/60_jpg.rf.e3b9ba1a5753286334e39a36e7d00569.txt,CSV 행을 YOLO txt로 변환
+train/61_jpg.rf.f40b29faee40ac16569fe73a0a952b38.jpg,images/train/61_jpg.rf.f40b29faee40ac16569fe73a0a952b38.jpg,변경 없음
+train/_annotations.csv,labels/train/61_jpg.rf.f40b29faee40ac16569fe73a0a952b38.txt,CSV 행을 YOLO txt로 변환
+train/63_jpg.rf.03a8dcb496709c51ddff563396f43aa3.jpg,images/train/63_jpg.rf.03a8dcb496709c51ddff563396f43aa3.jpg,변경 없음
+train/_annotations.csv,labels/train/63_jpg.rf.03a8dcb496709c51ddff563396f43aa3.txt,CSV 행을 YOLO txt로 변환
+train/64_jpg.rf.77aea6402e2ef93b8767f886538f1c2b.jpg,images/train/64_jpg.rf.77aea6402e2ef93b8767f886538f1c2b.jpg,변경 없음
+train/_annotations.csv,labels/train/64_jpg.rf.77aea6402e2ef93b8767f886538f1c2b.txt,CSV 행을 YOLO txt로 변환
+train/65_jpg.rf.eb485786985d41ee0d517a508df5b3ac.jpg,images/train/65_jpg.rf.eb485786985d41ee0d517a508df5b3ac.jpg,변경 없음
+train/_annotations.csv,labels/train/65_jpg.rf.eb485786985d41ee0d517a508df5b3ac.txt,CSV 행을 YOLO txt로 변환
+train/66_jpg.rf.d7b48b529f799bf94ae07d983f43214c.jpg,images/train/66_jpg.rf.d7b48b529f799bf94ae07d983f43214c.jpg,변경 없음
+train/_annotations.csv,labels/train/66_jpg.rf.d7b48b529f799bf94ae07d983f43214c.txt,CSV 행을 YOLO txt로 변환
+train/6_jpg.rf.26f1e269c5344f94127dc628403047dd.jpg,images/train/6_jpg.rf.26f1e269c5344f94127dc628403047dd.jpg,변경 없음
+train/_annotations.csv,labels/train/6_jpg.rf.26f1e269c5344f94127dc628403047dd.txt,CSV 행을 YOLO txt로 변환
+train/70_jpg.rf.a121ac56e4badd82b477c1a2231ed246.jpg,images/train/70_jpg.rf.a121ac56e4badd82b477c1a2231ed246.jpg,변경 없음
+train/_annotations.csv,labels/train/70_jpg.rf.a121ac56e4badd82b477c1a2231ed246.txt,CSV 행을 YOLO txt로 변환
+train/74_jpg.rf.4591c5e06991d78b9b4e87a01b38b6e4.jpg,images/train/74_jpg.rf.4591c5e06991d78b9b4e87a01b38b6e4.jpg,변경 없음
+train/_annotations.csv,labels/train/74_jpg.rf.4591c5e06991d78b9b4e87a01b38b6e4.txt,CSV 행을 YOLO txt로 변환
+train/76_jpg.rf.2680abc17bc3c4a11ded767b4c7abb52.jpg,images/train/76_jpg.rf.2680abc17bc3c4a11ded767b4c7abb52.jpg,변경 없음
+train/_annotations.csv,labels/train/76_jpg.rf.2680abc17bc3c4a11ded767b4c7abb52.txt,CSV 행을 YOLO txt로 변환
+train/7_jpg.rf.adbe070aaa8dfcca7e700d01d9bec110.jpg,images/train/7_jpg.rf.adbe070aaa8dfcca7e700d01d9bec110.jpg,변경 없음
+train/_annotations.csv,labels/train/7_jpg.rf.adbe070aaa8dfcca7e700d01d9bec110.txt,CSV 행을 YOLO txt로 변환
+train/81_jpg.rf.a3bbda869c2138e4690fd20b56805c1b.jpg,images/train/81_jpg.rf.a3bbda869c2138e4690fd20b56805c1b.jpg,변경 없음
+train/_annotations.csv,labels/train/81_jpg.rf.a3bbda869c2138e4690fd20b56805c1b.txt,CSV 행을 YOLO txt로 변환
+train/82_jpg.rf.9995ad9e9107312a57b6abc786c47a0a.jpg,images/train/82_jpg.rf.9995ad9e9107312a57b6abc786c47a0a.jpg,변경 없음
+train/_annotations.csv,labels/train/82_jpg.rf.9995ad9e9107312a57b6abc786c47a0a.txt,CSV 행을 YOLO txt로 변환
+train/83_jpg.rf.eac4052a78be4f1ca4299f84e6ce61ce.jpg,images/train/83_jpg.rf.eac4052a78be4f1ca4299f84e6ce61ce.jpg,변경 없음
+train/_annotations.csv,labels/train/83_jpg.rf.eac4052a78be4f1ca4299f84e6ce61ce.txt,CSV 행을 YOLO txt로 변환
+train/84_jpg.rf.fd2e44ac1a2d1832fb0619fb5b68180e.jpg,images/train/84_jpg.rf.fd2e44ac1a2d1832fb0619fb5b68180e.jpg,변경 없음
+train/_annotations.csv,labels/train/84_jpg.rf.fd2e44ac1a2d1832fb0619fb5b68180e.txt,CSV 행을 YOLO txt로 변환
+train/85_jpg.rf.1d92c6cc01295239af668fcdbbd5b9c6.jpg,images/train/85_jpg.rf.1d92c6cc01295239af668fcdbbd5b9c6.jpg,변경 없음
+train/_annotations.csv,labels/train/85_jpg.rf.1d92c6cc01295239af668fcdbbd5b9c6.txt,CSV 행을 YOLO txt로 변환
+train/86_jpg.rf.d2b163ee1e2bab699066e8979c08c175.jpg,images/train/86_jpg.rf.d2b163ee1e2bab699066e8979c08c175.jpg,변경 없음
+train/_annotations.csv,labels/train/86_jpg.rf.d2b163ee1e2bab699066e8979c08c175.txt,CSV 행을 YOLO txt로 변환
+train/88_jpg.rf.106444516ca4e8ab81f288438a35f345.jpg,images/train/88_jpg.rf.106444516ca4e8ab81f288438a35f345.jpg,변경 없음
+train/_annotations.csv,labels/train/88_jpg.rf.106444516ca4e8ab81f288438a35f345.txt,CSV 행을 YOLO txt로 변환
+train/89_jpg.rf.917755dd102f77fe6dc5f566752da2e7.jpg,images/train/89_jpg.rf.917755dd102f77fe6dc5f566752da2e7.jpg,변경 없음
+train/_annotations.csv,labels/train/89_jpg.rf.917755dd102f77fe6dc5f566752da2e7.txt,CSV 행을 YOLO txt로 변환
+train/8_jpg.rf.e50b24642663ff7a36b45519c0db543f.jpg,images/train/8_jpg.rf.e50b24642663ff7a36b45519c0db543f.jpg,변경 없음
+train/_annotations.csv,labels/train/8_jpg.rf.e50b24642663ff7a36b45519c0db543f.txt,CSV 행을 YOLO txt로 변환
+train/90_jpg.rf.ce38c537b9cd782a668016d4ce796f5f.jpg,images/train/90_jpg.rf.ce38c537b9cd782a668016d4ce796f5f.jpg,변경 없음
+train/_annotations.csv,labels/train/90_jpg.rf.ce38c537b9cd782a668016d4ce796f5f.txt,CSV 행을 YOLO txt로 변환
+train/91_jpg.rf.b776c6202b5a345bdb047c160b6d389c.jpg,images/train/91_jpg.rf.b776c6202b5a345bdb047c160b6d389c.jpg,변경 없음
+train/_annotations.csv,labels/train/91_jpg.rf.b776c6202b5a345bdb047c160b6d389c.txt,CSV 행을 YOLO txt로 변환
+train/92_jpg.rf.c8944935d31d6e13a95d9e782fc6b0aa.jpg,images/train/92_jpg.rf.c8944935d31d6e13a95d9e782fc6b0aa.jpg,변경 없음
+train/_annotations.csv,labels/train/92_jpg.rf.c8944935d31d6e13a95d9e782fc6b0aa.txt,CSV 행을 YOLO txt로 변환
+train/93_jpg.rf.49c50cda48d9f17994050d07f5a00b94.jpg,images/train/93_jpg.rf.49c50cda48d9f17994050d07f5a00b94.jpg,변경 없음
+train/_annotations.csv,labels/train/93_jpg.rf.49c50cda48d9f17994050d07f5a00b94.txt,CSV 행을 YOLO txt로 변환
+train/94_jpg.rf.ffbbe684e1b56c3ea7f8d454e8bcc5a4.jpg,images/train/94_jpg.rf.ffbbe684e1b56c3ea7f8d454e8bcc5a4.jpg,변경 없음
+train/_annotations.csv,labels/train/94_jpg.rf.ffbbe684e1b56c3ea7f8d454e8bcc5a4.txt,CSV 행을 YOLO txt로 변환
+train/95_jpg.rf.4decf80b4b3d986e8f3fc9b492433d79.jpg,images/train/95_jpg.rf.4decf80b4b3d986e8f3fc9b492433d79.jpg,변경 없음
+train/_annotations.csv,labels/train/95_jpg.rf.4decf80b4b3d986e8f3fc9b492433d79.txt,CSV 행을 YOLO txt로 변환
+train/96_jpg.rf.f88fa6aecc8f4d6eda496e4acb2c9864.jpg,images/train/96_jpg.rf.f88fa6aecc8f4d6eda496e4acb2c9864.jpg,변경 없음
+train/_annotations.csv,labels/train/96_jpg.rf.f88fa6aecc8f4d6eda496e4acb2c9864.txt,CSV 행을 YOLO txt로 변환
+train/97_jpg.rf.ad1f21bff6e20243eddab1aa34af91d8.jpg,images/train/97_jpg.rf.ad1f21bff6e20243eddab1aa34af91d8.jpg,변경 없음
+train/_annotations.csv,labels/train/97_jpg.rf.ad1f21bff6e20243eddab1aa34af91d8.txt,CSV 행을 YOLO txt로 변환
+train/98_jpg.rf.5a7c5cdd5ba943500d9fddfa111c2e62.jpg,images/train/98_jpg.rf.5a7c5cdd5ba943500d9fddfa111c2e62.jpg,변경 없음
+train/_annotations.csv,labels/train/98_jpg.rf.5a7c5cdd5ba943500d9fddfa111c2e62.txt,CSV 행을 YOLO txt로 변환
+train/99_jpg.rf.cfb7ee5d75152b80f349b2b96390a273.jpg,images/train/99_jpg.rf.cfb7ee5d75152b80f349b2b96390a273.jpg,변경 없음
+train/_annotations.csv,labels/train/99_jpg.rf.cfb7ee5d75152b80f349b2b96390a273.txt,CSV 행을 YOLO txt로 변환
+train/9_jpg.rf.52e19b344044185cbddae947813a3a65.jpg,images/train/9_jpg.rf.52e19b344044185cbddae947813a3a65.jpg,변경 없음
+train/_annotations.csv,labels/train/9_jpg.rf.52e19b344044185cbddae947813a3a65.txt,CSV 행을 YOLO txt로 변환
+train/a--1-_jpg.rf.b3525a73e8fa8ebbb786424d09a0bed1.jpg,images/train/a--1-_jpg.rf.b3525a73e8fa8ebbb786424d09a0bed1.jpg,변경 없음
+train/_annotations.csv,labels/train/a--1-_jpg.rf.b3525a73e8fa8ebbb786424d09a0bed1.txt,CSV 행을 YOLO txt로 변환
+train/a--10-_jpg.rf.0a6f03e0d7d891e8f5a07f5fe9dbe4a3.jpg,images/train/a--10-_jpg.rf.0a6f03e0d7d891e8f5a07f5fe9dbe4a3.jpg,변경 없음
+train/_annotations.csv,labels/train/a--10-_jpg.rf.0a6f03e0d7d891e8f5a07f5fe9dbe4a3.txt,CSV 행을 YOLO txt로 변환
+train/a--100-_jpg.rf.77ca389cf7e6997bcae4d1bc8c86044a.jpg,images/train/a--100-_jpg.rf.77ca389cf7e6997bcae4d1bc8c86044a.jpg,변경 없음
+train/_annotations.csv,labels/train/a--100-_jpg.rf.77ca389cf7e6997bcae4d1bc8c86044a.txt,CSV 행을 YOLO txt로 변환
+train/a--11-_jpg.rf.672ab86e55691daf976c95b4b7409607.jpg,images/train/a--11-_jpg.rf.672ab86e55691daf976c95b4b7409607.jpg,변경 없음
+train/_annotations.csv,labels/train/a--11-_jpg.rf.672ab86e55691daf976c95b4b7409607.txt,CSV 행을 YOLO txt로 변환
+train/a--12-_jpg.rf.9432ddc24a4ab01422b86c9da294de43.jpg,images/train/a--12-_jpg.rf.9432ddc24a4ab01422b86c9da294de43.jpg,변경 없음
+train/_annotations.csv,labels/train/a--12-_jpg.rf.9432ddc24a4ab01422b86c9da294de43.txt,CSV 행을 YOLO txt로 변환
+train/a--13-_jpg.rf.39ec13d746ec11f97f926c5cce408e76.jpg,images/train/a--13-_jpg.rf.39ec13d746ec11f97f926c5cce408e76.jpg,변경 없음
+train/_annotations.csv,labels/train/a--13-_jpg.rf.39ec13d746ec11f97f926c5cce408e76.txt,CSV 행을 YOLO txt로 변환
+train/a--14-_jpg.rf.0a5bc8e7514576e939bf93da55b3bfef.jpg,images/train/a--14-_jpg.rf.0a5bc8e7514576e939bf93da55b3bfef.jpg,변경 없음
+train/_annotations.csv,labels/train/a--14-_jpg.rf.0a5bc8e7514576e939bf93da55b3bfef.txt,CSV 행을 YOLO txt로 변환
+train/a--15-_jpg.rf.9fb9e1c53e5f9a2e66b52c6f3c94e5f6.jpg,images/train/a--15-_jpg.rf.9fb9e1c53e5f9a2e66b52c6f3c94e5f6.jpg,변경 없음
+train/_annotations.csv,labels/train/a--15-_jpg.rf.9fb9e1c53e5f9a2e66b52c6f3c94e5f6.txt,CSV 행을 YOLO txt로 변환
+train/a--16-_jpg.rf.cf1b19afe733ad9f631a59b0f6718396.jpg,images/train/a--16-_jpg.rf.cf1b19afe733ad9f631a59b0f6718396.jpg,변경 없음
+train/_annotations.csv,labels/train/a--16-_jpg.rf.cf1b19afe733ad9f631a59b0f6718396.txt,CSV 행을 YOLO txt로 변환
+train/a--17-_jpg.rf.bf6545c62fc128a3e16d7c436c204fe6.jpg,images/train/a--17-_jpg.rf.bf6545c62fc128a3e16d7c436c204fe6.jpg,변경 없음
+train/_annotations.csv,labels/train/a--17-_jpg.rf.bf6545c62fc128a3e16d7c436c204fe6.txt,CSV 행을 YOLO txt로 변환
+train/a--18-_jpg.rf.2526ff74d82a17da8ae1aac04a5f68aa.jpg,images/train/a--18-_jpg.rf.2526ff74d82a17da8ae1aac04a5f68aa.jpg,변경 없음
+train/_annotations.csv,labels/train/a--18-_jpg.rf.2526ff74d82a17da8ae1aac04a5f68aa.txt,CSV 행을 YOLO txt로 변환
+train/a--19-_jpg.rf.dc2b4bc0a1d6096c55e5dd71429a4d33.jpg,images/train/a--19-_jpg.rf.dc2b4bc0a1d6096c55e5dd71429a4d33.jpg,변경 없음
+train/_annotations.csv,labels/train/a--19-_jpg.rf.dc2b4bc0a1d6096c55e5dd71429a4d33.txt,CSV 행을 YOLO txt로 변환
+train/a--2-_jpg.rf.7999ccfff2700d665fa33b4f020235e7.jpg,images/train/a--2-_jpg.rf.7999ccfff2700d665fa33b4f020235e7.jpg,변경 없음
+train/_annotations.csv,labels/train/a--2-_jpg.rf.7999ccfff2700d665fa33b4f020235e7.txt,CSV 행을 YOLO txt로 변환
+train/a--20-_jpg.rf.524331143dc5e8357a7818ad0bbc7dca.jpg,images/train/a--20-_jpg.rf.524331143dc5e8357a7818ad0bbc7dca.jpg,변경 없음
+train/_annotations.csv,labels/train/a--20-_jpg.rf.524331143dc5e8357a7818ad0bbc7dca.txt,CSV 행을 YOLO txt로 변환
+train/a--21-_jpg.rf.ac6ee4a44b6e80e79cc48b945e5dec94.jpg,images/train/a--21-_jpg.rf.ac6ee4a44b6e80e79cc48b945e5dec94.jpg,변경 없음
+train/_annotations.csv,labels/train/a--21-_jpg.rf.ac6ee4a44b6e80e79cc48b945e5dec94.txt,CSV 행을 YOLO txt로 변환
+train/a--22-_jpg.rf.9c1c9c38ed007cd69da39213b5959d73.jpg,images/train/a--22-_jpg.rf.9c1c9c38ed007cd69da39213b5959d73.jpg,변경 없음
+train/_annotations.csv,labels/train/a--22-_jpg.rf.9c1c9c38ed007cd69da39213b5959d73.txt,CSV 행을 YOLO txt로 변환
+train/a--24-_jpg.rf.775617ff45ac57af20f0bc0b9e560b8e.jpg,images/train/a--24-_jpg.rf.775617ff45ac57af20f0bc0b9e560b8e.jpg,변경 없음
+train/_annotations.csv,labels/train/a--24-_jpg.rf.775617ff45ac57af20f0bc0b9e560b8e.txt,CSV 행을 YOLO txt로 변환
+train/a--25-_jpg.rf.dd3518f75d24ded551534aee4b0a81af.jpg,images/train/a--25-_jpg.rf.dd3518f75d24ded551534aee4b0a81af.jpg,변경 없음
+train/_annotations.csv,labels/train/a--25-_jpg.rf.dd3518f75d24ded551534aee4b0a81af.txt,CSV 행을 YOLO txt로 변환
+train/a--28-_jpg.rf.91ac70a061fd24ea8603b6542fad4703.jpg,images/train/a--28-_jpg.rf.91ac70a061fd24ea8603b6542fad4703.jpg,변경 없음
+train/_annotations.csv,labels/train/a--28-_jpg.rf.91ac70a061fd24ea8603b6542fad4703.txt,CSV 행을 YOLO txt로 변환
+train/a--29-_jpg.rf.57d3e6050b4065de097d2aa307136798.jpg,images/train/a--29-_jpg.rf.57d3e6050b4065de097d2aa307136798.jpg,변경 없음
+train/_annotations.csv,labels/train/a--29-_jpg.rf.57d3e6050b4065de097d2aa307136798.txt,CSV 행을 YOLO txt로 변환
+train/a--30-_jpg.rf.335c97ad0c072b6719ac71f1b491078d.jpg,images/train/a--30-_jpg.rf.335c97ad0c072b6719ac71f1b491078d.jpg,변경 없음
+train/_annotations.csv,labels/train/a--30-_jpg.rf.335c97ad0c072b6719ac71f1b491078d.txt,CSV 행을 YOLO txt로 변환
+train/a--31-_jpg.rf.ead71c8889c5654fdeccfd30b136e776.jpg,images/train/a--31-_jpg.rf.ead71c8889c5654fdeccfd30b136e776.jpg,변경 없음
+train/_annotations.csv,labels/train/a--31-_jpg.rf.ead71c8889c5654fdeccfd30b136e776.txt,CSV 행을 YOLO txt로 변환
+train/a--32-_jpg.rf.f7a6bf6256f4a4bc417a23dd47536c7f.jpg,images/train/a--32-_jpg.rf.f7a6bf6256f4a4bc417a23dd47536c7f.jpg,변경 없음
+train/_annotations.csv,labels/train/a--32-_jpg.rf.f7a6bf6256f4a4bc417a23dd47536c7f.txt,CSV 행을 YOLO txt로 변환
+train/a--33-_jpg.rf.bbdfdee1f8798a732c97f43683f708bf.jpg,images/train/a--33-_jpg.rf.bbdfdee1f8798a732c97f43683f708bf.jpg,변경 없음
+train/_annotations.csv,labels/train/a--33-_jpg.rf.bbdfdee1f8798a732c97f43683f708bf.txt,CSV 행을 YOLO txt로 변환
+train/a--34-_jpg.rf.bf6d1882bc69532af93573ca1872875c.jpg,images/train/a--34-_jpg.rf.bf6d1882bc69532af93573ca1872875c.jpg,변경 없음
+train/_annotations.csv,labels/train/a--34-_jpg.rf.bf6d1882bc69532af93573ca1872875c.txt,CSV 행을 YOLO txt로 변환
+train/a--35-_jpg.rf.09812db644f1d58e6ab7f66bc3621c18.jpg,images/train/a--35-_jpg.rf.09812db644f1d58e6ab7f66bc3621c18.jpg,변경 없음
+train/_annotations.csv,labels/train/a--35-_jpg.rf.09812db644f1d58e6ab7f66bc3621c18.txt,CSV 행을 YOLO txt로 변환
+train/a--36-_jpg.rf.a9634bddca4b0ed3a56e56088fe71ed3.jpg,images/train/a--36-_jpg.rf.a9634bddca4b0ed3a56e56088fe71ed3.jpg,변경 없음
+train/_annotations.csv,labels/train/a--36-_jpg.rf.a9634bddca4b0ed3a56e56088fe71ed3.txt,CSV 행을 YOLO txt로 변환
+train/a--37-_jpg.rf.1b3724d1aa47a2f2d55701ec06578d54.jpg,images/train/a--37-_jpg.rf.1b3724d1aa47a2f2d55701ec06578d54.jpg,변경 없음
+train/_annotations.csv,labels/train/a--37-_jpg.rf.1b3724d1aa47a2f2d55701ec06578d54.txt,CSV 행을 YOLO txt로 변환
+train/a--38-_jpg.rf.6283c2b3613d03b3aa04f252f2424699.jpg,images/train/a--38-_jpg.rf.6283c2b3613d03b3aa04f252f2424699.jpg,변경 없음
+train/_annotations.csv,labels/train/a--38-_jpg.rf.6283c2b3613d03b3aa04f252f2424699.txt,CSV 행을 YOLO txt로 변환
+train/a--39-_jpg.rf.1830403f645eb43b98a20f74342afc91.jpg,images/train/a--39-_jpg.rf.1830403f645eb43b98a20f74342afc91.jpg,변경 없음
+train/_annotations.csv,labels/train/a--39-_jpg.rf.1830403f645eb43b98a20f74342afc91.txt,CSV 행을 YOLO txt로 변환
+train/a--40-_jpg.rf.3bedba0fe24e80c773ac8e1afd694415.jpg,images/train/a--40-_jpg.rf.3bedba0fe24e80c773ac8e1afd694415.jpg,변경 없음
+train/_annotations.csv,labels/train/a--40-_jpg.rf.3bedba0fe24e80c773ac8e1afd694415.txt,CSV 행을 YOLO txt로 변환
+train/a--41-_jpg.rf.aec0bc88c8b85824f19d52644ea19b70.jpg,images/train/a--41-_jpg.rf.aec0bc88c8b85824f19d52644ea19b70.jpg,변경 없음
+train/_annotations.csv,labels/train/a--41-_jpg.rf.aec0bc88c8b85824f19d52644ea19b70.txt,CSV 행을 YOLO txt로 변환
+train/a--42-_jpg.rf.bb9d9d84fe768634cbff7ef77c565e79.jpg,images/train/a--42-_jpg.rf.bb9d9d84fe768634cbff7ef77c565e79.jpg,변경 없음
+train/_annotations.csv,labels/train/a--42-_jpg.rf.bb9d9d84fe768634cbff7ef77c565e79.txt,CSV 행을 YOLO txt로 변환
+train/a--45-_jpg.rf.94e0a9d76aa2cecbf99b164b95c046b0.jpg,images/train/a--45-_jpg.rf.94e0a9d76aa2cecbf99b164b95c046b0.jpg,변경 없음
+train/_annotations.csv,labels/train/a--45-_jpg.rf.94e0a9d76aa2cecbf99b164b95c046b0.txt,CSV 행을 YOLO txt로 변환
+train/a--48-_jpg.rf.f43da07396f4e7fc8ccffbbeae81ade8.jpg,images/train/a--48-_jpg.rf.f43da07396f4e7fc8ccffbbeae81ade8.jpg,변경 없음
+train/_annotations.csv,labels/train/a--48-_jpg.rf.f43da07396f4e7fc8ccffbbeae81ade8.txt,CSV 행을 YOLO txt로 변환
+train/a--49-_jpg.rf.df809c2e8c71d68a8ccddc9059d6a959.jpg,images/train/a--49-_jpg.rf.df809c2e8c71d68a8ccddc9059d6a959.jpg,변경 없음
+train/_annotations.csv,labels/train/a--49-_jpg.rf.df809c2e8c71d68a8ccddc9059d6a959.txt,CSV 행을 YOLO txt로 변환
+train/a--50-_jpg.rf.72f40ab4929c6717400184800bcbe9cf.jpg,images/train/a--50-_jpg.rf.72f40ab4929c6717400184800bcbe9cf.jpg,변경 없음
+train/_annotations.csv,labels/train/a--50-_jpg.rf.72f40ab4929c6717400184800bcbe9cf.txt,CSV 행을 YOLO txt로 변환
+train/a--51-_jpg.rf.7e129b35177308bd618a9d868e56b278.jpg,images/train/a--51-_jpg.rf.7e129b35177308bd618a9d868e56b278.jpg,변경 없음
+train/_annotations.csv,labels/train/a--51-_jpg.rf.7e129b35177308bd618a9d868e56b278.txt,CSV 행을 YOLO txt로 변환
+train/a--52-_jpg.rf.dc6cadcc1ba6d2bd3a3e3a42e9ad1a91.jpg,images/train/a--52-_jpg.rf.dc6cadcc1ba6d2bd3a3e3a42e9ad1a91.jpg,변경 없음
+train/_annotations.csv,labels/train/a--52-_jpg.rf.dc6cadcc1ba6d2bd3a3e3a42e9ad1a91.txt,CSV 행을 YOLO txt로 변환
+train/a--53-_jpg.rf.fd6f549a29aaf2b433c8e58449fbf5de.jpg,images/train/a--53-_jpg.rf.fd6f549a29aaf2b433c8e58449fbf5de.jpg,변경 없음
+train/_annotations.csv,labels/train/a--53-_jpg.rf.fd6f549a29aaf2b433c8e58449fbf5de.txt,CSV 행을 YOLO txt로 변환
+train/a--55-_jpg.rf.3c058b51e50338fb83e15981f5cfe3a2.jpg,images/train/a--55-_jpg.rf.3c058b51e50338fb83e15981f5cfe3a2.jpg,변경 없음
+train/_annotations.csv,labels/train/a--55-_jpg.rf.3c058b51e50338fb83e15981f5cfe3a2.txt,CSV 행을 YOLO txt로 변환
+train/a--57-_jpg.rf.b4c5513821106bc7e676e0cc1767583f.jpg,images/train/a--57-_jpg.rf.b4c5513821106bc7e676e0cc1767583f.jpg,변경 없음
+train/_annotations.csv,labels/train/a--57-_jpg.rf.b4c5513821106bc7e676e0cc1767583f.txt,CSV 행을 YOLO txt로 변환
+train/a--58-_jpg.rf.aa15051a53d7a3e26a9d8945be3060f2.jpg,images/train/a--58-_jpg.rf.aa15051a53d7a3e26a9d8945be3060f2.jpg,변경 없음
+train/_annotations.csv,labels/train/a--58-_jpg.rf.aa15051a53d7a3e26a9d8945be3060f2.txt,CSV 행을 YOLO txt로 변환
+train/a--59-_jpg.rf.628117e1985511adc276edb05cf6517f.jpg,images/train/a--59-_jpg.rf.628117e1985511adc276edb05cf6517f.jpg,변경 없음
+train/_annotations.csv,labels/train/a--59-_jpg.rf.628117e1985511adc276edb05cf6517f.txt,CSV 행을 YOLO txt로 변환
+train/a--6-_jpg.rf.2dc4d5f367cf36404e02f3b1f95ced60.jpg,images/train/a--6-_jpg.rf.2dc4d5f367cf36404e02f3b1f95ced60.jpg,변경 없음
+train/_annotations.csv,labels/train/a--6-_jpg.rf.2dc4d5f367cf36404e02f3b1f95ced60.txt,CSV 행을 YOLO txt로 변환
+train/a--60-_jpg.rf.52c2f8d852e491c93dd1c3b132e056f1.jpg,images/train/a--60-_jpg.rf.52c2f8d852e491c93dd1c3b132e056f1.jpg,변경 없음
+train/_annotations.csv,labels/train/a--60-_jpg.rf.52c2f8d852e491c93dd1c3b132e056f1.txt,CSV 행을 YOLO txt로 변환
+train/a--62-_jpg.rf.ac456ec464fe187810b1f9d2b0e1cffb.jpg,images/train/a--62-_jpg.rf.ac456ec464fe187810b1f9d2b0e1cffb.jpg,변경 없음
+train/_annotations.csv,labels/train/a--62-_jpg.rf.ac456ec464fe187810b1f9d2b0e1cffb.txt,CSV 행을 YOLO txt로 변환
+train/a--63-_jpg.rf.c4f483904f14ce7bf174f164d0af58a5.jpg,images/train/a--63-_jpg.rf.c4f483904f14ce7bf174f164d0af58a5.jpg,변경 없음
+train/_annotations.csv,labels/train/a--63-_jpg.rf.c4f483904f14ce7bf174f164d0af58a5.txt,CSV 행을 YOLO txt로 변환
+train/a--64-_jpg.rf.795308943bf5527c15d98cd657fbc407.jpg,images/train/a--64-_jpg.rf.795308943bf5527c15d98cd657fbc407.jpg,변경 없음
+train/_annotations.csv,labels/train/a--64-_jpg.rf.795308943bf5527c15d98cd657fbc407.txt,CSV 행을 YOLO txt로 변환
+train/a--65-_jpg.rf.908478b663706716eba40ee829dc8614.jpg,images/train/a--65-_jpg.rf.908478b663706716eba40ee829dc8614.jpg,변경 없음
+train/_annotations.csv,labels/train/a--65-_jpg.rf.908478b663706716eba40ee829dc8614.txt,CSV 행을 YOLO txt로 변환
+train/a--68-_jpg.rf.9b97d436283cb1e928fbdd7c8efb1377.jpg,images/train/a--68-_jpg.rf.9b97d436283cb1e928fbdd7c8efb1377.jpg,변경 없음
+train/_annotations.csv,labels/train/a--68-_jpg.rf.9b97d436283cb1e928fbdd7c8efb1377.txt,CSV 행을 YOLO txt로 변환
+train/a--69-_jpg.rf.83a59ec8aba194c5e90237eec3e0be07.jpg,images/train/a--69-_jpg.rf.83a59ec8aba194c5e90237eec3e0be07.jpg,변경 없음
+train/_annotations.csv,labels/train/a--69-_jpg.rf.83a59ec8aba194c5e90237eec3e0be07.txt,CSV 행을 YOLO txt로 변환
+train/a--70-_jpg.rf.d1b5f63432eab4ea3a47f0d4b35ae17a.jpg,images/train/a--70-_jpg.rf.d1b5f63432eab4ea3a47f0d4b35ae17a.jpg,변경 없음
+train/_annotations.csv,labels/train/a--70-_jpg.rf.d1b5f63432eab4ea3a47f0d4b35ae17a.txt,CSV 행을 YOLO txt로 변환
+train/a--71-_jpg.rf.9929ec1667fad9e79d78994797684b2f.jpg,images/train/a--71-_jpg.rf.9929ec1667fad9e79d78994797684b2f.jpg,변경 없음
+train/_annotations.csv,labels/train/a--71-_jpg.rf.9929ec1667fad9e79d78994797684b2f.txt,CSV 행을 YOLO txt로 변환
+train/a--72-_jpg.rf.366957f4ce5e6ee91c419141b40717ea.jpg,images/train/a--72-_jpg.rf.366957f4ce5e6ee91c419141b40717ea.jpg,변경 없음
+train/_annotations.csv,labels/train/a--72-_jpg.rf.366957f4ce5e6ee91c419141b40717ea.txt,CSV 행을 YOLO txt로 변환
+train/a--73-_jpg.rf.5b88617a130c590705757e24b7ebb939.jpg,images/train/a--73-_jpg.rf.5b88617a130c590705757e24b7ebb939.jpg,변경 없음
+train/_annotations.csv,labels/train/a--73-_jpg.rf.5b88617a130c590705757e24b7ebb939.txt,CSV 행을 YOLO txt로 변환
+train/a--76-_jpg.rf.14e25c8582e7eebdbeea5a048c8995e9.jpg,images/train/a--76-_jpg.rf.14e25c8582e7eebdbeea5a048c8995e9.jpg,변경 없음
+train/_annotations.csv,labels/train/a--76-_jpg.rf.14e25c8582e7eebdbeea5a048c8995e9.txt,CSV 행을 YOLO txt로 변환
+train/a--77-_jpg.rf.44e4de8feea301e0f273c107deb08050.jpg,images/train/a--77-_jpg.rf.44e4de8feea301e0f273c107deb08050.jpg,변경 없음
+train/_annotations.csv,labels/train/a--77-_jpg.rf.44e4de8feea301e0f273c107deb08050.txt,CSV 행을 YOLO txt로 변환
+train/a--78-_jpg.rf.ded088160de7e20549b636720a625bd3.jpg,images/train/a--78-_jpg.rf.ded088160de7e20549b636720a625bd3.jpg,변경 없음
+train/_annotations.csv,labels/train/a--78-_jpg.rf.ded088160de7e20549b636720a625bd3.txt,CSV 행을 YOLO txt로 변환
+train/a--80-_jpg.rf.388b9757b423e9acd6ed3d332188adc2.jpg,images/train/a--80-_jpg.rf.388b9757b423e9acd6ed3d332188adc2.jpg,변경 없음
+train/_annotations.csv,labels/train/a--80-_jpg.rf.388b9757b423e9acd6ed3d332188adc2.txt,CSV 행을 YOLO txt로 변환
+train/a--81-_jpg.rf.2741d9b9c380afcd2156240db5c84cb4.jpg,images/train/a--81-_jpg.rf.2741d9b9c380afcd2156240db5c84cb4.jpg,변경 없음
+train/_annotations.csv,labels/train/a--81-_jpg.rf.2741d9b9c380afcd2156240db5c84cb4.txt,CSV 행을 YOLO txt로 변환
+train/a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71.jpg,images/train/a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71.jpg,변경 없음
+train/_annotations.csv,labels/train/a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71.txt,CSV 행을 YOLO txt로 변환
+train/a--86-_jpg.rf.6e77f7993005c7ecf68752a954550a66.jpg,images/train/a--86-_jpg.rf.6e77f7993005c7ecf68752a954550a66.jpg,변경 없음
+train/_annotations.csv,labels/train/a--86-_jpg.rf.6e77f7993005c7ecf68752a954550a66.txt,CSV 행을 YOLO txt로 변환
+train/a--87-_jpg.rf.e99dd21bd33d8f9c6b36c8d8b908f5f8.jpg,images/train/a--87-_jpg.rf.e99dd21bd33d8f9c6b36c8d8b908f5f8.jpg,변경 없음
+train/_annotations.csv,labels/train/a--87-_jpg.rf.e99dd21bd33d8f9c6b36c8d8b908f5f8.txt,CSV 행을 YOLO txt로 변환
+train/a--88-_jpg.rf.d489f10154a09d0c9b5807844212306f.jpg,images/train/a--88-_jpg.rf.d489f10154a09d0c9b5807844212306f.jpg,변경 없음
+train/_annotations.csv,labels/train/a--88-_jpg.rf.d489f10154a09d0c9b5807844212306f.txt,CSV 행을 YOLO txt로 변환
+train/a--89-_jpg.rf.9fe5a32ab2451db00c4a9493314981c8.jpg,images/train/a--89-_jpg.rf.9fe5a32ab2451db00c4a9493314981c8.jpg,변경 없음
+train/_annotations.csv,labels/train/a--89-_jpg.rf.9fe5a32ab2451db00c4a9493314981c8.txt,CSV 행을 YOLO txt로 변환
+train/a--9-_jpg.rf.21269c8afa43c46b213c4b3e204a17cd.jpg,images/train/a--9-_jpg.rf.21269c8afa43c46b213c4b3e204a17cd.jpg,변경 없음
+train/_annotations.csv,labels/train/a--9-_jpg.rf.21269c8afa43c46b213c4b3e204a17cd.txt,CSV 행을 YOLO txt로 변환
+train/a--90-_jpg.rf.41def70935810ec2fe21046aa215f63f.jpg,images/train/a--90-_jpg.rf.41def70935810ec2fe21046aa215f63f.jpg,변경 없음
+train/_annotations.csv,labels/train/a--90-_jpg.rf.41def70935810ec2fe21046aa215f63f.txt,CSV 행을 YOLO txt로 변환
+train/a--91-_jpg.rf.ebe61a8ded93cff4279fff9b0da3cdbb.jpg,images/train/a--91-_jpg.rf.ebe61a8ded93cff4279fff9b0da3cdbb.jpg,변경 없음
+train/_annotations.csv,labels/train/a--91-_jpg.rf.ebe61a8ded93cff4279fff9b0da3cdbb.txt,CSV 행을 YOLO txt로 변환
+train/a--92-_jpg.rf.eb49fbf2366da6a6bd0a0d143a8a2990.jpg,images/train/a--92-_jpg.rf.eb49fbf2366da6a6bd0a0d143a8a2990.jpg,변경 없음
+train/_annotations.csv,labels/train/a--92-_jpg.rf.eb49fbf2366da6a6bd0a0d143a8a2990.txt,CSV 행을 YOLO txt로 변환
+train/a--94-_jpg.rf.6c185537b45fb3531ff576c96b2e2706.jpg,images/train/a--94-_jpg.rf.6c185537b45fb3531ff576c96b2e2706.jpg,변경 없음
+train/_annotations.csv,labels/train/a--94-_jpg.rf.6c185537b45fb3531ff576c96b2e2706.txt,CSV 행을 YOLO txt로 변환
+train/a--95-_jpg.rf.6640d5cc3241615d51831e308f0da4db.jpg,images/train/a--95-_jpg.rf.6640d5cc3241615d51831e308f0da4db.jpg,변경 없음
+train/_annotations.csv,labels/train/a--95-_jpg.rf.6640d5cc3241615d51831e308f0da4db.txt,CSV 행을 YOLO txt로 변환
+train/a--96-_jpg.rf.8395670294171d6f55dd7890d1ec1513.jpg,images/train/a--96-_jpg.rf.8395670294171d6f55dd7890d1ec1513.jpg,변경 없음
+train/_annotations.csv,labels/train/a--96-_jpg.rf.8395670294171d6f55dd7890d1ec1513.txt,CSV 행을 YOLO txt로 변환
+train/a--97-_jpg.rf.14625a7505de2eb1f2b4daa5972f1eda.jpg,images/train/a--97-_jpg.rf.14625a7505de2eb1f2b4daa5972f1eda.jpg,변경 없음
+train/_annotations.csv,labels/train/a--97-_jpg.rf.14625a7505de2eb1f2b4daa5972f1eda.txt,CSV 행을 YOLO txt로 변환
+train/a--98-_jpg.rf.206f7474b62d37037ee4a4c84b8a0101.jpg,images/train/a--98-_jpg.rf.206f7474b62d37037ee4a4c84b8a0101.jpg,변경 없음
+train/_annotations.csv,labels/train/a--98-_jpg.rf.206f7474b62d37037ee4a4c84b8a0101.txt,CSV 행을 YOLO txt로 변환
+train/a--99-_jpg.rf.40611c720ca5050100a376ab551a14ad.jpg,images/train/a--99-_jpg.rf.40611c720ca5050100a376ab551a14ad.jpg,변경 없음
+train/_annotations.csv,labels/train/a--99-_jpg.rf.40611c720ca5050100a376ab551a14ad.txt,CSV 행을 YOLO txt로 변환
+train/b--120-_jpg.rf.67315626cc3a189a390d6220c5518fae.jpg,images/train/b--120-_jpg.rf.67315626cc3a189a390d6220c5518fae.jpg,변경 없음
+train/_annotations.csv,labels/train/b--120-_jpg.rf.67315626cc3a189a390d6220c5518fae.txt,CSV 행을 YOLO txt로 변환
+train/b--121-_jpg.rf.9b7ec1eb49781503b8f9d18430596d82.jpg,images/train/b--121-_jpg.rf.9b7ec1eb49781503b8f9d18430596d82.jpg,변경 없음
+train/_annotations.csv,labels/train/b--121-_jpg.rf.9b7ec1eb49781503b8f9d18430596d82.txt,CSV 행을 YOLO txt로 변환
+train/b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49.jpg,images/train/b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49.jpg,변경 없음
+train/_annotations.csv,labels/train/b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49.txt,CSV 행을 YOLO txt로 변환
+train/b--123-_jpg.rf.d3a609f21f6d0055528503f2aa8f4b24.jpg,images/train/b--123-_jpg.rf.d3a609f21f6d0055528503f2aa8f4b24.jpg,변경 없음
+train/_annotations.csv,labels/train/b--123-_jpg.rf.d3a609f21f6d0055528503f2aa8f4b24.txt,CSV 행을 YOLO txt로 변환
+train/b--125-_jpg.rf.2eeb0725f6b0cb2e767ac408cb4b9dfa.jpg,images/train/b--125-_jpg.rf.2eeb0725f6b0cb2e767ac408cb4b9dfa.jpg,변경 없음
+train/_annotations.csv,labels/train/b--125-_jpg.rf.2eeb0725f6b0cb2e767ac408cb4b9dfa.txt,CSV 행을 YOLO txt로 변환
+train/b--126-_jpg.rf.a446e66c7f491ac8d2c9a43faeadbe6f.jpg,images/train/b--126-_jpg.rf.a446e66c7f491ac8d2c9a43faeadbe6f.jpg,변경 없음
+train/_annotations.csv,labels/train/b--126-_jpg.rf.a446e66c7f491ac8d2c9a43faeadbe6f.txt,CSV 행을 YOLO txt로 변환
+train/b--127-_jpg.rf.5c00012ccfff176ea28f45f60c3d0925.jpg,images/train/b--127-_jpg.rf.5c00012ccfff176ea28f45f60c3d0925.jpg,변경 없음
+train/_annotations.csv,labels/train/b--127-_jpg.rf.5c00012ccfff176ea28f45f60c3d0925.txt,CSV 행을 YOLO txt로 변환
+train/b--128-_jpg.rf.9ac206b3472d29e48d9d4634eba81ac7.jpg,images/train/b--128-_jpg.rf.9ac206b3472d29e48d9d4634eba81ac7.jpg,변경 없음
+train/_annotations.csv,labels/train/b--128-_jpg.rf.9ac206b3472d29e48d9d4634eba81ac7.txt,CSV 행을 YOLO txt로 변환
+train/b--129-_jpg.rf.1fd9d8e4b8c058aa04b7033742dbe442.jpg,images/train/b--129-_jpg.rf.1fd9d8e4b8c058aa04b7033742dbe442.jpg,변경 없음
+train/_annotations.csv,labels/train/b--129-_jpg.rf.1fd9d8e4b8c058aa04b7033742dbe442.txt,CSV 행을 YOLO txt로 변환
+train/b--130-_jpg.rf.5f954c4f203894bd81541a6bad30c6d1.jpg,images/train/b--130-_jpg.rf.5f954c4f203894bd81541a6bad30c6d1.jpg,변경 없음
+train/_annotations.csv,labels/train/b--130-_jpg.rf.5f954c4f203894bd81541a6bad30c6d1.txt,CSV 행을 YOLO txt로 변환
+train/b--131-_jpg.rf.86c1fa7bbb09d96982e518a1d0611c4c.jpg,images/train/b--131-_jpg.rf.86c1fa7bbb09d96982e518a1d0611c4c.jpg,변경 없음
+train/_annotations.csv,labels/train/b--131-_jpg.rf.86c1fa7bbb09d96982e518a1d0611c4c.txt,CSV 행을 YOLO txt로 변환
+train/b--134-_jpg.rf.72e5671f17826d40df305ac0f8ea1bdc.jpg,images/train/b--134-_jpg.rf.72e5671f17826d40df305ac0f8ea1bdc.jpg,변경 없음
+train/_annotations.csv,labels/train/b--134-_jpg.rf.72e5671f17826d40df305ac0f8ea1bdc.txt,CSV 행을 YOLO txt로 변환
+train/b--135-_jpg.rf.19e51dfac87e4bc81d73ce025b335fb4.jpg,images/train/b--135-_jpg.rf.19e51dfac87e4bc81d73ce025b335fb4.jpg,변경 없음
+train/_annotations.csv,labels/train/b--135-_jpg.rf.19e51dfac87e4bc81d73ce025b335fb4.txt,CSV 행을 YOLO txt로 변환
+train/b--136-_jpg.rf.13dd6544eed16f3f0c9f8e40ecbb3be2.jpg,images/train/b--136-_jpg.rf.13dd6544eed16f3f0c9f8e40ecbb3be2.jpg,변경 없음
+train/_annotations.csv,labels/train/b--136-_jpg.rf.13dd6544eed16f3f0c9f8e40ecbb3be2.txt,CSV 행을 YOLO txt로 변환
+train/b--137-_jpg.rf.192f072336c833cd84798f1be25f5621.jpg,images/train/b--137-_jpg.rf.192f072336c833cd84798f1be25f5621.jpg,변경 없음
+train/_annotations.csv,labels/train/b--137-_jpg.rf.192f072336c833cd84798f1be25f5621.txt,CSV 행을 YOLO txt로 변환
+train/b--138-_jpg.rf.0534667d336e2ed73aefd0ff14b568f3.jpg,images/train/b--138-_jpg.rf.0534667d336e2ed73aefd0ff14b568f3.jpg,변경 없음
+train/_annotations.csv,labels/train/b--138-_jpg.rf.0534667d336e2ed73aefd0ff14b568f3.txt,CSV 행을 YOLO txt로 변환
+train/b--139-_jpg.rf.87fa9349d561d7db969bbdb92671cfe6.jpg,images/train/b--139-_jpg.rf.87fa9349d561d7db969bbdb92671cfe6.jpg,변경 없음
+train/_annotations.csv,labels/train/b--139-_jpg.rf.87fa9349d561d7db969bbdb92671cfe6.txt,CSV 행을 YOLO txt로 변환
+train/b--140-_jpg.rf.a90a49ef0707c7a3775bbd5557a444e3.jpg,images/train/b--140-_jpg.rf.a90a49ef0707c7a3775bbd5557a444e3.jpg,변경 없음
+train/_annotations.csv,labels/train/b--140-_jpg.rf.a90a49ef0707c7a3775bbd5557a444e3.txt,CSV 행을 YOLO txt로 변환
+train/b--141-_jpg.rf.a1d527df4639c50f44cc8febc25d2037.jpg,images/train/b--141-_jpg.rf.a1d527df4639c50f44cc8febc25d2037.jpg,변경 없음
+train/_annotations.csv,labels/train/b--141-_jpg.rf.a1d527df4639c50f44cc8febc25d2037.txt,CSV 행을 YOLO txt로 변환
+train/b--142-_jpg.rf.4e26ca8347f1e68dad636a90236eca42.jpg,images/train/b--142-_jpg.rf.4e26ca8347f1e68dad636a90236eca42.jpg,변경 없음
+train/_annotations.csv,labels/train/b--142-_jpg.rf.4e26ca8347f1e68dad636a90236eca42.txt,CSV 행을 YOLO txt로 변환
+train/b--144-_jpg.rf.cca8e5795c12ef6108916f7105cdb8aa.jpg,images/train/b--144-_jpg.rf.cca8e5795c12ef6108916f7105cdb8aa.jpg,변경 없음
+train/_annotations.csv,labels/train/b--144-_jpg.rf.cca8e5795c12ef6108916f7105cdb8aa.txt,CSV 행을 YOLO txt로 변환
+train/b--145-_jpg.rf.5b4a6d2e42cc3ae468848da63a39d164.jpg,images/train/b--145-_jpg.rf.5b4a6d2e42cc3ae468848da63a39d164.jpg,변경 없음
+train/_annotations.csv,labels/train/b--145-_jpg.rf.5b4a6d2e42cc3ae468848da63a39d164.txt,CSV 행을 YOLO txt로 변환
+train/b--146-_jpg.rf.172a81b57ae48c3619154c7ca094cc0f.jpg,images/train/b--146-_jpg.rf.172a81b57ae48c3619154c7ca094cc0f.jpg,변경 없음
+train/_annotations.csv,labels/train/b--146-_jpg.rf.172a81b57ae48c3619154c7ca094cc0f.txt,CSV 행을 YOLO txt로 변환
+train/b--149-_jpg.rf.ec35e059378cf452f23ae6d9960a07db.jpg,images/train/b--149-_jpg.rf.ec35e059378cf452f23ae6d9960a07db.jpg,변경 없음
+train/_annotations.csv,labels/train/b--149-_jpg.rf.ec35e059378cf452f23ae6d9960a07db.txt,CSV 행을 YOLO txt로 변환
+train/b--157-_jpg.rf.4389714b91f4e1f5bc0190573c508e86.jpg,images/train/b--157-_jpg.rf.4389714b91f4e1f5bc0190573c508e86.jpg,변경 없음
+train/_annotations.csv,labels/train/b--157-_jpg.rf.4389714b91f4e1f5bc0190573c508e86.txt,CSV 행을 YOLO txt로 변환
+train/b--160-_jpg.rf.c786324df8d31e960d4f75f7a49764d0.jpg,images/train/b--160-_jpg.rf.c786324df8d31e960d4f75f7a49764d0.jpg,변경 없음
+train/_annotations.csv,labels/train/b--160-_jpg.rf.c786324df8d31e960d4f75f7a49764d0.txt,CSV 행을 YOLO txt로 변환
+train/b--162-_jpg.rf.cb0b756d1b0a81dc57720be09582622d.jpg,images/train/b--162-_jpg.rf.cb0b756d1b0a81dc57720be09582622d.jpg,변경 없음
+train/_annotations.csv,labels/train/b--162-_jpg.rf.cb0b756d1b0a81dc57720be09582622d.txt,CSV 행을 YOLO txt로 변환
+train/b--163-_jpg.rf.7fd5b51b5318538a12cdc14b88effb50.jpg,images/train/b--163-_jpg.rf.7fd5b51b5318538a12cdc14b88effb50.jpg,변경 없음
+train/_annotations.csv,labels/train/b--163-_jpg.rf.7fd5b51b5318538a12cdc14b88effb50.txt,CSV 행을 YOLO txt로 변환
+train/b--164-_jpg.rf.4687ac77b86ddd487ba3b1c05ed66f39.jpg,images/train/b--164-_jpg.rf.4687ac77b86ddd487ba3b1c05ed66f39.jpg,변경 없음
+train/_annotations.csv,labels/train/b--164-_jpg.rf.4687ac77b86ddd487ba3b1c05ed66f39.txt,CSV 행을 YOLO txt로 변환
+train/b--166-_jpg.rf.e01cae85e013786763c2aaa07b62b36e.jpg,images/train/b--166-_jpg.rf.e01cae85e013786763c2aaa07b62b36e.jpg,변경 없음
+train/_annotations.csv,labels/train/b--166-_jpg.rf.e01cae85e013786763c2aaa07b62b36e.txt,CSV 행을 YOLO txt로 변환
+train/b--172-_jpg.rf.68b70a445d95381a08a235d0f0a5fa00.jpg,images/train/b--172-_jpg.rf.68b70a445d95381a08a235d0f0a5fa00.jpg,변경 없음
+train/_annotations.csv,labels/train/b--172-_jpg.rf.68b70a445d95381a08a235d0f0a5fa00.txt,CSV 행을 YOLO txt로 변환
+train/b--176-_jpg.rf.1fe53c474fd16702cb301f1a9b624304.jpg,images/train/b--176-_jpg.rf.1fe53c474fd16702cb301f1a9b624304.jpg,변경 없음
+train/_annotations.csv,labels/train/b--176-_jpg.rf.1fe53c474fd16702cb301f1a9b624304.txt,CSV 행을 YOLO txt로 변환
+train/b--177-_jpg.rf.c30b0a256b001b0841eecbc5c8275864.jpg,images/train/b--177-_jpg.rf.c30b0a256b001b0841eecbc5c8275864.jpg,변경 없음
+train/_annotations.csv,labels/train/b--177-_jpg.rf.c30b0a256b001b0841eecbc5c8275864.txt,CSV 행을 YOLO txt로 변환
+train/b--179-_jpg.rf.50925aa230ec1b071dee030dcb120f4d.jpg,images/train/b--179-_jpg.rf.50925aa230ec1b071dee030dcb120f4d.jpg,변경 없음
+train/_annotations.csv,labels/train/b--179-_jpg.rf.50925aa230ec1b071dee030dcb120f4d.txt,CSV 행을 YOLO txt로 변환
+train/b--18-_jpg.rf.47619bec35dba029d567c6097eac49de.jpg,images/train/b--18-_jpg.rf.47619bec35dba029d567c6097eac49de.jpg,변경 없음
+train/_annotations.csv,labels/train/b--18-_jpg.rf.47619bec35dba029d567c6097eac49de.txt,CSV 행을 YOLO txt로 변환
+train/b--180-_jpg.rf.fe221d8d41cd8e825cfb07dc58f0f783.jpg,images/train/b--180-_jpg.rf.fe221d8d41cd8e825cfb07dc58f0f783.jpg,변경 없음
+train/_annotations.csv,labels/train/b--180-_jpg.rf.fe221d8d41cd8e825cfb07dc58f0f783.txt,CSV 행을 YOLO txt로 변환
+train/b--181-_jpg.rf.fb204160eca54908323aec11737cea18.jpg,images/train/b--181-_jpg.rf.fb204160eca54908323aec11737cea18.jpg,변경 없음
+train/_annotations.csv,labels/train/b--181-_jpg.rf.fb204160eca54908323aec11737cea18.txt,CSV 행을 YOLO txt로 변환
+train/b--182-_jpg.rf.b9cf79c57759d2ef6e99a3e857f2ef71.jpg,images/train/b--182-_jpg.rf.b9cf79c57759d2ef6e99a3e857f2ef71.jpg,변경 없음
+train/_annotations.csv,labels/train/b--182-_jpg.rf.b9cf79c57759d2ef6e99a3e857f2ef71.txt,CSV 행을 YOLO txt로 변환
+train/b--183-_jpg.rf.1349db60a6e1f2c90cbfa55c4251ce47.jpg,images/train/b--183-_jpg.rf.1349db60a6e1f2c90cbfa55c4251ce47.jpg,변경 없음
+train/_annotations.csv,labels/train/b--183-_jpg.rf.1349db60a6e1f2c90cbfa55c4251ce47.txt,CSV 행을 YOLO txt로 변환
+train/b--184-_jpg.rf.17a3a3fec8b76ccf1b24a226e20e7b0f.jpg,images/train/b--184-_jpg.rf.17a3a3fec8b76ccf1b24a226e20e7b0f.jpg,변경 없음
+train/_annotations.csv,labels/train/b--184-_jpg.rf.17a3a3fec8b76ccf1b24a226e20e7b0f.txt,CSV 행을 YOLO txt로 변환
+train/b--185-_jpg.rf.746312b15dc018a40ce7ff65fa9b6bb4.jpg,images/train/b--185-_jpg.rf.746312b15dc018a40ce7ff65fa9b6bb4.jpg,변경 없음
+train/_annotations.csv,labels/train/b--185-_jpg.rf.746312b15dc018a40ce7ff65fa9b6bb4.txt,CSV 행을 YOLO txt로 변환
+train/b--187-_jpg.rf.c9fd38c199dbeb4a9e9fd885540a7387.jpg,images/train/b--187-_jpg.rf.c9fd38c199dbeb4a9e9fd885540a7387.jpg,변경 없음
+train/_annotations.csv,labels/train/b--187-_jpg.rf.c9fd38c199dbeb4a9e9fd885540a7387.txt,CSV 행을 YOLO txt로 변환
+train/b--188-_jpg.rf.6feb8afb9e5a3c6ac7d93ca38afed233.jpg,images/train/b--188-_jpg.rf.6feb8afb9e5a3c6ac7d93ca38afed233.jpg,변경 없음
+train/_annotations.csv,labels/train/b--188-_jpg.rf.6feb8afb9e5a3c6ac7d93ca38afed233.txt,CSV 행을 YOLO txt로 변환
+train/b--189-_jpg.rf.f203b3821a6fd8e7fb2933f1d1f050cc.jpg,images/train/b--189-_jpg.rf.f203b3821a6fd8e7fb2933f1d1f050cc.jpg,변경 없음
+train/_annotations.csv,labels/train/b--189-_jpg.rf.f203b3821a6fd8e7fb2933f1d1f050cc.txt,CSV 행을 YOLO txt로 변환
+train/b--190-_jpg.rf.f8500a5437f9600a501ed05e07f45bbf.jpg,images/train/b--190-_jpg.rf.f8500a5437f9600a501ed05e07f45bbf.jpg,변경 없음
+train/_annotations.csv,labels/train/b--190-_jpg.rf.f8500a5437f9600a501ed05e07f45bbf.txt,CSV 행을 YOLO txt로 변환
+train/b--191-_jpg.rf.25cca24d94f03c439a3fbefb04aeb2c1.jpg,images/train/b--191-_jpg.rf.25cca24d94f03c439a3fbefb04aeb2c1.jpg,변경 없음
+train/_annotations.csv,labels/train/b--191-_jpg.rf.25cca24d94f03c439a3fbefb04aeb2c1.txt,CSV 행을 YOLO txt로 변환
+train/b--192-_jpg.rf.c14196ab1bdd4e5318fe6fffa0a4825b.jpg,images/train/b--192-_jpg.rf.c14196ab1bdd4e5318fe6fffa0a4825b.jpg,변경 없음
+train/_annotations.csv,labels/train/b--192-_jpg.rf.c14196ab1bdd4e5318fe6fffa0a4825b.txt,CSV 행을 YOLO txt로 변환
+train/b--193-_jpg.rf.51e977ee3be285e525620debe34df040.jpg,images/train/b--193-_jpg.rf.51e977ee3be285e525620debe34df040.jpg,변경 없음
+train/_annotations.csv,labels/train/b--193-_jpg.rf.51e977ee3be285e525620debe34df040.txt,CSV 행을 YOLO txt로 변환
+train/b--194-_jpg.rf.34be8174d4d93ba21f988246a70ac27c.jpg,images/train/b--194-_jpg.rf.34be8174d4d93ba21f988246a70ac27c.jpg,변경 없음
+train/_annotations.csv,labels/train/b--194-_jpg.rf.34be8174d4d93ba21f988246a70ac27c.txt,CSV 행을 YOLO txt로 변환
+train/b--196-_jpg.rf.e2512ddf935ef138ccf01a34a2964ef2.jpg,images/train/b--196-_jpg.rf.e2512ddf935ef138ccf01a34a2964ef2.jpg,변경 없음
+train/_annotations.csv,labels/train/b--196-_jpg.rf.e2512ddf935ef138ccf01a34a2964ef2.txt,CSV 행을 YOLO txt로 변환
+train/b--198-_jpg.rf.357bee5b0c10d970f09c59a3393a1dc1.jpg,images/train/b--198-_jpg.rf.357bee5b0c10d970f09c59a3393a1dc1.jpg,변경 없음
+train/_annotations.csv,labels/train/b--198-_jpg.rf.357bee5b0c10d970f09c59a3393a1dc1.txt,CSV 행을 YOLO txt로 변환
+train/b--200-_jpg.rf.9feec0206afe7c9fee3331950feb61a1.jpg,images/train/b--200-_jpg.rf.9feec0206afe7c9fee3331950feb61a1.jpg,변경 없음
+train/_annotations.csv,labels/train/b--200-_jpg.rf.9feec0206afe7c9fee3331950feb61a1.txt,CSV 행을 YOLO txt로 변환
+train/b--42-_jpg.rf.b885179b05b2397362ab90785c01de07.jpg,images/train/b--42-_jpg.rf.b885179b05b2397362ab90785c01de07.jpg,변경 없음
+train/_annotations.csv,labels/train/b--42-_jpg.rf.b885179b05b2397362ab90785c01de07.txt,CSV 행을 YOLO txt로 변환
+train/b--43-_jpg.rf.1012e0967916c3e61fe6ea92b2cf32ea.jpg,images/train/b--43-_jpg.rf.1012e0967916c3e61fe6ea92b2cf32ea.jpg,변경 없음
+train/_annotations.csv,labels/train/b--43-_jpg.rf.1012e0967916c3e61fe6ea92b2cf32ea.txt,CSV 행을 YOLO txt로 변환
+train/b--46-_jpg.rf.13b8941da5ca6351ca155b8e03c20406.jpg,images/train/b--46-_jpg.rf.13b8941da5ca6351ca155b8e03c20406.jpg,변경 없음
+train/_annotations.csv,labels/train/b--46-_jpg.rf.13b8941da5ca6351ca155b8e03c20406.txt,CSV 행을 YOLO txt로 변환
+train/b--47-_jpg.rf.bf26dfb6493be881853701aece98cd3d.jpg,images/train/b--47-_jpg.rf.bf26dfb6493be881853701aece98cd3d.jpg,변경 없음
+train/_annotations.csv,labels/train/b--47-_jpg.rf.bf26dfb6493be881853701aece98cd3d.txt,CSV 행을 YOLO txt로 변환
+train/b--48-_jpg.rf.25d97709efc7e2220c6763364dbff910.jpg,images/train/b--48-_jpg.rf.25d97709efc7e2220c6763364dbff910.jpg,변경 없음
+train/_annotations.csv,labels/train/b--48-_jpg.rf.25d97709efc7e2220c6763364dbff910.txt,CSV 행을 YOLO txt로 변환
+train/b--49-_jpg.rf.e4bfd917c2351edae1e496cae7cce5f6.jpg,images/train/b--49-_jpg.rf.e4bfd917c2351edae1e496cae7cce5f6.jpg,변경 없음
+train/_annotations.csv,labels/train/b--49-_jpg.rf.e4bfd917c2351edae1e496cae7cce5f6.txt,CSV 행을 YOLO txt로 변환
+train/b--50-_jpg.rf.fa7945cbc17bad7cb2a6f51a138c0b99.jpg,images/train/b--50-_jpg.rf.fa7945cbc17bad7cb2a6f51a138c0b99.jpg,변경 없음
+train/_annotations.csv,labels/train/b--50-_jpg.rf.fa7945cbc17bad7cb2a6f51a138c0b99.txt,CSV 행을 YOLO txt로 변환
+train/b--51-_jpg.rf.629a3377dbad2a84d2adadbb5f91cc91.jpg,images/train/b--51-_jpg.rf.629a3377dbad2a84d2adadbb5f91cc91.jpg,변경 없음
+train/_annotations.csv,labels/train/b--51-_jpg.rf.629a3377dbad2a84d2adadbb5f91cc91.txt,CSV 행을 YOLO txt로 변환
+train/b--61-_jpg.rf.a33bb6cbd5a273816c41eb3da87d4b7f.jpg,images/train/b--61-_jpg.rf.a33bb6cbd5a273816c41eb3da87d4b7f.jpg,변경 없음
+train/_annotations.csv,labels/train/b--61-_jpg.rf.a33bb6cbd5a273816c41eb3da87d4b7f.txt,CSV 행을 YOLO txt로 변환
+train/b--63-_jpg.rf.f2235a169e66e120185124996e2b483f.jpg,images/train/b--63-_jpg.rf.f2235a169e66e120185124996e2b483f.jpg,변경 없음
+train/_annotations.csv,labels/train/b--63-_jpg.rf.f2235a169e66e120185124996e2b483f.txt,CSV 행을 YOLO txt로 변환
+train/b--64-_jpg.rf.f2f14bee7ab2dd7e7455a7c56c487a3e.jpg,images/train/b--64-_jpg.rf.f2f14bee7ab2dd7e7455a7c56c487a3e.jpg,변경 없음
+train/_annotations.csv,labels/train/b--64-_jpg.rf.f2f14bee7ab2dd7e7455a7c56c487a3e.txt,CSV 행을 YOLO txt로 변환
+train/b--70-_jpg.rf.844a1e1c7f84d258351b691890f46e2c.jpg,images/train/b--70-_jpg.rf.844a1e1c7f84d258351b691890f46e2c.jpg,변경 없음
+train/_annotations.csv,labels/train/b--70-_jpg.rf.844a1e1c7f84d258351b691890f46e2c.txt,CSV 행을 YOLO txt로 변환
+train/b--74-_jpg.rf.7d61098f935873621ff43de4aa0e2754.jpg,images/train/b--74-_jpg.rf.7d61098f935873621ff43de4aa0e2754.jpg,변경 없음
+train/_annotations.csv,labels/train/b--74-_jpg.rf.7d61098f935873621ff43de4aa0e2754.txt,CSV 행을 YOLO txt로 변환
+train/b--76-_jpg.rf.ccab4e3168a6124b400213df353a6c06.jpg,images/train/b--76-_jpg.rf.ccab4e3168a6124b400213df353a6c06.jpg,변경 없음
+train/_annotations.csv,labels/train/b--76-_jpg.rf.ccab4e3168a6124b400213df353a6c06.txt,CSV 행을 YOLO txt로 변환
+train/b--79-_jpg.rf.cb73d0bc8fbf6fc9e5b253f08f8cfe0a.jpg,images/train/b--79-_jpg.rf.cb73d0bc8fbf6fc9e5b253f08f8cfe0a.jpg,변경 없음
+train/_annotations.csv,labels/train/b--79-_jpg.rf.cb73d0bc8fbf6fc9e5b253f08f8cfe0a.txt,CSV 행을 YOLO txt로 변환
+train/b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077.jpg,images/train/b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077.jpg,변경 없음
+train/_annotations.csv,labels/train/b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077.txt,CSV 행을 YOLO txt로 변환
+train/b--93-_jpg.rf.c9117a7469473d38d152efc1fe35203c.jpg,images/train/b--93-_jpg.rf.c9117a7469473d38d152efc1fe35203c.jpg,변경 없음
+train/_annotations.csv,labels/train/b--93-_jpg.rf.c9117a7469473d38d152efc1fe35203c.txt,CSV 행을 YOLO txt로 변환
+train/b--96-_jpg.rf.88a9a63c465d9a0ce86a8f4cf93c66bf.jpg,images/train/b--96-_jpg.rf.88a9a63c465d9a0ce86a8f4cf93c66bf.jpg,변경 없음
+train/_annotations.csv,labels/train/b--96-_jpg.rf.88a9a63c465d9a0ce86a8f4cf93c66bf.txt,CSV 행을 YOLO txt로 변환
+train/b--97-_jpg.rf.dc2e5a0fb01dabc8139ccd815dc3329e.jpg,images/train/b--97-_jpg.rf.dc2e5a0fb01dabc8139ccd815dc3329e.jpg,변경 없음
+train/_annotations.csv,labels/train/b--97-_jpg.rf.dc2e5a0fb01dabc8139ccd815dc3329e.txt,CSV 행을 YOLO txt로 변환
+train/b--99-_jpg.rf.d737b969d1dd63b86ae7505b96927d91.jpg,images/train/b--99-_jpg.rf.d737b969d1dd63b86ae7505b96927d91.jpg,변경 없음
+train/_annotations.csv,labels/train/b--99-_jpg.rf.d737b969d1dd63b86ae7505b96927d91.txt,CSV 행을 YOLO txt로 변환
+train/c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def.jpg,images/train/c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def.jpg,변경 없음
+train/_annotations.csv,labels/train/c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def.txt,CSV 행을 YOLO txt로 변환
+train/c--10-_jpg.rf.42e8e3a2789f55a4ffc79e5b656aa77f.jpg,images/train/c--10-_jpg.rf.42e8e3a2789f55a4ffc79e5b656aa77f.jpg,변경 없음
+train/_annotations.csv,labels/train/c--10-_jpg.rf.42e8e3a2789f55a4ffc79e5b656aa77f.txt,CSV 행을 YOLO txt로 변환
+train/c--101-_jpg.rf.15be2b5287a666c82a162913be96efc4.jpg,images/train/c--101-_jpg.rf.15be2b5287a666c82a162913be96efc4.jpg,변경 없음
+train/_annotations.csv,labels/train/c--101-_jpg.rf.15be2b5287a666c82a162913be96efc4.txt,CSV 행을 YOLO txt로 변환
+train/c--102-_jpg.rf.edcc422b679813ded72afb41ab91a6fd.jpg,images/train/c--102-_jpg.rf.edcc422b679813ded72afb41ab91a6fd.jpg,변경 없음
+train/_annotations.csv,labels/train/c--102-_jpg.rf.edcc422b679813ded72afb41ab91a6fd.txt,CSV 행을 YOLO txt로 변환
+train/c--104-_jpg.rf.47eff56a96848f6de85dceaf23a2ff99.jpg,images/train/c--104-_jpg.rf.47eff56a96848f6de85dceaf23a2ff99.jpg,변경 없음
+train/_annotations.csv,labels/train/c--104-_jpg.rf.47eff56a96848f6de85dceaf23a2ff99.txt,CSV 행을 YOLO txt로 변환
+train/c--109-_jpg.rf.daf9b848819f646073bb41aeb7d2d898.jpg,images/train/c--109-_jpg.rf.daf9b848819f646073bb41aeb7d2d898.jpg,변경 없음
+train/_annotations.csv,labels/train/c--109-_jpg.rf.daf9b848819f646073bb41aeb7d2d898.txt,CSV 행을 YOLO txt로 변환
+train/c--11-_jpg.rf.2cd8dcc35af09768db913115803010e6.jpg,images/train/c--11-_jpg.rf.2cd8dcc35af09768db913115803010e6.jpg,변경 없음
+train/_annotations.csv,labels/train/c--11-_jpg.rf.2cd8dcc35af09768db913115803010e6.txt,CSV 행을 YOLO txt로 변환
+train/c--110-_jpg.rf.75a93615ae389c739345e7dacdcc8d8f.jpg,images/train/c--110-_jpg.rf.75a93615ae389c739345e7dacdcc8d8f.jpg,변경 없음
+train/_annotations.csv,labels/train/c--110-_jpg.rf.75a93615ae389c739345e7dacdcc8d8f.txt,CSV 행을 YOLO txt로 변환
+train/c--111-_jpg.rf.38c651a65b63de9c359be3679687b373.jpg,images/train/c--111-_jpg.rf.38c651a65b63de9c359be3679687b373.jpg,변경 없음
+train/_annotations.csv,labels/train/c--111-_jpg.rf.38c651a65b63de9c359be3679687b373.txt,CSV 행을 YOLO txt로 변환
+train/c--112-_jpg.rf.b1cacd8b2a743fd732337dbcb3405374.jpg,images/train/c--112-_jpg.rf.b1cacd8b2a743fd732337dbcb3405374.jpg,변경 없음
+train/_annotations.csv,labels/train/c--112-_jpg.rf.b1cacd8b2a743fd732337dbcb3405374.txt,CSV 행을 YOLO txt로 변환
+train/c--113-_jpg.rf.fe9759e7b3573904d36e24651746bf5c.jpg,images/train/c--113-_jpg.rf.fe9759e7b3573904d36e24651746bf5c.jpg,변경 없음
+train/_annotations.csv,labels/train/c--113-_jpg.rf.fe9759e7b3573904d36e24651746bf5c.txt,CSV 행을 YOLO txt로 변환
+train/c--114-_jpg.rf.a3b6c0f8454b923387ccccf3fb0283cc.jpg,images/train/c--114-_jpg.rf.a3b6c0f8454b923387ccccf3fb0283cc.jpg,변경 없음
+train/_annotations.csv,labels/train/c--114-_jpg.rf.a3b6c0f8454b923387ccccf3fb0283cc.txt,CSV 행을 YOLO txt로 변환
+train/c--116-_jpg.rf.802c76ffa6e8dfdad98bedf841f2ae65.jpg,images/train/c--116-_jpg.rf.802c76ffa6e8dfdad98bedf841f2ae65.jpg,변경 없음
+train/_annotations.csv,labels/train/c--116-_jpg.rf.802c76ffa6e8dfdad98bedf841f2ae65.txt,CSV 행을 YOLO txt로 변환
+train/c--117-_jpg.rf.8b728066bb99ac4f780f05e66c3ec2cb.jpg,images/train/c--117-_jpg.rf.8b728066bb99ac4f780f05e66c3ec2cb.jpg,변경 없음
+train/_annotations.csv,labels/train/c--117-_jpg.rf.8b728066bb99ac4f780f05e66c3ec2cb.txt,CSV 행을 YOLO txt로 변환
+train/c--118-_jpg.rf.728266f5cd8a40516ff0f9d8efb35afd.jpg,images/train/c--118-_jpg.rf.728266f5cd8a40516ff0f9d8efb35afd.jpg,변경 없음
+train/_annotations.csv,labels/train/c--118-_jpg.rf.728266f5cd8a40516ff0f9d8efb35afd.txt,CSV 행을 YOLO txt로 변환
+train/c--119-_jpg.rf.5db2a50421701231780ec04800282e9e.jpg,images/train/c--119-_jpg.rf.5db2a50421701231780ec04800282e9e.jpg,변경 없음
+train/_annotations.csv,labels/train/c--119-_jpg.rf.5db2a50421701231780ec04800282e9e.txt,CSV 행을 YOLO txt로 변환
+train/c--12-_jpg.rf.71fa1747c0f70cd6809914d69fadc47a.jpg,images/train/c--12-_jpg.rf.71fa1747c0f70cd6809914d69fadc47a.jpg,변경 없음
+train/_annotations.csv,labels/train/c--12-_jpg.rf.71fa1747c0f70cd6809914d69fadc47a.txt,CSV 행을 YOLO txt로 변환
+train/c--120-_jpg.rf.4375394022e33709ac6ba57d9802c611.jpg,images/train/c--120-_jpg.rf.4375394022e33709ac6ba57d9802c611.jpg,변경 없음
+train/_annotations.csv,labels/train/c--120-_jpg.rf.4375394022e33709ac6ba57d9802c611.txt,CSV 행을 YOLO txt로 변환
+train/c--121-_jpg.rf.13954a5fc30057d9c147cf979df2d27b.jpg,images/train/c--121-_jpg.rf.13954a5fc30057d9c147cf979df2d27b.jpg,변경 없음
+train/_annotations.csv,labels/train/c--121-_jpg.rf.13954a5fc30057d9c147cf979df2d27b.txt,CSV 행을 YOLO txt로 변환
+train/c--122-_jpg.rf.6ee4320011cbc3fac1e9759021fc0ad5.jpg,images/train/c--122-_jpg.rf.6ee4320011cbc3fac1e9759021fc0ad5.jpg,변경 없음
+train/_annotations.csv,labels/train/c--122-_jpg.rf.6ee4320011cbc3fac1e9759021fc0ad5.txt,CSV 행을 YOLO txt로 변환
+train/c--123-_jpg.rf.69b1fe037b86ab3384757d3c6db6f885.jpg,images/train/c--123-_jpg.rf.69b1fe037b86ab3384757d3c6db6f885.jpg,변경 없음
+train/_annotations.csv,labels/train/c--123-_jpg.rf.69b1fe037b86ab3384757d3c6db6f885.txt,CSV 행을 YOLO txt로 변환
+train/c--124-_jpg.rf.4e16953cbcb857fca1cb0870b508ed3e.jpg,images/train/c--124-_jpg.rf.4e16953cbcb857fca1cb0870b508ed3e.jpg,변경 없음
+train/_annotations.csv,labels/train/c--124-_jpg.rf.4e16953cbcb857fca1cb0870b508ed3e.txt,CSV 행을 YOLO txt로 변환
+train/c--125-_jpg.rf.8c94985a4102eff3793005868a8286ac.jpg,images/train/c--125-_jpg.rf.8c94985a4102eff3793005868a8286ac.jpg,변경 없음
+train/_annotations.csv,labels/train/c--125-_jpg.rf.8c94985a4102eff3793005868a8286ac.txt,CSV 행을 YOLO txt로 변환
+train/c--126-_jpg.rf.ee0bf566d66aa1693dd8f67e09f410cd.jpg,images/train/c--126-_jpg.rf.ee0bf566d66aa1693dd8f67e09f410cd.jpg,변경 없음
+train/_annotations.csv,labels/train/c--126-_jpg.rf.ee0bf566d66aa1693dd8f67e09f410cd.txt,CSV 행을 YOLO txt로 변환
+train/c--128-_jpg.rf.41a01504ea1c7378d85d6c3b24ea37e6.jpg,images/train/c--128-_jpg.rf.41a01504ea1c7378d85d6c3b24ea37e6.jpg,변경 없음
+train/_annotations.csv,labels/train/c--128-_jpg.rf.41a01504ea1c7378d85d6c3b24ea37e6.txt,CSV 행을 YOLO txt로 변환
+train/c--129-_jpg.rf.e205dd3c49e1489bd5550abec778ca40.jpg,images/train/c--129-_jpg.rf.e205dd3c49e1489bd5550abec778ca40.jpg,변경 없음
+train/_annotations.csv,labels/train/c--129-_jpg.rf.e205dd3c49e1489bd5550abec778ca40.txt,CSV 행을 YOLO txt로 변환
+train/c--13-_jpg.rf.f6f749bc10a80c92d264c5fbfa8688f2.jpg,images/train/c--13-_jpg.rf.f6f749bc10a80c92d264c5fbfa8688f2.jpg,변경 없음
+train/_annotations.csv,labels/train/c--13-_jpg.rf.f6f749bc10a80c92d264c5fbfa8688f2.txt,CSV 행을 YOLO txt로 변환
+train/c--130-_jpg.rf.673a4a9a79d0e8ee42ad7f1ea7bbb1bd.jpg,images/train/c--130-_jpg.rf.673a4a9a79d0e8ee42ad7f1ea7bbb1bd.jpg,변경 없음
+train/_annotations.csv,labels/train/c--130-_jpg.rf.673a4a9a79d0e8ee42ad7f1ea7bbb1bd.txt,CSV 행을 YOLO txt로 변환
+train/c--131-_jpg.rf.565bc4dc8386b32d847d01c777cb0f38.jpg,images/train/c--131-_jpg.rf.565bc4dc8386b32d847d01c777cb0f38.jpg,변경 없음
+train/_annotations.csv,labels/train/c--131-_jpg.rf.565bc4dc8386b32d847d01c777cb0f38.txt,CSV 행을 YOLO txt로 변환
+train/c--132-_jpg.rf.551ed651765b4917add99f33eaa0dbbd.jpg,images/train/c--132-_jpg.rf.551ed651765b4917add99f33eaa0dbbd.jpg,변경 없음
+train/_annotations.csv,labels/train/c--132-_jpg.rf.551ed651765b4917add99f33eaa0dbbd.txt,CSV 행을 YOLO txt로 변환
+train/c--133-_jpg.rf.d19feb891be7acf76747fc4b280721fa.jpg,images/train/c--133-_jpg.rf.d19feb891be7acf76747fc4b280721fa.jpg,변경 없음
+train/_annotations.csv,labels/train/c--133-_jpg.rf.d19feb891be7acf76747fc4b280721fa.txt,CSV 행을 YOLO txt로 변환
+train/c--134-_jpg.rf.8c7460140476dae88d7dcafe0eeefb2b.jpg,images/train/c--134-_jpg.rf.8c7460140476dae88d7dcafe0eeefb2b.jpg,변경 없음
+train/_annotations.csv,labels/train/c--134-_jpg.rf.8c7460140476dae88d7dcafe0eeefb2b.txt,CSV 행을 YOLO txt로 변환
+train/c--135-_jpg.rf.8e2302fcc5cc1cd5c1690ede9d4dd800.jpg,images/train/c--135-_jpg.rf.8e2302fcc5cc1cd5c1690ede9d4dd800.jpg,변경 없음
+train/_annotations.csv,labels/train/c--135-_jpg.rf.8e2302fcc5cc1cd5c1690ede9d4dd800.txt,CSV 행을 YOLO txt로 변환
+train/c--136-_jpg.rf.a1c7e476bcbed01ae00d09e902a49da9.jpg,images/train/c--136-_jpg.rf.a1c7e476bcbed01ae00d09e902a49da9.jpg,변경 없음
+train/_annotations.csv,labels/train/c--136-_jpg.rf.a1c7e476bcbed01ae00d09e902a49da9.txt,CSV 행을 YOLO txt로 변환
+train/c--137-_jpg.rf.347b2e5329f7abd15c91b8bf52765ea7.jpg,images/train/c--137-_jpg.rf.347b2e5329f7abd15c91b8bf52765ea7.jpg,변경 없음
+train/_annotations.csv,labels/train/c--137-_jpg.rf.347b2e5329f7abd15c91b8bf52765ea7.txt,CSV 행을 YOLO txt로 변환
+train/c--138-_jpg.rf.fe94434129bc590eefb9b7d7177367a5.jpg,images/train/c--138-_jpg.rf.fe94434129bc590eefb9b7d7177367a5.jpg,변경 없음
+train/_annotations.csv,labels/train/c--138-_jpg.rf.fe94434129bc590eefb9b7d7177367a5.txt,CSV 행을 YOLO txt로 변환
+train/c--139-_jpg.rf.4d2cfb71b48e142ad30c966729513e1c.jpg,images/train/c--139-_jpg.rf.4d2cfb71b48e142ad30c966729513e1c.jpg,변경 없음
+train/_annotations.csv,labels/train/c--139-_jpg.rf.4d2cfb71b48e142ad30c966729513e1c.txt,CSV 행을 YOLO txt로 변환
+train/c--14-_jpg.rf.f7212e4392d01bb458776976314524bc.jpg,images/train/c--14-_jpg.rf.f7212e4392d01bb458776976314524bc.jpg,변경 없음
+train/_annotations.csv,labels/train/c--14-_jpg.rf.f7212e4392d01bb458776976314524bc.txt,CSV 행을 YOLO txt로 변환
+train/c--140-_jpg.rf.7b5cf5b5bcbb8695b6b4891cd32fbfbc.jpg,images/train/c--140-_jpg.rf.7b5cf5b5bcbb8695b6b4891cd32fbfbc.jpg,변경 없음
+train/_annotations.csv,labels/train/c--140-_jpg.rf.7b5cf5b5bcbb8695b6b4891cd32fbfbc.txt,CSV 행을 YOLO txt로 변환
+train/c--141-_jpg.rf.d6aa7baa58c99dde66a19e3655546028.jpg,images/train/c--141-_jpg.rf.d6aa7baa58c99dde66a19e3655546028.jpg,변경 없음
+train/_annotations.csv,labels/train/c--141-_jpg.rf.d6aa7baa58c99dde66a19e3655546028.txt,CSV 행을 YOLO txt로 변환
+train/c--142-_jpg.rf.fb5f460875d029f6681a6b655358776e.jpg,images/train/c--142-_jpg.rf.fb5f460875d029f6681a6b655358776e.jpg,변경 없음
+train/_annotations.csv,labels/train/c--142-_jpg.rf.fb5f460875d029f6681a6b655358776e.txt,CSV 행을 YOLO txt로 변환
+train/c--143-_jpg.rf.a810c80c4923fb859cae9d3ef190e745.jpg,images/train/c--143-_jpg.rf.a810c80c4923fb859cae9d3ef190e745.jpg,변경 없음
+train/_annotations.csv,labels/train/c--143-_jpg.rf.a810c80c4923fb859cae9d3ef190e745.txt,CSV 행을 YOLO txt로 변환
+train/c--144-_jpg.rf.5d79b5b3945d30117f0a74b52e26afcf.jpg,images/train/c--144-_jpg.rf.5d79b5b3945d30117f0a74b52e26afcf.jpg,변경 없음
+train/_annotations.csv,labels/train/c--144-_jpg.rf.5d79b5b3945d30117f0a74b52e26afcf.txt,CSV 행을 YOLO txt로 변환
+train/c--146-_jpg.rf.2e8f6a17e7d4277d406b2e1ff57c46c2.jpg,images/train/c--146-_jpg.rf.2e8f6a17e7d4277d406b2e1ff57c46c2.jpg,변경 없음
+train/_annotations.csv,labels/train/c--146-_jpg.rf.2e8f6a17e7d4277d406b2e1ff57c46c2.txt,CSV 행을 YOLO txt로 변환
+train/c--147-_jpg.rf.a94ce22821a3498b837e463c682f8459.jpg,images/train/c--147-_jpg.rf.a94ce22821a3498b837e463c682f8459.jpg,변경 없음
+train/_annotations.csv,labels/train/c--147-_jpg.rf.a94ce22821a3498b837e463c682f8459.txt,CSV 행을 YOLO txt로 변환
+train/c--148-_jpg.rf.fce60e4a4aea662f26c3ef3e92b11009.jpg,images/train/c--148-_jpg.rf.fce60e4a4aea662f26c3ef3e92b11009.jpg,변경 없음
+train/_annotations.csv,labels/train/c--148-_jpg.rf.fce60e4a4aea662f26c3ef3e92b11009.txt,CSV 행을 YOLO txt로 변환
+train/c--149-_jpg.rf.7ba8afd86d487eba8359b4ce88ff4fee.jpg,images/train/c--149-_jpg.rf.7ba8afd86d487eba8359b4ce88ff4fee.jpg,변경 없음
+train/_annotations.csv,labels/train/c--149-_jpg.rf.7ba8afd86d487eba8359b4ce88ff4fee.txt,CSV 행을 YOLO txt로 변환
+train/c--151-_jpg.rf.03e6ec003f25a642195e48b563308a7b.jpg,images/train/c--151-_jpg.rf.03e6ec003f25a642195e48b563308a7b.jpg,변경 없음
+train/_annotations.csv,labels/train/c--151-_jpg.rf.03e6ec003f25a642195e48b563308a7b.txt,CSV 행을 YOLO txt로 변환
+train/c--152-_jpg.rf.0102d6c85ca35a64ed9833a8926b7681.jpg,images/train/c--152-_jpg.rf.0102d6c85ca35a64ed9833a8926b7681.jpg,변경 없음
+train/_annotations.csv,labels/train/c--152-_jpg.rf.0102d6c85ca35a64ed9833a8926b7681.txt,CSV 행을 YOLO txt로 변환
+train/c--153-_jpg.rf.c28b67b4f757d11247d6e03bbc612576.jpg,images/train/c--153-_jpg.rf.c28b67b4f757d11247d6e03bbc612576.jpg,변경 없음
+train/_annotations.csv,labels/train/c--153-_jpg.rf.c28b67b4f757d11247d6e03bbc612576.txt,CSV 행을 YOLO txt로 변환
+train/c--154-_jpg.rf.2257266012d54ab0f2c7312faa362873.jpg,images/train/c--154-_jpg.rf.2257266012d54ab0f2c7312faa362873.jpg,변경 없음
+train/_annotations.csv,labels/train/c--154-_jpg.rf.2257266012d54ab0f2c7312faa362873.txt,CSV 행을 YOLO txt로 변환
+train/c--155-_jpg.rf.568d629131928f6376ad0140098bd124.jpg,images/train/c--155-_jpg.rf.568d629131928f6376ad0140098bd124.jpg,변경 없음
+train/_annotations.csv,labels/train/c--155-_jpg.rf.568d629131928f6376ad0140098bd124.txt,CSV 행을 YOLO txt로 변환
+train/c--156-_jpg.rf.37d33e02dc0694521306f5112c277eca.jpg,images/train/c--156-_jpg.rf.37d33e02dc0694521306f5112c277eca.jpg,변경 없음
+train/_annotations.csv,labels/train/c--156-_jpg.rf.37d33e02dc0694521306f5112c277eca.txt,CSV 행을 YOLO txt로 변환
+train/c--157-_jpg.rf.547121286e5651233af48e5b4b61e9df.jpg,images/train/c--157-_jpg.rf.547121286e5651233af48e5b4b61e9df.jpg,변경 없음
+train/_annotations.csv,labels/train/c--157-_jpg.rf.547121286e5651233af48e5b4b61e9df.txt,CSV 행을 YOLO txt로 변환
+train/c--158-_jpg.rf.f27c8510949e8aa1fc1cabdfa5a4f953.jpg,images/train/c--158-_jpg.rf.f27c8510949e8aa1fc1cabdfa5a4f953.jpg,변경 없음
+train/_annotations.csv,labels/train/c--158-_jpg.rf.f27c8510949e8aa1fc1cabdfa5a4f953.txt,CSV 행을 YOLO txt로 변환
+train/c--159-_jpg.rf.f5436d4de35b2941d845e818f66ecefd.jpg,images/train/c--159-_jpg.rf.f5436d4de35b2941d845e818f66ecefd.jpg,변경 없음
+train/_annotations.csv,labels/train/c--159-_jpg.rf.f5436d4de35b2941d845e818f66ecefd.txt,CSV 행을 YOLO txt로 변환
+train/c--16-_jpg.rf.4a6541d67f08b7ae2b4b2e7fa0fe3888.jpg,images/train/c--16-_jpg.rf.4a6541d67f08b7ae2b4b2e7fa0fe3888.jpg,변경 없음
+train/_annotations.csv,labels/train/c--16-_jpg.rf.4a6541d67f08b7ae2b4b2e7fa0fe3888.txt,CSV 행을 YOLO txt로 변환
+train/c--160-_jpg.rf.d149000a110943ad99a08ba14a81b133.jpg,images/train/c--160-_jpg.rf.d149000a110943ad99a08ba14a81b133.jpg,변경 없음
+train/_annotations.csv,labels/train/c--160-_jpg.rf.d149000a110943ad99a08ba14a81b133.txt,CSV 행을 YOLO txt로 변환
+train/c--161-_jpg.rf.7367e73158575ac3aff6ef44f27b7073.jpg,images/train/c--161-_jpg.rf.7367e73158575ac3aff6ef44f27b7073.jpg,변경 없음
+train/_annotations.csv,labels/train/c--161-_jpg.rf.7367e73158575ac3aff6ef44f27b7073.txt,CSV 행을 YOLO txt로 변환
+train/c--162-_jpg.rf.c338b7c3cd905372ad56f259dc7934b3.jpg,images/train/c--162-_jpg.rf.c338b7c3cd905372ad56f259dc7934b3.jpg,변경 없음
+train/_annotations.csv,labels/train/c--162-_jpg.rf.c338b7c3cd905372ad56f259dc7934b3.txt,CSV 행을 YOLO txt로 변환
+train/c--163-_jpg.rf.f83be47c131f5ebee37b6522f99ef9a7.jpg,images/train/c--163-_jpg.rf.f83be47c131f5ebee37b6522f99ef9a7.jpg,변경 없음
+train/_annotations.csv,labels/train/c--163-_jpg.rf.f83be47c131f5ebee37b6522f99ef9a7.txt,CSV 행을 YOLO txt로 변환
+train/c--164-_jpg.rf.9490f6a8e7862c2eab5242d5717fa1c2.jpg,images/train/c--164-_jpg.rf.9490f6a8e7862c2eab5242d5717fa1c2.jpg,변경 없음
+train/_annotations.csv,labels/train/c--164-_jpg.rf.9490f6a8e7862c2eab5242d5717fa1c2.txt,CSV 행을 YOLO txt로 변환
+train/c--165-_jpg.rf.e8747abd784155dacfe1f99f237d4ae5.jpg,images/train/c--165-_jpg.rf.e8747abd784155dacfe1f99f237d4ae5.jpg,변경 없음
+train/_annotations.csv,labels/train/c--165-_jpg.rf.e8747abd784155dacfe1f99f237d4ae5.txt,CSV 행을 YOLO txt로 변환
+train/c--166-_jpg.rf.d5a1eb5d90ef164cf73c9f9d3988b357.jpg,images/train/c--166-_jpg.rf.d5a1eb5d90ef164cf73c9f9d3988b357.jpg,변경 없음
+train/_annotations.csv,labels/train/c--166-_jpg.rf.d5a1eb5d90ef164cf73c9f9d3988b357.txt,CSV 행을 YOLO txt로 변환
+train/d--1-_jpg.rf.b37e794762fcd2f017ba3289c0e8183f.jpg,images/train/d--1-_jpg.rf.b37e794762fcd2f017ba3289c0e8183f.jpg,변경 없음
+train/_annotations.csv,labels/train/d--1-_jpg.rf.b37e794762fcd2f017ba3289c0e8183f.txt,CSV 행을 YOLO txt로 변환
+train/d--10-_jpg.rf.a1f6620b15819b628cb1d2c5d9bf9a02.jpg,images/train/d--10-_jpg.rf.a1f6620b15819b628cb1d2c5d9bf9a02.jpg,변경 없음
+train/_annotations.csv,labels/train/d--10-_jpg.rf.a1f6620b15819b628cb1d2c5d9bf9a02.txt,CSV 행을 YOLO txt로 변환
+train/d--100-_jpg.rf.0ccc45d52c7d33090f21ec9aa41f2abd.jpg,images/train/d--100-_jpg.rf.0ccc45d52c7d33090f21ec9aa41f2abd.jpg,변경 없음
+train/_annotations.csv,labels/train/d--100-_jpg.rf.0ccc45d52c7d33090f21ec9aa41f2abd.txt,CSV 행을 YOLO txt로 변환
+train/d--11-_jpg.rf.4db674087c03120600e504eabadc076a.jpg,images/train/d--11-_jpg.rf.4db674087c03120600e504eabadc076a.jpg,변경 없음
+train/_annotations.csv,labels/train/d--11-_jpg.rf.4db674087c03120600e504eabadc076a.txt,CSV 행을 YOLO txt로 변환
+train/d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg,images/train/d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg,변경 없음
+train/_annotations.csv,labels/train/d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.txt,CSV 행을 YOLO txt로 변환
+train/d--13-_jpg.rf.79e413c77f10a17c6d3c6286565f93df.jpg,images/train/d--13-_jpg.rf.79e413c77f10a17c6d3c6286565f93df.jpg,변경 없음
+train/_annotations.csv,labels/train/d--13-_jpg.rf.79e413c77f10a17c6d3c6286565f93df.txt,CSV 행을 YOLO txt로 변환
+train/d--15-_jpg.rf.c954cc5e9ffe3b94a7caaf8dd0c2bedb.jpg,images/train/d--15-_jpg.rf.c954cc5e9ffe3b94a7caaf8dd0c2bedb.jpg,변경 없음
+train/_annotations.csv,labels/train/d--15-_jpg.rf.c954cc5e9ffe3b94a7caaf8dd0c2bedb.txt,CSV 행을 YOLO txt로 변환
+train/d--16-_jpg.rf.f5f93d055779c902fed83e37c3280d63.jpg,images/train/d--16-_jpg.rf.f5f93d055779c902fed83e37c3280d63.jpg,변경 없음
+train/_annotations.csv,labels/train/d--16-_jpg.rf.f5f93d055779c902fed83e37c3280d63.txt,CSV 행을 YOLO txt로 변환
+train/d--19-_jpg.rf.97a2d77dd77d340a943e281e500a4725.jpg,images/train/d--19-_jpg.rf.97a2d77dd77d340a943e281e500a4725.jpg,변경 없음
+train/_annotations.csv,labels/train/d--19-_jpg.rf.97a2d77dd77d340a943e281e500a4725.txt,CSV 행을 YOLO txt로 변환
+train/d--2-_jpg.rf.8783fa964b0a692353d066d49e92de29.jpg,images/train/d--2-_jpg.rf.8783fa964b0a692353d066d49e92de29.jpg,변경 없음
+train/_annotations.csv,labels/train/d--2-_jpg.rf.8783fa964b0a692353d066d49e92de29.txt,CSV 행을 YOLO txt로 변환
+train/d--20-_jpg.rf.d128e4b9a9d087f8ba0e767086187f9c.jpg,images/train/d--20-_jpg.rf.d128e4b9a9d087f8ba0e767086187f9c.jpg,변경 없음
+train/_annotations.csv,labels/train/d--20-_jpg.rf.d128e4b9a9d087f8ba0e767086187f9c.txt,CSV 행을 YOLO txt로 변환
+train/d--21-_jpg.rf.6f4debba76d18342e361428f8e6b6992.jpg,images/train/d--21-_jpg.rf.6f4debba76d18342e361428f8e6b6992.jpg,변경 없음
+train/_annotations.csv,labels/train/d--21-_jpg.rf.6f4debba76d18342e361428f8e6b6992.txt,CSV 행을 YOLO txt로 변환
+train/d--22-_jpg.rf.38a21c4b8630916cd86979c317d891c5.jpg,images/train/d--22-_jpg.rf.38a21c4b8630916cd86979c317d891c5.jpg,변경 없음
+train/_annotations.csv,labels/train/d--22-_jpg.rf.38a21c4b8630916cd86979c317d891c5.txt,CSV 행을 YOLO txt로 변환
+train/d--23-_jpg.rf.2908633872ad3b5fe524cc540d4f3f2e.jpg,images/train/d--23-_jpg.rf.2908633872ad3b5fe524cc540d4f3f2e.jpg,변경 없음
+train/_annotations.csv,labels/train/d--23-_jpg.rf.2908633872ad3b5fe524cc540d4f3f2e.txt,CSV 행을 YOLO txt로 변환
+train/d--24-_jpg.rf.0c0f05aadd997133f7cf2f011b29aee3.jpg,images/train/d--24-_jpg.rf.0c0f05aadd997133f7cf2f011b29aee3.jpg,변경 없음
+train/_annotations.csv,labels/train/d--24-_jpg.rf.0c0f05aadd997133f7cf2f011b29aee3.txt,CSV 행을 YOLO txt로 변환
+train/d--25-_jpg.rf.3612d09696145227b13e824062a159b0.jpg,images/train/d--25-_jpg.rf.3612d09696145227b13e824062a159b0.jpg,변경 없음
+train/_annotations.csv,labels/train/d--25-_jpg.rf.3612d09696145227b13e824062a159b0.txt,CSV 행을 YOLO txt로 변환
+train/d--26-_jpg.rf.9037c5dc255b58eec1148f4570069e3b.jpg,images/train/d--26-_jpg.rf.9037c5dc255b58eec1148f4570069e3b.jpg,변경 없음
+train/_annotations.csv,labels/train/d--26-_jpg.rf.9037c5dc255b58eec1148f4570069e3b.txt,CSV 행을 YOLO txt로 변환
+train/d--27-_jpg.rf.2e1b5f94935bfe187979db71d1aece54.jpg,images/train/d--27-_jpg.rf.2e1b5f94935bfe187979db71d1aece54.jpg,변경 없음
+train/_annotations.csv,labels/train/d--27-_jpg.rf.2e1b5f94935bfe187979db71d1aece54.txt,CSV 행을 YOLO txt로 변환
+train/d--28-_jpg.rf.6ac3e5875346b295980f47d51d2ffbdd.jpg,images/train/d--28-_jpg.rf.6ac3e5875346b295980f47d51d2ffbdd.jpg,변경 없음
+train/_annotations.csv,labels/train/d--28-_jpg.rf.6ac3e5875346b295980f47d51d2ffbdd.txt,CSV 행을 YOLO txt로 변환
+train/d--29-_jpg.rf.80bdfcbb7549c16b410a986ce7fb8d97.jpg,images/train/d--29-_jpg.rf.80bdfcbb7549c16b410a986ce7fb8d97.jpg,변경 없음
+train/_annotations.csv,labels/train/d--29-_jpg.rf.80bdfcbb7549c16b410a986ce7fb8d97.txt,CSV 행을 YOLO txt로 변환
+train/d--3-_jpg.rf.8469e5e5df1eabf5092043affe883127.jpg,images/train/d--3-_jpg.rf.8469e5e5df1eabf5092043affe883127.jpg,변경 없음
+train/_annotations.csv,labels/train/d--3-_jpg.rf.8469e5e5df1eabf5092043affe883127.txt,CSV 행을 YOLO txt로 변환
+train/d--30-_jpg.rf.c15d6e586efe0fd55ee78f1280a4ed36.jpg,images/train/d--30-_jpg.rf.c15d6e586efe0fd55ee78f1280a4ed36.jpg,변경 없음
+train/_annotations.csv,labels/train/d--30-_jpg.rf.c15d6e586efe0fd55ee78f1280a4ed36.txt,CSV 행을 YOLO txt로 변환
+train/d--31-_jpg.rf.e974a263856c8993d294bba282d7bef4.jpg,images/train/d--31-_jpg.rf.e974a263856c8993d294bba282d7bef4.jpg,변경 없음
+train/_annotations.csv,labels/train/d--31-_jpg.rf.e974a263856c8993d294bba282d7bef4.txt,CSV 행을 YOLO txt로 변환
+train/d--32-_jpg.rf.644adb98535b87f67582f61ae029981f.jpg,images/train/d--32-_jpg.rf.644adb98535b87f67582f61ae029981f.jpg,변경 없음
+train/_annotations.csv,labels/train/d--32-_jpg.rf.644adb98535b87f67582f61ae029981f.txt,CSV 행을 YOLO txt로 변환
+train/d--33-_jpg.rf.7b594b748ca1a20c06e43b85bc31bd75.jpg,images/train/d--33-_jpg.rf.7b594b748ca1a20c06e43b85bc31bd75.jpg,변경 없음
+train/_annotations.csv,labels/train/d--33-_jpg.rf.7b594b748ca1a20c06e43b85bc31bd75.txt,CSV 행을 YOLO txt로 변환
+train/d--34-_jpg.rf.68e7b8ad1aec84b5f8e3c2838435eba6.jpg,images/train/d--34-_jpg.rf.68e7b8ad1aec84b5f8e3c2838435eba6.jpg,변경 없음
+train/_annotations.csv,labels/train/d--34-_jpg.rf.68e7b8ad1aec84b5f8e3c2838435eba6.txt,CSV 행을 YOLO txt로 변환
+train/d--35-_jpg.rf.cc3d07de843449fba3130bd17e0e468f.jpg,images/train/d--35-_jpg.rf.cc3d07de843449fba3130bd17e0e468f.jpg,변경 없음
+train/_annotations.csv,labels/train/d--35-_jpg.rf.cc3d07de843449fba3130bd17e0e468f.txt,CSV 행을 YOLO txt로 변환
+train/d--36-_jpg.rf.6a25881ad85e8be7d3ff573059fcff0a.jpg,images/train/d--36-_jpg.rf.6a25881ad85e8be7d3ff573059fcff0a.jpg,변경 없음
+train/_annotations.csv,labels/train/d--36-_jpg.rf.6a25881ad85e8be7d3ff573059fcff0a.txt,CSV 행을 YOLO txt로 변환
+train/d--37-_jpg.rf.3553c23c77a07d2c92c9a40a34ca8aa7.jpg,images/train/d--37-_jpg.rf.3553c23c77a07d2c92c9a40a34ca8aa7.jpg,변경 없음
+train/_annotations.csv,labels/train/d--37-_jpg.rf.3553c23c77a07d2c92c9a40a34ca8aa7.txt,CSV 행을 YOLO txt로 변환
+train/d--38-_jpg.rf.7af616cb2ee6ec5bafbbe16be5f4c54d.jpg,images/train/d--38-_jpg.rf.7af616cb2ee6ec5bafbbe16be5f4c54d.jpg,변경 없음
+train/_annotations.csv,labels/train/d--38-_jpg.rf.7af616cb2ee6ec5bafbbe16be5f4c54d.txt,CSV 행을 YOLO txt로 변환
+train/d--39-_jpg.rf.ad058b973ec93f9e4c2974e46ee53cf9.jpg,images/train/d--39-_jpg.rf.ad058b973ec93f9e4c2974e46ee53cf9.jpg,변경 없음
+train/_annotations.csv,labels/train/d--39-_jpg.rf.ad058b973ec93f9e4c2974e46ee53cf9.txt,CSV 행을 YOLO txt로 변환
+train/d--4-_jpg.rf.81ae2a86ed4fb978be6a19aea9dd76a2.jpg,images/train/d--4-_jpg.rf.81ae2a86ed4fb978be6a19aea9dd76a2.jpg,변경 없음
+train/_annotations.csv,labels/train/d--4-_jpg.rf.81ae2a86ed4fb978be6a19aea9dd76a2.txt,CSV 행을 YOLO txt로 변환
+train/d--40-_jpg.rf.6da89bed0ed9949fb0de2e2c108df063.jpg,images/train/d--40-_jpg.rf.6da89bed0ed9949fb0de2e2c108df063.jpg,변경 없음
+train/_annotations.csv,labels/train/d--40-_jpg.rf.6da89bed0ed9949fb0de2e2c108df063.txt,CSV 행을 YOLO txt로 변환
+train/d--41-_jpg.rf.fa1e77005aebd7cdc1a3036b6bdfc688.jpg,images/train/d--41-_jpg.rf.fa1e77005aebd7cdc1a3036b6bdfc688.jpg,변경 없음
+train/_annotations.csv,labels/train/d--41-_jpg.rf.fa1e77005aebd7cdc1a3036b6bdfc688.txt,CSV 행을 YOLO txt로 변환
+train/d--44-_jpg.rf.1de3a59c532136bf8a8317d4186fea19.jpg,images/train/d--44-_jpg.rf.1de3a59c532136bf8a8317d4186fea19.jpg,변경 없음
+train/_annotations.csv,labels/train/d--44-_jpg.rf.1de3a59c532136bf8a8317d4186fea19.txt,CSV 행을 YOLO txt로 변환
+train/d--46-_jpg.rf.31a842b5da49a89c847db464d4133082.jpg,images/train/d--46-_jpg.rf.31a842b5da49a89c847db464d4133082.jpg,변경 없음
+train/_annotations.csv,labels/train/d--46-_jpg.rf.31a842b5da49a89c847db464d4133082.txt,CSV 행을 YOLO txt로 변환
+train/d--47-_jpg.rf.c3d2afab2860b6f694e63a9feab62d4a.jpg,images/train/d--47-_jpg.rf.c3d2afab2860b6f694e63a9feab62d4a.jpg,변경 없음
+train/_annotations.csv,labels/train/d--47-_jpg.rf.c3d2afab2860b6f694e63a9feab62d4a.txt,CSV 행을 YOLO txt로 변환
+train/d--48-_jpg.rf.1de6406b1b8c7e920d956f517c9711e5.jpg,images/train/d--48-_jpg.rf.1de6406b1b8c7e920d956f517c9711e5.jpg,변경 없음
+train/_annotations.csv,labels/train/d--48-_jpg.rf.1de6406b1b8c7e920d956f517c9711e5.txt,CSV 행을 YOLO txt로 변환
+train/d--49-_jpg.rf.57ff6e75b0aa06501ee10ba821af9330.jpg,images/train/d--49-_jpg.rf.57ff6e75b0aa06501ee10ba821af9330.jpg,변경 없음
+train/_annotations.csv,labels/train/d--49-_jpg.rf.57ff6e75b0aa06501ee10ba821af9330.txt,CSV 행을 YOLO txt로 변환
+train/d--5-_jpg.rf.59708317c37f56ce648f9c64d6af4651.jpg,images/train/d--5-_jpg.rf.59708317c37f56ce648f9c64d6af4651.jpg,변경 없음
+train/_annotations.csv,labels/train/d--5-_jpg.rf.59708317c37f56ce648f9c64d6af4651.txt,CSV 행을 YOLO txt로 변환
+train/d--50-_jpg.rf.3fcb0c278b1fa8eaaed9e1e5003c058f.jpg,images/train/d--50-_jpg.rf.3fcb0c278b1fa8eaaed9e1e5003c058f.jpg,변경 없음
+train/_annotations.csv,labels/train/d--50-_jpg.rf.3fcb0c278b1fa8eaaed9e1e5003c058f.txt,CSV 행을 YOLO txt로 변환
+train/d--51-_jpg.rf.bb812420559f51584cd8916a9b0dc1af.jpg,images/train/d--51-_jpg.rf.bb812420559f51584cd8916a9b0dc1af.jpg,변경 없음
+train/_annotations.csv,labels/train/d--51-_jpg.rf.bb812420559f51584cd8916a9b0dc1af.txt,CSV 행을 YOLO txt로 변환
+train/d--52-_jpg.rf.086e80a05c54229e7189ec3bc38c9940.jpg,images/train/d--52-_jpg.rf.086e80a05c54229e7189ec3bc38c9940.jpg,변경 없음
+train/_annotations.csv,labels/train/d--52-_jpg.rf.086e80a05c54229e7189ec3bc38c9940.txt,CSV 행을 YOLO txt로 변환
+train/d--53-_jpg.rf.a15e6635cea49e2d6a44e4dc1b1fc7b2.jpg,images/train/d--53-_jpg.rf.a15e6635cea49e2d6a44e4dc1b1fc7b2.jpg,변경 없음
+train/_annotations.csv,labels/train/d--53-_jpg.rf.a15e6635cea49e2d6a44e4dc1b1fc7b2.txt,CSV 행을 YOLO txt로 변환
+train/d--55-_jpg.rf.1ebab6ba7f844b41db563a0fad20220e.jpg,images/train/d--55-_jpg.rf.1ebab6ba7f844b41db563a0fad20220e.jpg,변경 없음
+train/_annotations.csv,labels/train/d--55-_jpg.rf.1ebab6ba7f844b41db563a0fad20220e.txt,CSV 행을 YOLO txt로 변환
+train/d--56-_jpg.rf.3164c60863f414f6cedfd7ecd0fa4803.jpg,images/train/d--56-_jpg.rf.3164c60863f414f6cedfd7ecd0fa4803.jpg,변경 없음
+train/_annotations.csv,labels/train/d--56-_jpg.rf.3164c60863f414f6cedfd7ecd0fa4803.txt,CSV 행을 YOLO txt로 변환
+train/d--60-_jpg.rf.ca87b1db95fbdaa538c6e67ead860471.jpg,images/train/d--60-_jpg.rf.ca87b1db95fbdaa538c6e67ead860471.jpg,변경 없음
+train/_annotations.csv,labels/train/d--60-_jpg.rf.ca87b1db95fbdaa538c6e67ead860471.txt,CSV 행을 YOLO txt로 변환
+train/d--61-_jpg.rf.846526672728e3b39e8036de5ec417bd.jpg,images/train/d--61-_jpg.rf.846526672728e3b39e8036de5ec417bd.jpg,변경 없음
+train/_annotations.csv,labels/train/d--61-_jpg.rf.846526672728e3b39e8036de5ec417bd.txt,CSV 행을 YOLO txt로 변환
+train/d--62-_jpg.rf.6cd517c4babdebc6c2430edf4dcfc630.jpg,images/train/d--62-_jpg.rf.6cd517c4babdebc6c2430edf4dcfc630.jpg,변경 없음
+train/_annotations.csv,labels/train/d--62-_jpg.rf.6cd517c4babdebc6c2430edf4dcfc630.txt,CSV 행을 YOLO txt로 변환
+train/d--63-_jpg.rf.b897950c06d977c081d00ce9dacb0f20.jpg,images/train/d--63-_jpg.rf.b897950c06d977c081d00ce9dacb0f20.jpg,변경 없음
+train/_annotations.csv,labels/train/d--63-_jpg.rf.b897950c06d977c081d00ce9dacb0f20.txt,CSV 행을 YOLO txt로 변환
+train/d--64-_jpg.rf.d74f57aab2740dd26ac7d2d280a0766e.jpg,images/train/d--64-_jpg.rf.d74f57aab2740dd26ac7d2d280a0766e.jpg,변경 없음
+train/_annotations.csv,labels/train/d--64-_jpg.rf.d74f57aab2740dd26ac7d2d280a0766e.txt,CSV 행을 YOLO txt로 변환
+train/d--65-_jpg.rf.cf0178aff411224dd185c969eaa962d6.jpg,images/train/d--65-_jpg.rf.cf0178aff411224dd185c969eaa962d6.jpg,변경 없음
+train/_annotations.csv,labels/train/d--65-_jpg.rf.cf0178aff411224dd185c969eaa962d6.txt,CSV 행을 YOLO txt로 변환
+train/d--66-_jpg.rf.a4b8852b9ee24d2f6df20ddc07f92739.jpg,images/train/d--66-_jpg.rf.a4b8852b9ee24d2f6df20ddc07f92739.jpg,변경 없음
+train/_annotations.csv,labels/train/d--66-_jpg.rf.a4b8852b9ee24d2f6df20ddc07f92739.txt,CSV 행을 YOLO txt로 변환
+train/d--67-_jpg.rf.32b771f2ea71f27dcba75c84b408d632.jpg,images/train/d--67-_jpg.rf.32b771f2ea71f27dcba75c84b408d632.jpg,변경 없음
+train/_annotations.csv,labels/train/d--67-_jpg.rf.32b771f2ea71f27dcba75c84b408d632.txt,CSV 행을 YOLO txt로 변환
+train/d--7-_jpg.rf.503eb53780af3e6a457906f2a521cbcc.jpg,images/train/d--7-_jpg.rf.503eb53780af3e6a457906f2a521cbcc.jpg,변경 없음
+train/_annotations.csv,labels/train/d--7-_jpg.rf.503eb53780af3e6a457906f2a521cbcc.txt,CSV 행을 YOLO txt로 변환
+train/d--70-_jpg.rf.a7656f7157afeb192525881c0ffc6a74.jpg,images/train/d--70-_jpg.rf.a7656f7157afeb192525881c0ffc6a74.jpg,변경 없음
+train/_annotations.csv,labels/train/d--70-_jpg.rf.a7656f7157afeb192525881c0ffc6a74.txt,CSV 행을 YOLO txt로 변환
+train/d--71-_jpg.rf.d9984bee2fb7fe8ad3b6f3638f26ed00.jpg,images/train/d--71-_jpg.rf.d9984bee2fb7fe8ad3b6f3638f26ed00.jpg,변경 없음
+train/_annotations.csv,labels/train/d--71-_jpg.rf.d9984bee2fb7fe8ad3b6f3638f26ed00.txt,CSV 행을 YOLO txt로 변환
+train/d--72-_jpg.rf.834f2832ac385eb81c5a5810faf514b2.jpg,images/train/d--72-_jpg.rf.834f2832ac385eb81c5a5810faf514b2.jpg,변경 없음
+train/_annotations.csv,labels/train/d--72-_jpg.rf.834f2832ac385eb81c5a5810faf514b2.txt,CSV 행을 YOLO txt로 변환
+train/d--73-_jpg.rf.599b07f111910d96af68c390dcabdd11.jpg,images/train/d--73-_jpg.rf.599b07f111910d96af68c390dcabdd11.jpg,변경 없음
+train/_annotations.csv,labels/train/d--73-_jpg.rf.599b07f111910d96af68c390dcabdd11.txt,CSV 행을 YOLO txt로 변환
+train/d--74-_jpg.rf.80a5a2fe450b34c87e907c2353478a82.jpg,images/train/d--74-_jpg.rf.80a5a2fe450b34c87e907c2353478a82.jpg,변경 없음
+train/_annotations.csv,labels/train/d--74-_jpg.rf.80a5a2fe450b34c87e907c2353478a82.txt,CSV 행을 YOLO txt로 변환
+train/d--76-_jpg.rf.5aafa5ee502ab73fc1ecbf43fdfa6a27.jpg,images/train/d--76-_jpg.rf.5aafa5ee502ab73fc1ecbf43fdfa6a27.jpg,변경 없음
+train/_annotations.csv,labels/train/d--76-_jpg.rf.5aafa5ee502ab73fc1ecbf43fdfa6a27.txt,CSV 행을 YOLO txt로 변환
+train/d--78-_jpg.rf.728bfa8fd6e0b020d9abb7bb476fe38a.jpg,images/train/d--78-_jpg.rf.728bfa8fd6e0b020d9abb7bb476fe38a.jpg,변경 없음
+train/_annotations.csv,labels/train/d--78-_jpg.rf.728bfa8fd6e0b020d9abb7bb476fe38a.txt,CSV 행을 YOLO txt로 변환
+train/d--79-_jpg.rf.c472cece867649daf754f7b4080b8838.jpg,images/train/d--79-_jpg.rf.c472cece867649daf754f7b4080b8838.jpg,변경 없음
+train/_annotations.csv,labels/train/d--79-_jpg.rf.c472cece867649daf754f7b4080b8838.txt,CSV 행을 YOLO txt로 변환
+train/d--80-_jpg.rf.61364baef7135bfa6780c7336a8c5f2b.jpg,images/train/d--80-_jpg.rf.61364baef7135bfa6780c7336a8c5f2b.jpg,변경 없음
+train/_annotations.csv,labels/train/d--80-_jpg.rf.61364baef7135bfa6780c7336a8c5f2b.txt,CSV 행을 YOLO txt로 변환
+train/d--82-_jpg.rf.53c568470b22348b48a22872b5f8a115.jpg,images/train/d--82-_jpg.rf.53c568470b22348b48a22872b5f8a115.jpg,변경 없음
+train/_annotations.csv,labels/train/d--82-_jpg.rf.53c568470b22348b48a22872b5f8a115.txt,CSV 행을 YOLO txt로 변환
+train/d--83-_jpg.rf.705f949f88ba725cc39cf0a559ddfcf3.jpg,images/train/d--83-_jpg.rf.705f949f88ba725cc39cf0a559ddfcf3.jpg,변경 없음
+train/_annotations.csv,labels/train/d--83-_jpg.rf.705f949f88ba725cc39cf0a559ddfcf3.txt,CSV 행을 YOLO txt로 변환
+train/d--84-_jpg.rf.cc08c7955f217a2b3179bc9b5382291a.jpg,images/train/d--84-_jpg.rf.cc08c7955f217a2b3179bc9b5382291a.jpg,변경 없음
+train/_annotations.csv,labels/train/d--84-_jpg.rf.cc08c7955f217a2b3179bc9b5382291a.txt,CSV 행을 YOLO txt로 변환
+train/d--86-_jpg.rf.13962b904af82d609f113f9e4110327d.jpg,images/train/d--86-_jpg.rf.13962b904af82d609f113f9e4110327d.jpg,변경 없음
+train/_annotations.csv,labels/train/d--86-_jpg.rf.13962b904af82d609f113f9e4110327d.txt,CSV 행을 YOLO txt로 변환
+train/d--87-_jpg.rf.4820ffe6fe6ac2a6152faecb66d0da51.jpg,images/train/d--87-_jpg.rf.4820ffe6fe6ac2a6152faecb66d0da51.jpg,변경 없음
+train/_annotations.csv,labels/train/d--87-_jpg.rf.4820ffe6fe6ac2a6152faecb66d0da51.txt,CSV 행을 YOLO txt로 변환
+train/d--88-_jpg.rf.f2b002af650abfd14080af0c1135ecf8.jpg,images/train/d--88-_jpg.rf.f2b002af650abfd14080af0c1135ecf8.jpg,변경 없음
+train/_annotations.csv,labels/train/d--88-_jpg.rf.f2b002af650abfd14080af0c1135ecf8.txt,CSV 행을 YOLO txt로 변환
+train/d--89-_jpg.rf.c198ae76872794fcaa2758c4c2d53f7f.jpg,images/train/d--89-_jpg.rf.c198ae76872794fcaa2758c4c2d53f7f.jpg,변경 없음
+train/_annotations.csv,labels/train/d--89-_jpg.rf.c198ae76872794fcaa2758c4c2d53f7f.txt,CSV 행을 YOLO txt로 변환
+train/d--9-_jpg.rf.482090db96f3b7aff16ddb757f09f6ac.jpg,images/train/d--9-_jpg.rf.482090db96f3b7aff16ddb757f09f6ac.jpg,변경 없음
+train/_annotations.csv,labels/train/d--9-_jpg.rf.482090db96f3b7aff16ddb757f09f6ac.txt,CSV 행을 YOLO txt로 변환
+train/d--90-_jpg.rf.be797c64ec07c91d4e3c10885d756781.jpg,images/train/d--90-_jpg.rf.be797c64ec07c91d4e3c10885d756781.jpg,변경 없음
+train/_annotations.csv,labels/train/d--90-_jpg.rf.be797c64ec07c91d4e3c10885d756781.txt,CSV 행을 YOLO txt로 변환
+train/d--91-_jpg.rf.8fa85765205b847e6fb1a441d1570edb.jpg,images/train/d--91-_jpg.rf.8fa85765205b847e6fb1a441d1570edb.jpg,변경 없음
+train/_annotations.csv,labels/train/d--91-_jpg.rf.8fa85765205b847e6fb1a441d1570edb.txt,CSV 행을 YOLO txt로 변환
+train/d--92-_jpg.rf.a426e9866844833c6da39297392a0fbe.jpg,images/train/d--92-_jpg.rf.a426e9866844833c6da39297392a0fbe.jpg,변경 없음
+train/_annotations.csv,labels/train/d--92-_jpg.rf.a426e9866844833c6da39297392a0fbe.txt,CSV 행을 YOLO txt로 변환
+train/d--93-_jpg.rf.c18fd024483919ec196960833ffa6c8d.jpg,images/train/d--93-_jpg.rf.c18fd024483919ec196960833ffa6c8d.jpg,변경 없음
+train/_annotations.csv,labels/train/d--93-_jpg.rf.c18fd024483919ec196960833ffa6c8d.txt,CSV 행을 YOLO txt로 변환
+train/d--94-_jpg.rf.c21231e219c54c9f25c46845f398d0ba.jpg,images/train/d--94-_jpg.rf.c21231e219c54c9f25c46845f398d0ba.jpg,변경 없음
+train/_annotations.csv,labels/train/d--94-_jpg.rf.c21231e219c54c9f25c46845f398d0ba.txt,CSV 행을 YOLO txt로 변환
+train/d--95-_jpg.rf.3f20d8105828e62cbee2a97633700324.jpg,images/train/d--95-_jpg.rf.3f20d8105828e62cbee2a97633700324.jpg,변경 없음
+train/_annotations.csv,labels/train/d--95-_jpg.rf.3f20d8105828e62cbee2a97633700324.txt,CSV 행을 YOLO txt로 변환
+train/d--96-_jpg.rf.fa53ef3bbb73a76f4c0bab86be180cdb.jpg,images/train/d--96-_jpg.rf.fa53ef3bbb73a76f4c0bab86be180cdb.jpg,변경 없음
+train/_annotations.csv,labels/train/d--96-_jpg.rf.fa53ef3bbb73a76f4c0bab86be180cdb.txt,CSV 행을 YOLO txt로 변환
+train/d--97-_jpg.rf.f5e8706299d9b339b6b457fefd93c41f.jpg,images/train/d--97-_jpg.rf.f5e8706299d9b339b6b457fefd93c41f.jpg,변경 없음
+train/_annotations.csv,labels/train/d--97-_jpg.rf.f5e8706299d9b339b6b457fefd93c41f.txt,CSV 행을 YOLO txt로 변환
+train/d--98-_jpg.rf.677fc29b6cf52c40e5a8a9bdc54c3666.jpg,images/train/d--98-_jpg.rf.677fc29b6cf52c40e5a8a9bdc54c3666.jpg,변경 없음
+train/_annotations.csv,labels/train/d--98-_jpg.rf.677fc29b6cf52c40e5a8a9bdc54c3666.txt,CSV 행을 YOLO txt로 변환
+train/d--99-_jpg.rf.3f19712821f13dd35d39664efddb6b42.jpg,images/train/d--99-_jpg.rf.3f19712821f13dd35d39664efddb6b42.jpg,변경 없음
+train/_annotations.csv,labels/train/d--99-_jpg.rf.3f19712821f13dd35d39664efddb6b42.txt,CSV 행을 YOLO txt로 변환
+train/f--1-_jpg.rf.699189e14e6d004d9b979c91ac0e5f9b.jpg,images/train/f--1-_jpg.rf.699189e14e6d004d9b979c91ac0e5f9b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--1-_jpg.rf.699189e14e6d004d9b979c91ac0e5f9b.txt,CSV 행을 YOLO txt로 변환
+train/f--10-_jpg.rf.957f6d5190657543d1c2bc3822720c18.jpg,images/train/f--10-_jpg.rf.957f6d5190657543d1c2bc3822720c18.jpg,변경 없음
+train/_annotations.csv,labels/train/f--10-_jpg.rf.957f6d5190657543d1c2bc3822720c18.txt,CSV 행을 YOLO txt로 변환
+train/f--100-_jpg.rf.263be2811911ef202e4566fb7b3c936b.jpg,images/train/f--100-_jpg.rf.263be2811911ef202e4566fb7b3c936b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--100-_jpg.rf.263be2811911ef202e4566fb7b3c936b.txt,CSV 행을 YOLO txt로 변환
+train/f--101-_jpg.rf.c9b730a776f016df07324a624fd11533.jpg,images/train/f--101-_jpg.rf.c9b730a776f016df07324a624fd11533.jpg,변경 없음
+train/_annotations.csv,labels/train/f--101-_jpg.rf.c9b730a776f016df07324a624fd11533.txt,CSV 행을 YOLO txt로 변환
+train/f--102-_jpg.rf.3a1621a4cc81d527e810ad781f0f9e4b.jpg,images/train/f--102-_jpg.rf.3a1621a4cc81d527e810ad781f0f9e4b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--102-_jpg.rf.3a1621a4cc81d527e810ad781f0f9e4b.txt,CSV 행을 YOLO txt로 변환
+train/f--104-_jpg.rf.e26c7c74960d87134c3922174644d53b.jpg,images/train/f--104-_jpg.rf.e26c7c74960d87134c3922174644d53b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--104-_jpg.rf.e26c7c74960d87134c3922174644d53b.txt,CSV 행을 YOLO txt로 변환
+train/f--105-_jpg.rf.17f910fd876b88955018fb10fb4ed4d4.jpg,images/train/f--105-_jpg.rf.17f910fd876b88955018fb10fb4ed4d4.jpg,변경 없음
+train/_annotations.csv,labels/train/f--105-_jpg.rf.17f910fd876b88955018fb10fb4ed4d4.txt,CSV 행을 YOLO txt로 변환
+train/f--106-_jpg.rf.a7703a859dcddb2f4850fc1f721da0f1.jpg,images/train/f--106-_jpg.rf.a7703a859dcddb2f4850fc1f721da0f1.jpg,변경 없음
+train/_annotations.csv,labels/train/f--106-_jpg.rf.a7703a859dcddb2f4850fc1f721da0f1.txt,CSV 행을 YOLO txt로 변환
+train/f--107-_jpg.rf.d3252e525e90ad3be5f6cc396d49006b.jpg,images/train/f--107-_jpg.rf.d3252e525e90ad3be5f6cc396d49006b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--107-_jpg.rf.d3252e525e90ad3be5f6cc396d49006b.txt,CSV 행을 YOLO txt로 변환
+train/f--108-_jpg.rf.959750db9c9ad9c6e5d9d6ce284d08ff.jpg,images/train/f--108-_jpg.rf.959750db9c9ad9c6e5d9d6ce284d08ff.jpg,변경 없음
+train/_annotations.csv,labels/train/f--108-_jpg.rf.959750db9c9ad9c6e5d9d6ce284d08ff.txt,CSV 행을 YOLO txt로 변환
+train/f--109-_jpg.rf.73a6498288b2c1d9786dbfd54bb910b5.jpg,images/train/f--109-_jpg.rf.73a6498288b2c1d9786dbfd54bb910b5.jpg,변경 없음
+train/_annotations.csv,labels/train/f--109-_jpg.rf.73a6498288b2c1d9786dbfd54bb910b5.txt,CSV 행을 YOLO txt로 변환
+train/f--110-_jpg.rf.93fd531fbeaf42c7f75340a53f0f292d.jpg,images/train/f--110-_jpg.rf.93fd531fbeaf42c7f75340a53f0f292d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--110-_jpg.rf.93fd531fbeaf42c7f75340a53f0f292d.txt,CSV 행을 YOLO txt로 변환
+train/f--111-_jpg.rf.f5c6f5877b1112d6009b3ec8dd17d663.jpg,images/train/f--111-_jpg.rf.f5c6f5877b1112d6009b3ec8dd17d663.jpg,변경 없음
+train/_annotations.csv,labels/train/f--111-_jpg.rf.f5c6f5877b1112d6009b3ec8dd17d663.txt,CSV 행을 YOLO txt로 변환
+train/f--112-_jpg.rf.a366549fb0813902426a1091bc6dbe1d.jpg,images/train/f--112-_jpg.rf.a366549fb0813902426a1091bc6dbe1d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--112-_jpg.rf.a366549fb0813902426a1091bc6dbe1d.txt,CSV 행을 YOLO txt로 변환
+train/f--113-_jpg.rf.ebfe0e75dc3b6de235c319613f9e6f94.jpg,images/train/f--113-_jpg.rf.ebfe0e75dc3b6de235c319613f9e6f94.jpg,변경 없음
+train/_annotations.csv,labels/train/f--113-_jpg.rf.ebfe0e75dc3b6de235c319613f9e6f94.txt,CSV 행을 YOLO txt로 변환
+train/f--114-_jpg.rf.8e4bec3f92161aca0431fd207dc6fe55.jpg,images/train/f--114-_jpg.rf.8e4bec3f92161aca0431fd207dc6fe55.jpg,변경 없음
+train/_annotations.csv,labels/train/f--114-_jpg.rf.8e4bec3f92161aca0431fd207dc6fe55.txt,CSV 행을 YOLO txt로 변환
+train/f--115-_jpg.rf.ecf03ea7154b8b8c12bad65c0701db7b.jpg,images/train/f--115-_jpg.rf.ecf03ea7154b8b8c12bad65c0701db7b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--115-_jpg.rf.ecf03ea7154b8b8c12bad65c0701db7b.txt,CSV 행을 YOLO txt로 변환
+train/f--116-_jpg.rf.bfbadee31a8d482f4b08417c00cc6a56.jpg,images/train/f--116-_jpg.rf.bfbadee31a8d482f4b08417c00cc6a56.jpg,변경 없음
+train/_annotations.csv,labels/train/f--116-_jpg.rf.bfbadee31a8d482f4b08417c00cc6a56.txt,CSV 행을 YOLO txt로 변환
+train/f--117-_jpg.rf.0e8b93cdfa25ff13cc0bed58c2895bcd.jpg,images/train/f--117-_jpg.rf.0e8b93cdfa25ff13cc0bed58c2895bcd.jpg,변경 없음
+train/_annotations.csv,labels/train/f--117-_jpg.rf.0e8b93cdfa25ff13cc0bed58c2895bcd.txt,CSV 행을 YOLO txt로 변환
+train/f--118-_jpg.rf.e8f9f0608c9cc64125af6a356a284adb.jpg,images/train/f--118-_jpg.rf.e8f9f0608c9cc64125af6a356a284adb.jpg,변경 없음
+train/_annotations.csv,labels/train/f--118-_jpg.rf.e8f9f0608c9cc64125af6a356a284adb.txt,CSV 행을 YOLO txt로 변환
+train/f--12-_jpg.rf.9541df31c1b892e14d9859d7fa9d2f49.jpg,images/train/f--12-_jpg.rf.9541df31c1b892e14d9859d7fa9d2f49.jpg,변경 없음
+train/_annotations.csv,labels/train/f--12-_jpg.rf.9541df31c1b892e14d9859d7fa9d2f49.txt,CSV 행을 YOLO txt로 변환
+train/f--121-_jpg.rf.2ca8cbc77f8780f3298f654ec3bbad5d.jpg,images/train/f--121-_jpg.rf.2ca8cbc77f8780f3298f654ec3bbad5d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--121-_jpg.rf.2ca8cbc77f8780f3298f654ec3bbad5d.txt,CSV 행을 YOLO txt로 변환
+train/f--123-_jpg.rf.0d993b178e0f00f7c3b964078e1ea71c.jpg,images/train/f--123-_jpg.rf.0d993b178e0f00f7c3b964078e1ea71c.jpg,변경 없음
+train/_annotations.csv,labels/train/f--123-_jpg.rf.0d993b178e0f00f7c3b964078e1ea71c.txt,CSV 행을 YOLO txt로 변환
+train/f--124-_jpg.rf.dc876351e42b4d0d4d500b9621372d31.jpg,images/train/f--124-_jpg.rf.dc876351e42b4d0d4d500b9621372d31.jpg,변경 없음
+train/_annotations.csv,labels/train/f--124-_jpg.rf.dc876351e42b4d0d4d500b9621372d31.txt,CSV 행을 YOLO txt로 변환
+train/f--126-_jpg.rf.44beb6c00c85e48d6142d304e878af86.jpg,images/train/f--126-_jpg.rf.44beb6c00c85e48d6142d304e878af86.jpg,변경 없음
+train/_annotations.csv,labels/train/f--126-_jpg.rf.44beb6c00c85e48d6142d304e878af86.txt,CSV 행을 YOLO txt로 변환
+train/f--127-_jpg.rf.f81faf61d683211feab8f6b395436867.jpg,images/train/f--127-_jpg.rf.f81faf61d683211feab8f6b395436867.jpg,변경 없음
+train/_annotations.csv,labels/train/f--127-_jpg.rf.f81faf61d683211feab8f6b395436867.txt,CSV 행을 YOLO txt로 변환
+train/f--128-_jpg.rf.005aea351d3f72f09aeb3661eae2451f.jpg,images/train/f--128-_jpg.rf.005aea351d3f72f09aeb3661eae2451f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--128-_jpg.rf.005aea351d3f72f09aeb3661eae2451f.txt,CSV 행을 YOLO txt로 변환
+train/f--129-_jpg.rf.def71fadfc5e0fa09d39531b50408de2.jpg,images/train/f--129-_jpg.rf.def71fadfc5e0fa09d39531b50408de2.jpg,변경 없음
+train/_annotations.csv,labels/train/f--129-_jpg.rf.def71fadfc5e0fa09d39531b50408de2.txt,CSV 행을 YOLO txt로 변환
+train/f--13-_jpg.rf.93b0d4460a582a053ba7d3a2a6584408.jpg,images/train/f--13-_jpg.rf.93b0d4460a582a053ba7d3a2a6584408.jpg,변경 없음
+train/_annotations.csv,labels/train/f--13-_jpg.rf.93b0d4460a582a053ba7d3a2a6584408.txt,CSV 행을 YOLO txt로 변환
+train/f--130-_jpg.rf.7852150ca73a83d5dc181c0978743e27.jpg,images/train/f--130-_jpg.rf.7852150ca73a83d5dc181c0978743e27.jpg,변경 없음
+train/_annotations.csv,labels/train/f--130-_jpg.rf.7852150ca73a83d5dc181c0978743e27.txt,CSV 행을 YOLO txt로 변환
+train/f--131-_jpg.rf.991d43b22eba4bce769f9076b97ab829.jpg,images/train/f--131-_jpg.rf.991d43b22eba4bce769f9076b97ab829.jpg,변경 없음
+train/_annotations.csv,labels/train/f--131-_jpg.rf.991d43b22eba4bce769f9076b97ab829.txt,CSV 행을 YOLO txt로 변환
+train/f--132-_jpg.rf.e7054d7cc1c62a6c231eb6763eb53ebd.jpg,images/train/f--132-_jpg.rf.e7054d7cc1c62a6c231eb6763eb53ebd.jpg,변경 없음
+train/_annotations.csv,labels/train/f--132-_jpg.rf.e7054d7cc1c62a6c231eb6763eb53ebd.txt,CSV 행을 YOLO txt로 변환
+train/f--133-_jpg.rf.306c671349e42b165ffff007eaac651f.jpg,images/train/f--133-_jpg.rf.306c671349e42b165ffff007eaac651f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--133-_jpg.rf.306c671349e42b165ffff007eaac651f.txt,CSV 행을 YOLO txt로 변환
+train/f--136-_jpg.rf.e4e9f3d26b1c56e177b903d69402179d.jpg,images/train/f--136-_jpg.rf.e4e9f3d26b1c56e177b903d69402179d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--136-_jpg.rf.e4e9f3d26b1c56e177b903d69402179d.txt,CSV 행을 YOLO txt로 변환
+train/f--139-_jpg.rf.4eeda4830b617ce5b5a14f8e5681a9d0.jpg,images/train/f--139-_jpg.rf.4eeda4830b617ce5b5a14f8e5681a9d0.jpg,변경 없음
+train/_annotations.csv,labels/train/f--139-_jpg.rf.4eeda4830b617ce5b5a14f8e5681a9d0.txt,CSV 행을 YOLO txt로 변환
+train/f--14-_jpg.rf.a36ddfc1398b21659648730b274087cb.jpg,images/train/f--14-_jpg.rf.a36ddfc1398b21659648730b274087cb.jpg,변경 없음
+train/_annotations.csv,labels/train/f--14-_jpg.rf.a36ddfc1398b21659648730b274087cb.txt,CSV 행을 YOLO txt로 변환
+train/f--140-_jpg.rf.f50ad505a7e0b2961a126222678f860d.jpg,images/train/f--140-_jpg.rf.f50ad505a7e0b2961a126222678f860d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--140-_jpg.rf.f50ad505a7e0b2961a126222678f860d.txt,CSV 행을 YOLO txt로 변환
+train/f--141-_jpg.rf.d54f0789ca336283a403f9af9b8bc9de.jpg,images/train/f--141-_jpg.rf.d54f0789ca336283a403f9af9b8bc9de.jpg,변경 없음
+train/_annotations.csv,labels/train/f--141-_jpg.rf.d54f0789ca336283a403f9af9b8bc9de.txt,CSV 행을 YOLO txt로 변환
+train/f--142-_jpg.rf.b328a493de4fb2ac27cde9e95fd16308.jpg,images/train/f--142-_jpg.rf.b328a493de4fb2ac27cde9e95fd16308.jpg,변경 없음
+train/_annotations.csv,labels/train/f--142-_jpg.rf.b328a493de4fb2ac27cde9e95fd16308.txt,CSV 행을 YOLO txt로 변환
+train/f--143-_jpg.rf.6aab1e08b0669114b90a4657ae5b2450.jpg,images/train/f--143-_jpg.rf.6aab1e08b0669114b90a4657ae5b2450.jpg,변경 없음
+train/_annotations.csv,labels/train/f--143-_jpg.rf.6aab1e08b0669114b90a4657ae5b2450.txt,CSV 행을 YOLO txt로 변환
+train/f--145-_jpg.rf.6fff0983c171566ff671ff960bd11789.jpg,images/train/f--145-_jpg.rf.6fff0983c171566ff671ff960bd11789.jpg,변경 없음
+train/_annotations.csv,labels/train/f--145-_jpg.rf.6fff0983c171566ff671ff960bd11789.txt,CSV 행을 YOLO txt로 변환
+train/f--146-_jpg.rf.a810945763576cbf6e4c634833f5f804.jpg,images/train/f--146-_jpg.rf.a810945763576cbf6e4c634833f5f804.jpg,변경 없음
+train/_annotations.csv,labels/train/f--146-_jpg.rf.a810945763576cbf6e4c634833f5f804.txt,CSV 행을 YOLO txt로 변환
+train/f--151-_jpg.rf.e57cb27ac1e3f8e9f46e5f11161721a1.jpg,images/train/f--151-_jpg.rf.e57cb27ac1e3f8e9f46e5f11161721a1.jpg,변경 없음
+train/_annotations.csv,labels/train/f--151-_jpg.rf.e57cb27ac1e3f8e9f46e5f11161721a1.txt,CSV 행을 YOLO txt로 변환
+train/f--152-_jpg.rf.c7225dd918fc402b1196e14a9fc6372f.jpg,images/train/f--152-_jpg.rf.c7225dd918fc402b1196e14a9fc6372f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--152-_jpg.rf.c7225dd918fc402b1196e14a9fc6372f.txt,CSV 행을 YOLO txt로 변환
+train/f--153-_jpg.rf.5555f62fbe454aca03c1c7a73838a8cf.jpg,images/train/f--153-_jpg.rf.5555f62fbe454aca03c1c7a73838a8cf.jpg,변경 없음
+train/_annotations.csv,labels/train/f--153-_jpg.rf.5555f62fbe454aca03c1c7a73838a8cf.txt,CSV 행을 YOLO txt로 변환
+train/f--154-_jpg.rf.6410217c279eca5420ef7dafedb9aa91.jpg,images/train/f--154-_jpg.rf.6410217c279eca5420ef7dafedb9aa91.jpg,변경 없음
+train/_annotations.csv,labels/train/f--154-_jpg.rf.6410217c279eca5420ef7dafedb9aa91.txt,CSV 행을 YOLO txt로 변환
+train/f--155-_jpg.rf.1552cea12cdf8946546803ab306742b2.jpg,images/train/f--155-_jpg.rf.1552cea12cdf8946546803ab306742b2.jpg,변경 없음
+train/_annotations.csv,labels/train/f--155-_jpg.rf.1552cea12cdf8946546803ab306742b2.txt,CSV 행을 YOLO txt로 변환
+train/f--156-_jpg.rf.fa96c19fcf58ef257c2b7ad513c25974.jpg,images/train/f--156-_jpg.rf.fa96c19fcf58ef257c2b7ad513c25974.jpg,변경 없음
+train/_annotations.csv,labels/train/f--156-_jpg.rf.fa96c19fcf58ef257c2b7ad513c25974.txt,CSV 행을 YOLO txt로 변환
+train/f--157-_jpg.rf.b6752ccdfe244dd4d51e6ca9efb7801d.jpg,images/train/f--157-_jpg.rf.b6752ccdfe244dd4d51e6ca9efb7801d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--157-_jpg.rf.b6752ccdfe244dd4d51e6ca9efb7801d.txt,CSV 행을 YOLO txt로 변환
+train/f--159-_jpg.rf.1a79a131f5bb801957e56d10672aaea7.jpg,images/train/f--159-_jpg.rf.1a79a131f5bb801957e56d10672aaea7.jpg,변경 없음
+train/_annotations.csv,labels/train/f--159-_jpg.rf.1a79a131f5bb801957e56d10672aaea7.txt,CSV 행을 YOLO txt로 변환
+train/f--16-_jpg.rf.d2e1b06b454628210af7a8335d9dc8e7.jpg,images/train/f--16-_jpg.rf.d2e1b06b454628210af7a8335d9dc8e7.jpg,변경 없음
+train/_annotations.csv,labels/train/f--16-_jpg.rf.d2e1b06b454628210af7a8335d9dc8e7.txt,CSV 행을 YOLO txt로 변환
+train/f--160-_jpg.rf.b00bc4876aafc7b50973cbca1dabd82a.jpg,images/train/f--160-_jpg.rf.b00bc4876aafc7b50973cbca1dabd82a.jpg,변경 없음
+train/_annotations.csv,labels/train/f--160-_jpg.rf.b00bc4876aafc7b50973cbca1dabd82a.txt,CSV 행을 YOLO txt로 변환
+train/f--161-_jpg.rf.8e1c921defce9434d1ff5911afa4c1df.jpg,images/train/f--161-_jpg.rf.8e1c921defce9434d1ff5911afa4c1df.jpg,변경 없음
+train/_annotations.csv,labels/train/f--161-_jpg.rf.8e1c921defce9434d1ff5911afa4c1df.txt,CSV 행을 YOLO txt로 변환
+train/f--162-_jpg.rf.b40271f86dda53317eb1b2357193a640.jpg,images/train/f--162-_jpg.rf.b40271f86dda53317eb1b2357193a640.jpg,변경 없음
+train/_annotations.csv,labels/train/f--162-_jpg.rf.b40271f86dda53317eb1b2357193a640.txt,CSV 행을 YOLO txt로 변환
+train/f--164-_jpg.rf.e3442a567063224300451590821fa13b.jpg,images/train/f--164-_jpg.rf.e3442a567063224300451590821fa13b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--164-_jpg.rf.e3442a567063224300451590821fa13b.txt,CSV 행을 YOLO txt로 변환
+train/f--167-_jpg.rf.3649af3ef0b249fec5e0d975163a8cca.jpg,images/train/f--167-_jpg.rf.3649af3ef0b249fec5e0d975163a8cca.jpg,변경 없음
+train/_annotations.csv,labels/train/f--167-_jpg.rf.3649af3ef0b249fec5e0d975163a8cca.txt,CSV 행을 YOLO txt로 변환
+train/f--170-_jpg.rf.e08598288df1e9d1418207ff722e9da7.jpg,images/train/f--170-_jpg.rf.e08598288df1e9d1418207ff722e9da7.jpg,변경 없음
+train/_annotations.csv,labels/train/f--170-_jpg.rf.e08598288df1e9d1418207ff722e9da7.txt,CSV 행을 YOLO txt로 변환
+train/f--171-_jpg.rf.d6f04b8c38df9a83530c49f08d76b49f.jpg,images/train/f--171-_jpg.rf.d6f04b8c38df9a83530c49f08d76b49f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--171-_jpg.rf.d6f04b8c38df9a83530c49f08d76b49f.txt,CSV 행을 YOLO txt로 변환
+train/f--172-_jpg.rf.e8423a42302a5882786f94372b8ed1b2.jpg,images/train/f--172-_jpg.rf.e8423a42302a5882786f94372b8ed1b2.jpg,변경 없음
+train/_annotations.csv,labels/train/f--172-_jpg.rf.e8423a42302a5882786f94372b8ed1b2.txt,CSV 행을 YOLO txt로 변환
+train/f--173-_jpg.rf.a53617ffec15f00b4a1e9830e4a0a16d.jpg,images/train/f--173-_jpg.rf.a53617ffec15f00b4a1e9830e4a0a16d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--173-_jpg.rf.a53617ffec15f00b4a1e9830e4a0a16d.txt,CSV 행을 YOLO txt로 변환
+train/f--174-_jpg.rf.6334df4c96601acc75d33b4a24ee5978.jpg,images/train/f--174-_jpg.rf.6334df4c96601acc75d33b4a24ee5978.jpg,변경 없음
+train/_annotations.csv,labels/train/f--174-_jpg.rf.6334df4c96601acc75d33b4a24ee5978.txt,CSV 행을 YOLO txt로 변환
+train/f--175-_jpg.rf.6d860ce31dfad8fc07945c12b9f036d6.jpg,images/train/f--175-_jpg.rf.6d860ce31dfad8fc07945c12b9f036d6.jpg,변경 없음
+train/_annotations.csv,labels/train/f--175-_jpg.rf.6d860ce31dfad8fc07945c12b9f036d6.txt,CSV 행을 YOLO txt로 변환
+train/f--176-_jpg.rf.8d1ed39d1ca8b07b20f3838d03970ec7.jpg,images/train/f--176-_jpg.rf.8d1ed39d1ca8b07b20f3838d03970ec7.jpg,변경 없음
+train/_annotations.csv,labels/train/f--176-_jpg.rf.8d1ed39d1ca8b07b20f3838d03970ec7.txt,CSV 행을 YOLO txt로 변환
+train/f--177-_jpg.rf.cae1b0c56ac85372c871864947a728bd.jpg,images/train/f--177-_jpg.rf.cae1b0c56ac85372c871864947a728bd.jpg,변경 없음
+train/_annotations.csv,labels/train/f--177-_jpg.rf.cae1b0c56ac85372c871864947a728bd.txt,CSV 행을 YOLO txt로 변환
+train/f--179-_jpg.rf.fb1ffa9f3a277cb8addefeba2af341f4.jpg,images/train/f--179-_jpg.rf.fb1ffa9f3a277cb8addefeba2af341f4.jpg,변경 없음
+train/_annotations.csv,labels/train/f--179-_jpg.rf.fb1ffa9f3a277cb8addefeba2af341f4.txt,CSV 행을 YOLO txt로 변환
+train/f--18-_jpg.rf.0a020df75e5c062dfc1e9106a9a0c5d4.jpg,images/train/f--18-_jpg.rf.0a020df75e5c062dfc1e9106a9a0c5d4.jpg,변경 없음
+train/_annotations.csv,labels/train/f--18-_jpg.rf.0a020df75e5c062dfc1e9106a9a0c5d4.txt,CSV 행을 YOLO txt로 변환
+train/f--180-_jpg.rf.427c3a4144b8277bbd7bedc58e6c960c.jpg,images/train/f--180-_jpg.rf.427c3a4144b8277bbd7bedc58e6c960c.jpg,변경 없음
+train/_annotations.csv,labels/train/f--180-_jpg.rf.427c3a4144b8277bbd7bedc58e6c960c.txt,CSV 행을 YOLO txt로 변환
+train/f--181-_jpg.rf.11b6cd9aba944d823c3d70d59ef55398.jpg,images/train/f--181-_jpg.rf.11b6cd9aba944d823c3d70d59ef55398.jpg,변경 없음
+train/_annotations.csv,labels/train/f--181-_jpg.rf.11b6cd9aba944d823c3d70d59ef55398.txt,CSV 행을 YOLO txt로 변환
+train/f--183-_jpg.rf.11da9ad3cc7c17b1fc895c889af775c2.jpg,images/train/f--183-_jpg.rf.11da9ad3cc7c17b1fc895c889af775c2.jpg,변경 없음
+train/_annotations.csv,labels/train/f--183-_jpg.rf.11da9ad3cc7c17b1fc895c889af775c2.txt,CSV 행을 YOLO txt로 변환
+train/f--184-_jpg.rf.efad807819e526ec9ae77888e9097106.jpg,images/train/f--184-_jpg.rf.efad807819e526ec9ae77888e9097106.jpg,변경 없음
+train/_annotations.csv,labels/train/f--184-_jpg.rf.efad807819e526ec9ae77888e9097106.txt,CSV 행을 YOLO txt로 변환
+train/f--185-_jpg.rf.4733d81ee5de27b0008254efcbdd77c6.jpg,images/train/f--185-_jpg.rf.4733d81ee5de27b0008254efcbdd77c6.jpg,변경 없음
+train/_annotations.csv,labels/train/f--185-_jpg.rf.4733d81ee5de27b0008254efcbdd77c6.txt,CSV 행을 YOLO txt로 변환
+train/f--186-_jpg.rf.e42e1df994d0161357df19409ef8f656.jpg,images/train/f--186-_jpg.rf.e42e1df994d0161357df19409ef8f656.jpg,변경 없음
+train/_annotations.csv,labels/train/f--186-_jpg.rf.e42e1df994d0161357df19409ef8f656.txt,CSV 행을 YOLO txt로 변환
+train/f--187-_jpg.rf.baa5d2f3fd4991c1d3e09c23cc4dc10d.jpg,images/train/f--187-_jpg.rf.baa5d2f3fd4991c1d3e09c23cc4dc10d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--187-_jpg.rf.baa5d2f3fd4991c1d3e09c23cc4dc10d.txt,CSV 행을 YOLO txt로 변환
+train/f--188-_jpg.rf.6e63148932ba4a036c2de55b8b56d540.jpg,images/train/f--188-_jpg.rf.6e63148932ba4a036c2de55b8b56d540.jpg,변경 없음
+train/_annotations.csv,labels/train/f--188-_jpg.rf.6e63148932ba4a036c2de55b8b56d540.txt,CSV 행을 YOLO txt로 변환
+train/f--189-_jpg.rf.57c51e6d74222c4360fe65cb9673848e.jpg,images/train/f--189-_jpg.rf.57c51e6d74222c4360fe65cb9673848e.jpg,변경 없음
+train/_annotations.csv,labels/train/f--189-_jpg.rf.57c51e6d74222c4360fe65cb9673848e.txt,CSV 행을 YOLO txt로 변환
+train/f--19-_jpg.rf.241fd9188d7232aeda591ceda687df12.jpg,images/train/f--19-_jpg.rf.241fd9188d7232aeda591ceda687df12.jpg,변경 없음
+train/_annotations.csv,labels/train/f--19-_jpg.rf.241fd9188d7232aeda591ceda687df12.txt,CSV 행을 YOLO txt로 변환
+train/f--190-_jpg.rf.c10118d9d0bec0f1a5f4190f9e0c48d4.jpg,images/train/f--190-_jpg.rf.c10118d9d0bec0f1a5f4190f9e0c48d4.jpg,변경 없음
+train/_annotations.csv,labels/train/f--190-_jpg.rf.c10118d9d0bec0f1a5f4190f9e0c48d4.txt,CSV 행을 YOLO txt로 변환
+train/f--191-_jpg.rf.5c36a1a13dbb86362f4e4e777b97918e.jpg,images/train/f--191-_jpg.rf.5c36a1a13dbb86362f4e4e777b97918e.jpg,변경 없음
+train/_annotations.csv,labels/train/f--191-_jpg.rf.5c36a1a13dbb86362f4e4e777b97918e.txt,CSV 행을 YOLO txt로 변환
+train/f--192-_jpg.rf.4639b659436191cbff74facf5adcfbd9.jpg,images/train/f--192-_jpg.rf.4639b659436191cbff74facf5adcfbd9.jpg,변경 없음
+train/_annotations.csv,labels/train/f--192-_jpg.rf.4639b659436191cbff74facf5adcfbd9.txt,CSV 행을 YOLO txt로 변환
+train/f--193-_jpg.rf.c53bbf140a789320a5f83a8ef6836806.jpg,images/train/f--193-_jpg.rf.c53bbf140a789320a5f83a8ef6836806.jpg,변경 없음
+train/_annotations.csv,labels/train/f--193-_jpg.rf.c53bbf140a789320a5f83a8ef6836806.txt,CSV 행을 YOLO txt로 변환
+train/f--194-_jpg.rf.3e113fb70346cbe419d7faea5d190ec1.jpg,images/train/f--194-_jpg.rf.3e113fb70346cbe419d7faea5d190ec1.jpg,변경 없음
+train/_annotations.csv,labels/train/f--194-_jpg.rf.3e113fb70346cbe419d7faea5d190ec1.txt,CSV 행을 YOLO txt로 변환
+train/f--195-_jpg.rf.839dce1b7e9c72eb5423579192199459.jpg,images/train/f--195-_jpg.rf.839dce1b7e9c72eb5423579192199459.jpg,변경 없음
+train/_annotations.csv,labels/train/f--195-_jpg.rf.839dce1b7e9c72eb5423579192199459.txt,CSV 행을 YOLO txt로 변환
+train/f--197-_jpg.rf.acc2789e7649bb1d09767ae33449c452.jpg,images/train/f--197-_jpg.rf.acc2789e7649bb1d09767ae33449c452.jpg,변경 없음
+train/_annotations.csv,labels/train/f--197-_jpg.rf.acc2789e7649bb1d09767ae33449c452.txt,CSV 행을 YOLO txt로 변환
+train/f--198-_jpg.rf.de67564fee7f70dc75f52abb001836b3.jpg,images/train/f--198-_jpg.rf.de67564fee7f70dc75f52abb001836b3.jpg,변경 없음
+train/_annotations.csv,labels/train/f--198-_jpg.rf.de67564fee7f70dc75f52abb001836b3.txt,CSV 행을 YOLO txt로 변환
+train/f--199-_jpg.rf.bf2c9e766e9c76416fe5c2e260b747a7.jpg,images/train/f--199-_jpg.rf.bf2c9e766e9c76416fe5c2e260b747a7.jpg,변경 없음
+train/_annotations.csv,labels/train/f--199-_jpg.rf.bf2c9e766e9c76416fe5c2e260b747a7.txt,CSV 행을 YOLO txt로 변환
+train/f--2-_jpg.rf.48c1fae4ea61bf253c183576ebdddeeb.jpg,images/train/f--2-_jpg.rf.48c1fae4ea61bf253c183576ebdddeeb.jpg,변경 없음
+train/_annotations.csv,labels/train/f--2-_jpg.rf.48c1fae4ea61bf253c183576ebdddeeb.txt,CSV 행을 YOLO txt로 변환
+train/f--20-_jpg.rf.9773106d087d869e233fb4fa34c07f1c.jpg,images/train/f--20-_jpg.rf.9773106d087d869e233fb4fa34c07f1c.jpg,변경 없음
+train/_annotations.csv,labels/train/f--20-_jpg.rf.9773106d087d869e233fb4fa34c07f1c.txt,CSV 행을 YOLO txt로 변환
+train/f--21-_jpg.rf.51e0a86c8c7a52083825fa472f5a1685.jpg,images/train/f--21-_jpg.rf.51e0a86c8c7a52083825fa472f5a1685.jpg,변경 없음
+train/_annotations.csv,labels/train/f--21-_jpg.rf.51e0a86c8c7a52083825fa472f5a1685.txt,CSV 행을 YOLO txt로 변환
+train/f--22-_jpg.rf.5d95230e6444fe95c7c1742eab989b4c.jpg,images/train/f--22-_jpg.rf.5d95230e6444fe95c7c1742eab989b4c.jpg,변경 없음
+train/_annotations.csv,labels/train/f--22-_jpg.rf.5d95230e6444fe95c7c1742eab989b4c.txt,CSV 행을 YOLO txt로 변환
+train/f--23-_jpg.rf.2c8c6fd25357e8c6d3260e03082fb902.jpg,images/train/f--23-_jpg.rf.2c8c6fd25357e8c6d3260e03082fb902.jpg,변경 없음
+train/_annotations.csv,labels/train/f--23-_jpg.rf.2c8c6fd25357e8c6d3260e03082fb902.txt,CSV 행을 YOLO txt로 변환
+train/f--24-_jpg.rf.a62351a6819e1d02f25edef09821a059.jpg,images/train/f--24-_jpg.rf.a62351a6819e1d02f25edef09821a059.jpg,변경 없음
+train/_annotations.csv,labels/train/f--24-_jpg.rf.a62351a6819e1d02f25edef09821a059.txt,CSV 행을 YOLO txt로 변환
+train/f--25-_jpg.rf.fbd9967af32f374181cbda610a2fb772.jpg,images/train/f--25-_jpg.rf.fbd9967af32f374181cbda610a2fb772.jpg,변경 없음
+train/_annotations.csv,labels/train/f--25-_jpg.rf.fbd9967af32f374181cbda610a2fb772.txt,CSV 행을 YOLO txt로 변환
+train/f--26-_jpg.rf.c6a348bd994c2ca70db4e76cde714011.jpg,images/train/f--26-_jpg.rf.c6a348bd994c2ca70db4e76cde714011.jpg,변경 없음
+train/_annotations.csv,labels/train/f--26-_jpg.rf.c6a348bd994c2ca70db4e76cde714011.txt,CSV 행을 YOLO txt로 변환
+train/f--27-_jpg.rf.1ef47c45fce0647a41de20357523b7cb.jpg,images/train/f--27-_jpg.rf.1ef47c45fce0647a41de20357523b7cb.jpg,변경 없음
+train/_annotations.csv,labels/train/f--27-_jpg.rf.1ef47c45fce0647a41de20357523b7cb.txt,CSV 행을 YOLO txt로 변환
+train/f--29-_jpg.rf.22cd3b7d350a4b105cc66892a091e040.jpg,images/train/f--29-_jpg.rf.22cd3b7d350a4b105cc66892a091e040.jpg,변경 없음
+train/_annotations.csv,labels/train/f--29-_jpg.rf.22cd3b7d350a4b105cc66892a091e040.txt,CSV 행을 YOLO txt로 변환
+train/f--3-_jpg.rf.9e24d9bf9a05743edeb92e84dafc660f.jpg,images/train/f--3-_jpg.rf.9e24d9bf9a05743edeb92e84dafc660f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--3-_jpg.rf.9e24d9bf9a05743edeb92e84dafc660f.txt,CSV 행을 YOLO txt로 변환
+train/f--30-_jpg.rf.f67245f2b6da827ce462da8693afa6a2.jpg,images/train/f--30-_jpg.rf.f67245f2b6da827ce462da8693afa6a2.jpg,변경 없음
+train/_annotations.csv,labels/train/f--30-_jpg.rf.f67245f2b6da827ce462da8693afa6a2.txt,CSV 행을 YOLO txt로 변환
+train/f--31-_jpg.rf.446d98c37862c312b8a1ac02f05e3c94.jpg,images/train/f--31-_jpg.rf.446d98c37862c312b8a1ac02f05e3c94.jpg,변경 없음
+train/_annotations.csv,labels/train/f--31-_jpg.rf.446d98c37862c312b8a1ac02f05e3c94.txt,CSV 행을 YOLO txt로 변환
+train/f--32-_jpg.rf.fc9c354baea7b4c07e03337cc173dae4.jpg,images/train/f--32-_jpg.rf.fc9c354baea7b4c07e03337cc173dae4.jpg,변경 없음
+train/_annotations.csv,labels/train/f--32-_jpg.rf.fc9c354baea7b4c07e03337cc173dae4.txt,CSV 행을 YOLO txt로 변환
+train/f--33-_jpg.rf.0489564c118d7698278c0a896404d5fc.jpg,images/train/f--33-_jpg.rf.0489564c118d7698278c0a896404d5fc.jpg,변경 없음
+train/_annotations.csv,labels/train/f--33-_jpg.rf.0489564c118d7698278c0a896404d5fc.txt,CSV 행을 YOLO txt로 변환
+train/f--34-_jpg.rf.0f6863103f0af91c1610090972e1a6e2.jpg,images/train/f--34-_jpg.rf.0f6863103f0af91c1610090972e1a6e2.jpg,변경 없음
+train/_annotations.csv,labels/train/f--34-_jpg.rf.0f6863103f0af91c1610090972e1a6e2.txt,CSV 행을 YOLO txt로 변환
+train/f--35-_jpg.rf.ab4368b505c59a4069b3c12c33a267b6.jpg,images/train/f--35-_jpg.rf.ab4368b505c59a4069b3c12c33a267b6.jpg,변경 없음
+train/_annotations.csv,labels/train/f--35-_jpg.rf.ab4368b505c59a4069b3c12c33a267b6.txt,CSV 행을 YOLO txt로 변환
+train/f--36-_jpg.rf.e07c85c0cab720c33ed77fb7f06bbc53.jpg,images/train/f--36-_jpg.rf.e07c85c0cab720c33ed77fb7f06bbc53.jpg,변경 없음
+train/_annotations.csv,labels/train/f--36-_jpg.rf.e07c85c0cab720c33ed77fb7f06bbc53.txt,CSV 행을 YOLO txt로 변환
+train/f--37-_jpg.rf.c2d46a39d47b9bc3b85e5b22e012bc92.jpg,images/train/f--37-_jpg.rf.c2d46a39d47b9bc3b85e5b22e012bc92.jpg,변경 없음
+train/_annotations.csv,labels/train/f--37-_jpg.rf.c2d46a39d47b9bc3b85e5b22e012bc92.txt,CSV 행을 YOLO txt로 변환
+train/f--38-_jpg.rf.e935b9dd6b238382233285b63064e2c9.jpg,images/train/f--38-_jpg.rf.e935b9dd6b238382233285b63064e2c9.jpg,변경 없음
+train/_annotations.csv,labels/train/f--38-_jpg.rf.e935b9dd6b238382233285b63064e2c9.txt,CSV 행을 YOLO txt로 변환
+train/f--39-_jpg.rf.2ec59d11412e285ffea6c5748785e800.jpg,images/train/f--39-_jpg.rf.2ec59d11412e285ffea6c5748785e800.jpg,변경 없음
+train/_annotations.csv,labels/train/f--39-_jpg.rf.2ec59d11412e285ffea6c5748785e800.txt,CSV 행을 YOLO txt로 변환
+train/f--4-_jpg.rf.49131f860876f618465a87c38683cff8.jpg,images/train/f--4-_jpg.rf.49131f860876f618465a87c38683cff8.jpg,변경 없음
+train/_annotations.csv,labels/train/f--4-_jpg.rf.49131f860876f618465a87c38683cff8.txt,CSV 행을 YOLO txt로 변환
+train/f--40-_jpg.rf.2fc6725119f97c4f18fa2876f0761a3c.jpg,images/train/f--40-_jpg.rf.2fc6725119f97c4f18fa2876f0761a3c.jpg,변경 없음
+train/_annotations.csv,labels/train/f--40-_jpg.rf.2fc6725119f97c4f18fa2876f0761a3c.txt,CSV 행을 YOLO txt로 변환
+train/f--41-_jpg.rf.838b9b8fe44bd55f55adccd26541fd5d.jpg,images/train/f--41-_jpg.rf.838b9b8fe44bd55f55adccd26541fd5d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--41-_jpg.rf.838b9b8fe44bd55f55adccd26541fd5d.txt,CSV 행을 YOLO txt로 변환
+train/f--42-_jpg.rf.f3ae1202af7aee62610dee8451720b36.jpg,images/train/f--42-_jpg.rf.f3ae1202af7aee62610dee8451720b36.jpg,변경 없음
+train/_annotations.csv,labels/train/f--42-_jpg.rf.f3ae1202af7aee62610dee8451720b36.txt,CSV 행을 YOLO txt로 변환
+train/f--44-_jpg.rf.9446f471d72ac3e81e99e1c104cd2721.jpg,images/train/f--44-_jpg.rf.9446f471d72ac3e81e99e1c104cd2721.jpg,변경 없음
+train/_annotations.csv,labels/train/f--44-_jpg.rf.9446f471d72ac3e81e99e1c104cd2721.txt,CSV 행을 YOLO txt로 변환
+train/f--45-_jpg.rf.90784e93d46b594cb241ebe5230b390b.jpg,images/train/f--45-_jpg.rf.90784e93d46b594cb241ebe5230b390b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--45-_jpg.rf.90784e93d46b594cb241ebe5230b390b.txt,CSV 행을 YOLO txt로 변환
+train/f--47-_jpg.rf.bbe1ca316c49d255ba5bbbca3555b2b1.jpg,images/train/f--47-_jpg.rf.bbe1ca316c49d255ba5bbbca3555b2b1.jpg,변경 없음
+train/_annotations.csv,labels/train/f--47-_jpg.rf.bbe1ca316c49d255ba5bbbca3555b2b1.txt,CSV 행을 YOLO txt로 변환
+train/f--48-_jpg.rf.a6979d096869f6a0ccc62dcd471959cc.jpg,images/train/f--48-_jpg.rf.a6979d096869f6a0ccc62dcd471959cc.jpg,변경 없음
+train/_annotations.csv,labels/train/f--48-_jpg.rf.a6979d096869f6a0ccc62dcd471959cc.txt,CSV 행을 YOLO txt로 변환
+train/f--49-_jpg.rf.e5600c4ca8657e0b4f59e4fbc3c1e504.jpg,images/train/f--49-_jpg.rf.e5600c4ca8657e0b4f59e4fbc3c1e504.jpg,변경 없음
+train/_annotations.csv,labels/train/f--49-_jpg.rf.e5600c4ca8657e0b4f59e4fbc3c1e504.txt,CSV 행을 YOLO txt로 변환
+train/f--50-_jpg.rf.09205744ac34b02ecfda68bf236f88a3.jpg,images/train/f--50-_jpg.rf.09205744ac34b02ecfda68bf236f88a3.jpg,변경 없음
+train/_annotations.csv,labels/train/f--50-_jpg.rf.09205744ac34b02ecfda68bf236f88a3.txt,CSV 행을 YOLO txt로 변환
+train/f--51-_jpg.rf.61ed38e6a680d9977da57b7c0af7887a.jpg,images/train/f--51-_jpg.rf.61ed38e6a680d9977da57b7c0af7887a.jpg,변경 없음
+train/_annotations.csv,labels/train/f--51-_jpg.rf.61ed38e6a680d9977da57b7c0af7887a.txt,CSV 행을 YOLO txt로 변환
+train/f--52-_jpg.rf.0201ebf066889efba63641ec277de322.jpg,images/train/f--52-_jpg.rf.0201ebf066889efba63641ec277de322.jpg,변경 없음
+train/_annotations.csv,labels/train/f--52-_jpg.rf.0201ebf066889efba63641ec277de322.txt,CSV 행을 YOLO txt로 변환
+train/f--53-_jpg.rf.089c18b94681b1fa73aa58b9d360c586.jpg,images/train/f--53-_jpg.rf.089c18b94681b1fa73aa58b9d360c586.jpg,변경 없음
+train/_annotations.csv,labels/train/f--53-_jpg.rf.089c18b94681b1fa73aa58b9d360c586.txt,CSV 행을 YOLO txt로 변환
+train/f--55-_jpg.rf.8db95fe15ba13b84755b886c3be1008d.jpg,images/train/f--55-_jpg.rf.8db95fe15ba13b84755b886c3be1008d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--55-_jpg.rf.8db95fe15ba13b84755b886c3be1008d.txt,CSV 행을 YOLO txt로 변환
+train/f--56-_jpg.rf.bd35195f3319a29df0dd7816781d18cc.jpg,images/train/f--56-_jpg.rf.bd35195f3319a29df0dd7816781d18cc.jpg,변경 없음
+train/_annotations.csv,labels/train/f--56-_jpg.rf.bd35195f3319a29df0dd7816781d18cc.txt,CSV 행을 YOLO txt로 변환
+train/f--57-_jpg.rf.27efeac8579558fa5f79ac9e7216bf09.jpg,images/train/f--57-_jpg.rf.27efeac8579558fa5f79ac9e7216bf09.jpg,변경 없음
+train/_annotations.csv,labels/train/f--57-_jpg.rf.27efeac8579558fa5f79ac9e7216bf09.txt,CSV 행을 YOLO txt로 변환
+train/f--58-_jpg.rf.edca5df7864129df17f30a58da95fe9e.jpg,images/train/f--58-_jpg.rf.edca5df7864129df17f30a58da95fe9e.jpg,변경 없음
+train/_annotations.csv,labels/train/f--58-_jpg.rf.edca5df7864129df17f30a58da95fe9e.txt,CSV 행을 YOLO txt로 변환
+train/f--59-_jpg.rf.b24c405bf622df3bc637f4465ab62811.jpg,images/train/f--59-_jpg.rf.b24c405bf622df3bc637f4465ab62811.jpg,변경 없음
+train/_annotations.csv,labels/train/f--59-_jpg.rf.b24c405bf622df3bc637f4465ab62811.txt,CSV 행을 YOLO txt로 변환
+train/f--6-_jpg.rf.a5524b6b396f2e28823c9ab9117c4bd5.jpg,images/train/f--6-_jpg.rf.a5524b6b396f2e28823c9ab9117c4bd5.jpg,변경 없음
+train/_annotations.csv,labels/train/f--6-_jpg.rf.a5524b6b396f2e28823c9ab9117c4bd5.txt,CSV 행을 YOLO txt로 변환
+train/f--60-_jpg.rf.8f6f9286cba245c3c78f50ff0949d7ab.jpg,images/train/f--60-_jpg.rf.8f6f9286cba245c3c78f50ff0949d7ab.jpg,변경 없음
+train/_annotations.csv,labels/train/f--60-_jpg.rf.8f6f9286cba245c3c78f50ff0949d7ab.txt,CSV 행을 YOLO txt로 변환
+train/f--61-_jpg.rf.414682194fc5592f74eeb71f14aa5818.jpg,images/train/f--61-_jpg.rf.414682194fc5592f74eeb71f14aa5818.jpg,변경 없음
+train/_annotations.csv,labels/train/f--61-_jpg.rf.414682194fc5592f74eeb71f14aa5818.txt,CSV 행을 YOLO txt로 변환
+train/f--62-_jpg.rf.d8d97a99d6bb14771779b315bd43d9ad.jpg,images/train/f--62-_jpg.rf.d8d97a99d6bb14771779b315bd43d9ad.jpg,변경 없음
+train/_annotations.csv,labels/train/f--62-_jpg.rf.d8d97a99d6bb14771779b315bd43d9ad.txt,CSV 행을 YOLO txt로 변환
+train/f--64-_jpg.rf.76ae7e321c0a0a7309a0215f16ff856f.jpg,images/train/f--64-_jpg.rf.76ae7e321c0a0a7309a0215f16ff856f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--64-_jpg.rf.76ae7e321c0a0a7309a0215f16ff856f.txt,CSV 행을 YOLO txt로 변환
+train/f--65-_jpg.rf.cdc0260b79b039355dc30181d3004abb.jpg,images/train/f--65-_jpg.rf.cdc0260b79b039355dc30181d3004abb.jpg,변경 없음
+train/_annotations.csv,labels/train/f--65-_jpg.rf.cdc0260b79b039355dc30181d3004abb.txt,CSV 행을 YOLO txt로 변환
+train/f--66-_jpg.rf.2a381950e452cf44fd2a279ed66bdbff.jpg,images/train/f--66-_jpg.rf.2a381950e452cf44fd2a279ed66bdbff.jpg,변경 없음
+train/_annotations.csv,labels/train/f--66-_jpg.rf.2a381950e452cf44fd2a279ed66bdbff.txt,CSV 행을 YOLO txt로 변환
+train/f--67-_jpg.rf.da60ec1ac0cc05299b7d841cd9d4fce0.jpg,images/train/f--67-_jpg.rf.da60ec1ac0cc05299b7d841cd9d4fce0.jpg,변경 없음
+train/_annotations.csv,labels/train/f--67-_jpg.rf.da60ec1ac0cc05299b7d841cd9d4fce0.txt,CSV 행을 YOLO txt로 변환
+train/f--68-_jpg.rf.f232f351a497e096b68518a394bf02a9.jpg,images/train/f--68-_jpg.rf.f232f351a497e096b68518a394bf02a9.jpg,변경 없음
+train/_annotations.csv,labels/train/f--68-_jpg.rf.f232f351a497e096b68518a394bf02a9.txt,CSV 행을 YOLO txt로 변환
+train/f--70-_jpg.rf.2f832786d273c15379a9e6bcdb3a0b5f.jpg,images/train/f--70-_jpg.rf.2f832786d273c15379a9e6bcdb3a0b5f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--70-_jpg.rf.2f832786d273c15379a9e6bcdb3a0b5f.txt,CSV 행을 YOLO txt로 변환
+train/f--71-_jpg.rf.c3b9559de6954fc240457adeab548221.jpg,images/train/f--71-_jpg.rf.c3b9559de6954fc240457adeab548221.jpg,변경 없음
+train/_annotations.csv,labels/train/f--71-_jpg.rf.c3b9559de6954fc240457adeab548221.txt,CSV 행을 YOLO txt로 변환
+train/f--72-_jpg.rf.e31f5f3fec84310affa386a9f3d18626.jpg,images/train/f--72-_jpg.rf.e31f5f3fec84310affa386a9f3d18626.jpg,변경 없음
+train/_annotations.csv,labels/train/f--72-_jpg.rf.e31f5f3fec84310affa386a9f3d18626.txt,CSV 행을 YOLO txt로 변환
+train/f--73-_jpg.rf.1594b6e423dce953c9908189cc9ccb7e.jpg,images/train/f--73-_jpg.rf.1594b6e423dce953c9908189cc9ccb7e.jpg,변경 없음
+train/_annotations.csv,labels/train/f--73-_jpg.rf.1594b6e423dce953c9908189cc9ccb7e.txt,CSV 행을 YOLO txt로 변환
+train/f--74-_jpg.rf.6a7ad7d01fc65532db01966898bbc339.jpg,images/train/f--74-_jpg.rf.6a7ad7d01fc65532db01966898bbc339.jpg,변경 없음
+train/_annotations.csv,labels/train/f--74-_jpg.rf.6a7ad7d01fc65532db01966898bbc339.txt,CSV 행을 YOLO txt로 변환
+train/f--75-_jpg.rf.e135beb18d106a3da8faecb322d881fc.jpg,images/train/f--75-_jpg.rf.e135beb18d106a3da8faecb322d881fc.jpg,변경 없음
+train/_annotations.csv,labels/train/f--75-_jpg.rf.e135beb18d106a3da8faecb322d881fc.txt,CSV 행을 YOLO txt로 변환
+train/f--77-_jpg.rf.7ec94768ad965f02ef05f084422233b7.jpg,images/train/f--77-_jpg.rf.7ec94768ad965f02ef05f084422233b7.jpg,변경 없음
+train/_annotations.csv,labels/train/f--77-_jpg.rf.7ec94768ad965f02ef05f084422233b7.txt,CSV 행을 YOLO txt로 변환
+train/f--78-_jpg.rf.4a55a812b4d5834c975e0af240fb178a.jpg,images/train/f--78-_jpg.rf.4a55a812b4d5834c975e0af240fb178a.jpg,변경 없음
+train/_annotations.csv,labels/train/f--78-_jpg.rf.4a55a812b4d5834c975e0af240fb178a.txt,CSV 행을 YOLO txt로 변환
+train/f--79-_jpg.rf.cd0074fdd336beca31100c78aea47de6.jpg,images/train/f--79-_jpg.rf.cd0074fdd336beca31100c78aea47de6.jpg,변경 없음
+train/_annotations.csv,labels/train/f--79-_jpg.rf.cd0074fdd336beca31100c78aea47de6.txt,CSV 행을 YOLO txt로 변환
+train/f--8-_jpg.rf.6294ad4258a2b4cbfd7fd9099a25e506.jpg,images/train/f--8-_jpg.rf.6294ad4258a2b4cbfd7fd9099a25e506.jpg,변경 없음
+train/_annotations.csv,labels/train/f--8-_jpg.rf.6294ad4258a2b4cbfd7fd9099a25e506.txt,CSV 행을 YOLO txt로 변환
+train/f--80-_jpg.rf.7a9a637e61d54a8cd89efcccbde5636f.jpg,images/train/f--80-_jpg.rf.7a9a637e61d54a8cd89efcccbde5636f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--80-_jpg.rf.7a9a637e61d54a8cd89efcccbde5636f.txt,CSV 행을 YOLO txt로 변환
+train/f--82-_jpg.rf.09618d5644b96f5bebaa060cb400970c.jpg,images/train/f--82-_jpg.rf.09618d5644b96f5bebaa060cb400970c.jpg,변경 없음
+train/_annotations.csv,labels/train/f--82-_jpg.rf.09618d5644b96f5bebaa060cb400970c.txt,CSV 행을 YOLO txt로 변환
+train/f--83-_jpg.rf.2502610c90611c0c683c5c1d8d54c20f.jpg,images/train/f--83-_jpg.rf.2502610c90611c0c683c5c1d8d54c20f.jpg,변경 없음
+train/_annotations.csv,labels/train/f--83-_jpg.rf.2502610c90611c0c683c5c1d8d54c20f.txt,CSV 행을 YOLO txt로 변환
+train/f--84-_jpg.rf.6fccb63deb6f1117e20617ee7806afce.jpg,images/train/f--84-_jpg.rf.6fccb63deb6f1117e20617ee7806afce.jpg,변경 없음
+train/_annotations.csv,labels/train/f--84-_jpg.rf.6fccb63deb6f1117e20617ee7806afce.txt,CSV 행을 YOLO txt로 변환
+train/f--85-_jpg.rf.c5eb55584f2cefbb6d151ddeb7129bf4.jpg,images/train/f--85-_jpg.rf.c5eb55584f2cefbb6d151ddeb7129bf4.jpg,변경 없음
+train/_annotations.csv,labels/train/f--85-_jpg.rf.c5eb55584f2cefbb6d151ddeb7129bf4.txt,CSV 행을 YOLO txt로 변환
+train/f--86-_jpg.rf.045ba4eb65f4065b1996311f7f9cfa9b.jpg,images/train/f--86-_jpg.rf.045ba4eb65f4065b1996311f7f9cfa9b.jpg,변경 없음
+train/_annotations.csv,labels/train/f--86-_jpg.rf.045ba4eb65f4065b1996311f7f9cfa9b.txt,CSV 행을 YOLO txt로 변환
+train/f--87-_jpg.rf.b2719ad52e7f1277d702c5b6df7953fa.jpg,images/train/f--87-_jpg.rf.b2719ad52e7f1277d702c5b6df7953fa.jpg,변경 없음
+train/_annotations.csv,labels/train/f--87-_jpg.rf.b2719ad52e7f1277d702c5b6df7953fa.txt,CSV 행을 YOLO txt로 변환
+train/f--88-_jpg.rf.2dc98ecc5bdbfe3962e575b526db410d.jpg,images/train/f--88-_jpg.rf.2dc98ecc5bdbfe3962e575b526db410d.jpg,변경 없음
+train/_annotations.csv,labels/train/f--88-_jpg.rf.2dc98ecc5bdbfe3962e575b526db410d.txt,CSV 행을 YOLO txt로 변환
+train/f--9-_jpg.rf.a7a4f25ca8d15fed8378906896bfc7d7.jpg,images/train/f--9-_jpg.rf.a7a4f25ca8d15fed8378906896bfc7d7.jpg,변경 없음
+train/_annotations.csv,labels/train/f--9-_jpg.rf.a7a4f25ca8d15fed8378906896bfc7d7.txt,CSV 행을 YOLO txt로 변환
+train/f--90-_jpg.rf.d2642838fbdf1b11257789fde23ea204.jpg,images/train/f--90-_jpg.rf.d2642838fbdf1b11257789fde23ea204.jpg,변경 없음
+train/_annotations.csv,labels/train/f--90-_jpg.rf.d2642838fbdf1b11257789fde23ea204.txt,CSV 행을 YOLO txt로 변환
+train/f--91-_jpg.rf.ca99e9200aa3871b41937fd7399bf9e9.jpg,images/train/f--91-_jpg.rf.ca99e9200aa3871b41937fd7399bf9e9.jpg,변경 없음
+train/_annotations.csv,labels/train/f--91-_jpg.rf.ca99e9200aa3871b41937fd7399bf9e9.txt,CSV 행을 YOLO txt로 변환
+train/f--92-_jpg.rf.2bb81da983b0e5e9beea3633fbb2edec.jpg,images/train/f--92-_jpg.rf.2bb81da983b0e5e9beea3633fbb2edec.jpg,변경 없음
+train/_annotations.csv,labels/train/f--92-_jpg.rf.2bb81da983b0e5e9beea3633fbb2edec.txt,CSV 행을 YOLO txt로 변환
+train/f--93-_jpg.rf.078e30898ab266c856ae2fccbc34cb53.jpg,images/train/f--93-_jpg.rf.078e30898ab266c856ae2fccbc34cb53.jpg,변경 없음
+train/_annotations.csv,labels/train/f--93-_jpg.rf.078e30898ab266c856ae2fccbc34cb53.txt,CSV 행을 YOLO txt로 변환
+train/f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a.jpg,images/train/f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a.jpg,변경 없음
+train/_annotations.csv,labels/train/f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a.txt,CSV 행을 YOLO txt로 변환
+train/f--95-_jpg.rf.89628a319545abcb02cf23ec9d001756.jpg,images/train/f--95-_jpg.rf.89628a319545abcb02cf23ec9d001756.jpg,변경 없음
+train/_annotations.csv,labels/train/f--95-_jpg.rf.89628a319545abcb02cf23ec9d001756.txt,CSV 행을 YOLO txt로 변환
+train/f--96-_jpg.rf.179b50e425855ce2ce886d09a3b1f2c8.jpg,images/train/f--96-_jpg.rf.179b50e425855ce2ce886d09a3b1f2c8.jpg,변경 없음
+train/_annotations.csv,labels/train/f--96-_jpg.rf.179b50e425855ce2ce886d09a3b1f2c8.txt,CSV 행을 YOLO txt로 변환
+valid/a--23-_jpg.rf.1ab5e302030f3bb3c08981ca42a8e631.jpg,images/val/a--23-_jpg.rf.1ab5e302030f3bb3c08981ca42a8e631.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--23-_jpg.rf.1ab5e302030f3bb3c08981ca42a8e631.txt,CSV 행을 YOLO txt로 변환
+valid/a--26-_jpg.rf.0ae749f9f22dbfa00f0889c68594bdc9.jpg,images/val/a--26-_jpg.rf.0ae749f9f22dbfa00f0889c68594bdc9.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--26-_jpg.rf.0ae749f9f22dbfa00f0889c68594bdc9.txt,CSV 행을 YOLO txt로 변환
+valid/a--27-_jpg.rf.8a800e6ec700f849fa4235fb736d6532.jpg,images/val/a--27-_jpg.rf.8a800e6ec700f849fa4235fb736d6532.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--27-_jpg.rf.8a800e6ec700f849fa4235fb736d6532.txt,CSV 행을 YOLO txt로 변환
+valid/a--3-_jpg.rf.8248ba99e3b3ae254d1723b674f7fd99.jpg,images/val/a--3-_jpg.rf.8248ba99e3b3ae254d1723b674f7fd99.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--3-_jpg.rf.8248ba99e3b3ae254d1723b674f7fd99.txt,CSV 행을 YOLO txt로 변환
+valid/a--4-_jpg.rf.11d39a37cd66634e646df4be915b9044.jpg,images/val/a--4-_jpg.rf.11d39a37cd66634e646df4be915b9044.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--4-_jpg.rf.11d39a37cd66634e646df4be915b9044.txt,CSV 행을 YOLO txt로 변환
+valid/a--43-_jpg.rf.feae28fb9f182a3b7cfd06be68c8bef3.jpg,images/val/a--43-_jpg.rf.feae28fb9f182a3b7cfd06be68c8bef3.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--43-_jpg.rf.feae28fb9f182a3b7cfd06be68c8bef3.txt,CSV 행을 YOLO txt로 변환
+valid/a--44-_jpg.rf.01dcfe1ce3c2d6d8e020335e0b382c01.jpg,images/val/a--44-_jpg.rf.01dcfe1ce3c2d6d8e020335e0b382c01.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--44-_jpg.rf.01dcfe1ce3c2d6d8e020335e0b382c01.txt,CSV 행을 YOLO txt로 변환
+valid/a--46-_jpg.rf.f2fc88b781d9457f65bfee1a29f6ca49.jpg,images/val/a--46-_jpg.rf.f2fc88b781d9457f65bfee1a29f6ca49.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--46-_jpg.rf.f2fc88b781d9457f65bfee1a29f6ca49.txt,CSV 행을 YOLO txt로 변환
+valid/a--47-_jpg.rf.4b52f93a6fb94ded6e3a16355ccdf382.jpg,images/val/a--47-_jpg.rf.4b52f93a6fb94ded6e3a16355ccdf382.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--47-_jpg.rf.4b52f93a6fb94ded6e3a16355ccdf382.txt,CSV 행을 YOLO txt로 변환
+valid/a--5-_jpg.rf.a98c3326efbb44b980c9e520cf954882.jpg,images/val/a--5-_jpg.rf.a98c3326efbb44b980c9e520cf954882.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--5-_jpg.rf.a98c3326efbb44b980c9e520cf954882.txt,CSV 행을 YOLO txt로 변환
+valid/a--54-_jpg.rf.0383febe7b193195524f26c0df25ea8c.jpg,images/val/a--54-_jpg.rf.0383febe7b193195524f26c0df25ea8c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--54-_jpg.rf.0383febe7b193195524f26c0df25ea8c.txt,CSV 행을 YOLO txt로 변환
+valid/a--56-_jpg.rf.b47891c3c1b3bdf692a27eed2ed119ab.jpg,images/val/a--56-_jpg.rf.b47891c3c1b3bdf692a27eed2ed119ab.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--56-_jpg.rf.b47891c3c1b3bdf692a27eed2ed119ab.txt,CSV 행을 YOLO txt로 변환
+valid/a--61-_jpg.rf.ede7ff276baec39f180c1fff9f6f472a.jpg,images/val/a--61-_jpg.rf.ede7ff276baec39f180c1fff9f6f472a.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--61-_jpg.rf.ede7ff276baec39f180c1fff9f6f472a.txt,CSV 행을 YOLO txt로 변환
+valid/a--66-_jpg.rf.165fbd60b883a3887c7e759b99d14c39.jpg,images/val/a--66-_jpg.rf.165fbd60b883a3887c7e759b99d14c39.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--66-_jpg.rf.165fbd60b883a3887c7e759b99d14c39.txt,CSV 행을 YOLO txt로 변환
+valid/a--67-_jpg.rf.def7d22e1de2a7d2ab101a2c750327ab.jpg,images/val/a--67-_jpg.rf.def7d22e1de2a7d2ab101a2c750327ab.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--67-_jpg.rf.def7d22e1de2a7d2ab101a2c750327ab.txt,CSV 행을 YOLO txt로 변환
+valid/a--7-_jpg.rf.39b8597ed074d53daeaf5daf76fb41ac.jpg,images/val/a--7-_jpg.rf.39b8597ed074d53daeaf5daf76fb41ac.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--7-_jpg.rf.39b8597ed074d53daeaf5daf76fb41ac.txt,CSV 행을 YOLO txt로 변환
+valid/a--74-_jpg.rf.5d951a1c56811afb73c39ef9f875f101.jpg,images/val/a--74-_jpg.rf.5d951a1c56811afb73c39ef9f875f101.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--74-_jpg.rf.5d951a1c56811afb73c39ef9f875f101.txt,CSV 행을 YOLO txt로 변환
+valid/a--75-_jpg.rf.56688afa3e95fe2889b13430edb5c760.jpg,images/val/a--75-_jpg.rf.56688afa3e95fe2889b13430edb5c760.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--75-_jpg.rf.56688afa3e95fe2889b13430edb5c760.txt,CSV 행을 YOLO txt로 변환
+valid/a--79-_jpg.rf.09bcc2e74480e75dd1f335ccc4eeb23c.jpg,images/val/a--79-_jpg.rf.09bcc2e74480e75dd1f335ccc4eeb23c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--79-_jpg.rf.09bcc2e74480e75dd1f335ccc4eeb23c.txt,CSV 행을 YOLO txt로 변환
+valid/a--8-_jpg.rf.fe4fa93cabd6aeecf6b4804e45b74cab.jpg,images/val/a--8-_jpg.rf.fe4fa93cabd6aeecf6b4804e45b74cab.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--8-_jpg.rf.fe4fa93cabd6aeecf6b4804e45b74cab.txt,CSV 행을 YOLO txt로 변환
+valid/a--82-_jpg.rf.19555a247947eee0814df82cd1f007ae.jpg,images/val/a--82-_jpg.rf.19555a247947eee0814df82cd1f007ae.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--82-_jpg.rf.19555a247947eee0814df82cd1f007ae.txt,CSV 행을 YOLO txt로 변환
+valid/a--83-_jpg.rf.21a1b081a299385626db01a1fb14fde0.jpg,images/val/a--83-_jpg.rf.21a1b081a299385626db01a1fb14fde0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--83-_jpg.rf.21a1b081a299385626db01a1fb14fde0.txt,CSV 행을 YOLO txt로 변환
+valid/a--85-_jpg.rf.1683b61d07eb5ec2da366a362dde227f.jpg,images/val/a--85-_jpg.rf.1683b61d07eb5ec2da366a362dde227f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--85-_jpg.rf.1683b61d07eb5ec2da366a362dde227f.txt,CSV 행을 YOLO txt로 변환
+valid/a--93-_jpg.rf.5bf28129778dcf20d15f6b10b16318da.jpg,images/val/a--93-_jpg.rf.5bf28129778dcf20d15f6b10b16318da.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/a--93-_jpg.rf.5bf28129778dcf20d15f6b10b16318da.txt,CSV 행을 YOLO txt로 변환
+valid/b--12-_jpg.rf.016f209b7c5439a4f12cfde8e1b20114.jpg,images/val/b--12-_jpg.rf.016f209b7c5439a4f12cfde8e1b20114.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/b--12-_jpg.rf.016f209b7c5439a4f12cfde8e1b20114.txt,CSV 행을 YOLO txt로 변환
+valid/b--20-_jpg.rf.7314f73f985116f2d90f08770260794e.jpg,images/val/b--20-_jpg.rf.7314f73f985116f2d90f08770260794e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/b--20-_jpg.rf.7314f73f985116f2d90f08770260794e.txt,CSV 행을 YOLO txt로 변환
+valid/c--103-_jpg.rf.2b6feafb66289f2dd300735b293066f7.jpg,images/val/c--103-_jpg.rf.2b6feafb66289f2dd300735b293066f7.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--103-_jpg.rf.2b6feafb66289f2dd300735b293066f7.txt,CSV 행을 YOLO txt로 변환
+valid/c--105-_jpg.rf.5de3e19d008e324efdb8d600d8f01288.jpg,images/val/c--105-_jpg.rf.5de3e19d008e324efdb8d600d8f01288.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--105-_jpg.rf.5de3e19d008e324efdb8d600d8f01288.txt,CSV 행을 YOLO txt로 변환
+valid/c--106-_jpg.rf.0dcb489172a80b8b314ca4e401a022c5.jpg,images/val/c--106-_jpg.rf.0dcb489172a80b8b314ca4e401a022c5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--106-_jpg.rf.0dcb489172a80b8b314ca4e401a022c5.txt,CSV 행을 YOLO txt로 변환
+valid/c--107-_jpg.rf.ead53bf2d59c02dc64524867d70cb3f1.jpg,images/val/c--107-_jpg.rf.ead53bf2d59c02dc64524867d70cb3f1.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--107-_jpg.rf.ead53bf2d59c02dc64524867d70cb3f1.txt,CSV 행을 YOLO txt로 변환
+valid/c--108-_jpg.rf.f7659d7bba7f0f55ea596447f18653e0.jpg,images/val/c--108-_jpg.rf.f7659d7bba7f0f55ea596447f18653e0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--108-_jpg.rf.f7659d7bba7f0f55ea596447f18653e0.txt,CSV 행을 YOLO txt로 변환
+valid/c--115-_jpg.rf.dac6d7e010e02462379787d7bcbc3a2a.jpg,images/val/c--115-_jpg.rf.dac6d7e010e02462379787d7bcbc3a2a.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--115-_jpg.rf.dac6d7e010e02462379787d7bcbc3a2a.txt,CSV 행을 YOLO txt로 변환
+valid/c--127-_jpg.rf.b0ec812900dd231f0e477579871894ab.jpg,images/val/c--127-_jpg.rf.b0ec812900dd231f0e477579871894ab.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--127-_jpg.rf.b0ec812900dd231f0e477579871894ab.txt,CSV 행을 YOLO txt로 변환
+valid/c--145-_jpg.rf.d425c871d9e607c5d9f40e841669de0e.jpg,images/val/c--145-_jpg.rf.d425c871d9e607c5d9f40e841669de0e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--145-_jpg.rf.d425c871d9e607c5d9f40e841669de0e.txt,CSV 행을 YOLO txt로 변환
+valid/c--15-_jpg.rf.7b40ed7a869e48e2142b5a37aa10d1f3.jpg,images/val/c--15-_jpg.rf.7b40ed7a869e48e2142b5a37aa10d1f3.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--15-_jpg.rf.7b40ed7a869e48e2142b5a37aa10d1f3.txt,CSV 행을 YOLO txt로 변환
+valid/c--150-_jpg.rf.64c31448728f754d79b8af483876fe10.jpg,images/val/c--150-_jpg.rf.64c31448728f754d79b8af483876fe10.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--150-_jpg.rf.64c31448728f754d79b8af483876fe10.txt,CSV 행을 YOLO txt로 변환
+valid/c--167-_jpg.rf.81951d88c951df31fbc4c991746c25d2.jpg,images/val/c--167-_jpg.rf.81951d88c951df31fbc4c991746c25d2.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--167-_jpg.rf.81951d88c951df31fbc4c991746c25d2.txt,CSV 행을 YOLO txt로 변환
+valid/c--168-_jpg.rf.d2bc150418346bd2320323094366275e.jpg,images/val/c--168-_jpg.rf.d2bc150418346bd2320323094366275e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--168-_jpg.rf.d2bc150418346bd2320323094366275e.txt,CSV 행을 YOLO txt로 변환
+valid/c--169-_jpg.rf.fa7ced6081099b77fa9acec7af792df9.jpg,images/val/c--169-_jpg.rf.fa7ced6081099b77fa9acec7af792df9.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--169-_jpg.rf.fa7ced6081099b77fa9acec7af792df9.txt,CSV 행을 YOLO txt로 변환
+valid/c--17-_jpg.rf.129bf866b08f693c0a0ad787f39679bc.jpg,images/val/c--17-_jpg.rf.129bf866b08f693c0a0ad787f39679bc.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--17-_jpg.rf.129bf866b08f693c0a0ad787f39679bc.txt,CSV 행을 YOLO txt로 변환
+valid/c--170-_jpg.rf.c6c10623ecd781ef681ff205c21d35b0.jpg,images/val/c--170-_jpg.rf.c6c10623ecd781ef681ff205c21d35b0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--170-_jpg.rf.c6c10623ecd781ef681ff205c21d35b0.txt,CSV 행을 YOLO txt로 변환
+valid/c--171-_jpg.rf.bb7d6200471fc0c8b9670ae147c7be6e.jpg,images/val/c--171-_jpg.rf.bb7d6200471fc0c8b9670ae147c7be6e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--171-_jpg.rf.bb7d6200471fc0c8b9670ae147c7be6e.txt,CSV 행을 YOLO txt로 변환
+valid/c--172-_jpg.rf.e770140160fd7aaa0429c661fccffa66.jpg,images/val/c--172-_jpg.rf.e770140160fd7aaa0429c661fccffa66.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--172-_jpg.rf.e770140160fd7aaa0429c661fccffa66.txt,CSV 행을 YOLO txt로 변환
+valid/c--173-_jpg.rf.a61c25de76db954defe8bae82b0837c2.jpg,images/val/c--173-_jpg.rf.a61c25de76db954defe8bae82b0837c2.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--173-_jpg.rf.a61c25de76db954defe8bae82b0837c2.txt,CSV 행을 YOLO txt로 변환
+valid/c--174-_jpg.rf.a95865c71ba55db5dbcf6fc9e5e26c6b.jpg,images/val/c--174-_jpg.rf.a95865c71ba55db5dbcf6fc9e5e26c6b.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--174-_jpg.rf.a95865c71ba55db5dbcf6fc9e5e26c6b.txt,CSV 행을 YOLO txt로 변환
+valid/c--175-_jpg.rf.8db5ad276cc740cac05ae63613e25de2.jpg,images/val/c--175-_jpg.rf.8db5ad276cc740cac05ae63613e25de2.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--175-_jpg.rf.8db5ad276cc740cac05ae63613e25de2.txt,CSV 행을 YOLO txt로 변환
+valid/c--176-_jpg.rf.1d4a742d368cae50f384976f39d59ed4.jpg,images/val/c--176-_jpg.rf.1d4a742d368cae50f384976f39d59ed4.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--176-_jpg.rf.1d4a742d368cae50f384976f39d59ed4.txt,CSV 행을 YOLO txt로 변환
+valid/c--177-_jpg.rf.63c6b6d1dfbfefff13237aaf577c7e34.jpg,images/val/c--177-_jpg.rf.63c6b6d1dfbfefff13237aaf577c7e34.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--177-_jpg.rf.63c6b6d1dfbfefff13237aaf577c7e34.txt,CSV 행을 YOLO txt로 변환
+valid/c--178-_jpg.rf.a859252787fbdb0d66ff8d79eb0df258.jpg,images/val/c--178-_jpg.rf.a859252787fbdb0d66ff8d79eb0df258.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--178-_jpg.rf.a859252787fbdb0d66ff8d79eb0df258.txt,CSV 행을 YOLO txt로 변환
+valid/c--179-_jpg.rf.ffac79351e9ec90aaad5724f24a1e341.jpg,images/val/c--179-_jpg.rf.ffac79351e9ec90aaad5724f24a1e341.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--179-_jpg.rf.ffac79351e9ec90aaad5724f24a1e341.txt,CSV 행을 YOLO txt로 변환
+valid/c--18-_jpg.rf.2b2f29301e8141926c07ffb4c85c161b.jpg,images/val/c--18-_jpg.rf.2b2f29301e8141926c07ffb4c85c161b.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--18-_jpg.rf.2b2f29301e8141926c07ffb4c85c161b.txt,CSV 행을 YOLO txt로 변환
+valid/c--180-_jpg.rf.70ee7ae272485e11508ae6b3a45dff26.jpg,images/val/c--180-_jpg.rf.70ee7ae272485e11508ae6b3a45dff26.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--180-_jpg.rf.70ee7ae272485e11508ae6b3a45dff26.txt,CSV 행을 YOLO txt로 변환
+valid/c--181-_jpg.rf.57004dc1f056f028df076f29a0e879c8.jpg,images/val/c--181-_jpg.rf.57004dc1f056f028df076f29a0e879c8.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--181-_jpg.rf.57004dc1f056f028df076f29a0e879c8.txt,CSV 행을 YOLO txt로 변환
+valid/c--182-_jpg.rf.1a5acb215c0a84d36ed6c272cbf08e86.jpg,images/val/c--182-_jpg.rf.1a5acb215c0a84d36ed6c272cbf08e86.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--182-_jpg.rf.1a5acb215c0a84d36ed6c272cbf08e86.txt,CSV 행을 YOLO txt로 변환
+valid/c--183-_jpg.rf.30414448e73fa023ce6bdf5cc8e536de.jpg,images/val/c--183-_jpg.rf.30414448e73fa023ce6bdf5cc8e536de.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--183-_jpg.rf.30414448e73fa023ce6bdf5cc8e536de.txt,CSV 행을 YOLO txt로 변환
+valid/c--184-_jpg.rf.eb6aa7309b9456d2b8266c347137a400.jpg,images/val/c--184-_jpg.rf.eb6aa7309b9456d2b8266c347137a400.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--184-_jpg.rf.eb6aa7309b9456d2b8266c347137a400.txt,CSV 행을 YOLO txt로 변환
+valid/c--185-_jpg.rf.28449e0055fde79482ede7a71b891211.jpg,images/val/c--185-_jpg.rf.28449e0055fde79482ede7a71b891211.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--185-_jpg.rf.28449e0055fde79482ede7a71b891211.txt,CSV 행을 YOLO txt로 변환
+valid/c--186-_jpg.rf.711274e0accded095cee021e5639b13f.jpg,images/val/c--186-_jpg.rf.711274e0accded095cee021e5639b13f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--186-_jpg.rf.711274e0accded095cee021e5639b13f.txt,CSV 행을 YOLO txt로 변환
+valid/c--187-_jpg.rf.a29f86df337eff444e735303f760f340.jpg,images/val/c--187-_jpg.rf.a29f86df337eff444e735303f760f340.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--187-_jpg.rf.a29f86df337eff444e735303f760f340.txt,CSV 행을 YOLO txt로 변환
+valid/c--188-_jpg.rf.df8c04f880e507f44d63d74b701f3810.jpg,images/val/c--188-_jpg.rf.df8c04f880e507f44d63d74b701f3810.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--188-_jpg.rf.df8c04f880e507f44d63d74b701f3810.txt,CSV 행을 YOLO txt로 변환
+valid/c--189-_jpg.rf.c7d7837efd4cc648da132594b3d9d0bc.jpg,images/val/c--189-_jpg.rf.c7d7837efd4cc648da132594b3d9d0bc.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--189-_jpg.rf.c7d7837efd4cc648da132594b3d9d0bc.txt,CSV 행을 YOLO txt로 변환
+valid/c--19-_jpg.rf.52bcdc3f9330bb012be38038b55458e0.jpg,images/val/c--19-_jpg.rf.52bcdc3f9330bb012be38038b55458e0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--19-_jpg.rf.52bcdc3f9330bb012be38038b55458e0.txt,CSV 행을 YOLO txt로 변환
+valid/c--190-_jpg.rf.00a9250d57514f28a2b092ab8cb4d580.jpg,images/val/c--190-_jpg.rf.00a9250d57514f28a2b092ab8cb4d580.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--190-_jpg.rf.00a9250d57514f28a2b092ab8cb4d580.txt,CSV 행을 YOLO txt로 변환
+valid/c--191-_jpg.rf.3b56030b7ce84cace21b3bfe5ea58827.jpg,images/val/c--191-_jpg.rf.3b56030b7ce84cace21b3bfe5ea58827.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--191-_jpg.rf.3b56030b7ce84cace21b3bfe5ea58827.txt,CSV 행을 YOLO txt로 변환
+valid/c--192-_jpg.rf.df089b8994445656738112b3ccaa5003.jpg,images/val/c--192-_jpg.rf.df089b8994445656738112b3ccaa5003.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--192-_jpg.rf.df089b8994445656738112b3ccaa5003.txt,CSV 행을 YOLO txt로 변환
+valid/c--193-_jpg.rf.9ddaa7a092c26f4866f5ef65e86dce42.jpg,images/val/c--193-_jpg.rf.9ddaa7a092c26f4866f5ef65e86dce42.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--193-_jpg.rf.9ddaa7a092c26f4866f5ef65e86dce42.txt,CSV 행을 YOLO txt로 변환
+valid/c--194-_jpg.rf.f87e76fe5255de6de7467b42a8649cd5.jpg,images/val/c--194-_jpg.rf.f87e76fe5255de6de7467b42a8649cd5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--194-_jpg.rf.f87e76fe5255de6de7467b42a8649cd5.txt,CSV 행을 YOLO txt로 변환
+valid/c--195-_jpg.rf.263dc57e76a023be68d5a96657f1de38.jpg,images/val/c--195-_jpg.rf.263dc57e76a023be68d5a96657f1de38.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--195-_jpg.rf.263dc57e76a023be68d5a96657f1de38.txt,CSV 행을 YOLO txt로 변환
+valid/c--196-_jpg.rf.006dfcbc6ee82eac637b254b933ff70c.jpg,images/val/c--196-_jpg.rf.006dfcbc6ee82eac637b254b933ff70c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--196-_jpg.rf.006dfcbc6ee82eac637b254b933ff70c.txt,CSV 행을 YOLO txt로 변환
+valid/c--197-_jpg.rf.8f0fde8c0316114ec84bf0b4a7ad4368.jpg,images/val/c--197-_jpg.rf.8f0fde8c0316114ec84bf0b4a7ad4368.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--197-_jpg.rf.8f0fde8c0316114ec84bf0b4a7ad4368.txt,CSV 행을 YOLO txt로 변환
+valid/c--198-_jpg.rf.64a7077e222d5edccee5f0e2a272b284.jpg,images/val/c--198-_jpg.rf.64a7077e222d5edccee5f0e2a272b284.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--198-_jpg.rf.64a7077e222d5edccee5f0e2a272b284.txt,CSV 행을 YOLO txt로 변환
+valid/c--199-_jpg.rf.508df9096ed4b6070d14fa1e8514bdc6.jpg,images/val/c--199-_jpg.rf.508df9096ed4b6070d14fa1e8514bdc6.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--199-_jpg.rf.508df9096ed4b6070d14fa1e8514bdc6.txt,CSV 행을 YOLO txt로 변환
+valid/c--2-_jpg.rf.0326ed404c601fce1ed53b5acba116ed.jpg,images/val/c--2-_jpg.rf.0326ed404c601fce1ed53b5acba116ed.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--2-_jpg.rf.0326ed404c601fce1ed53b5acba116ed.txt,CSV 행을 YOLO txt로 변환
+valid/c--20-_jpg.rf.1485254046fe3dfc47a09cb7208644d3.jpg,images/val/c--20-_jpg.rf.1485254046fe3dfc47a09cb7208644d3.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--20-_jpg.rf.1485254046fe3dfc47a09cb7208644d3.txt,CSV 행을 YOLO txt로 변환
+valid/c--200-_jpg.rf.76607b9345398b8b276df5398ae6b93b.jpg,images/val/c--200-_jpg.rf.76607b9345398b8b276df5398ae6b93b.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--200-_jpg.rf.76607b9345398b8b276df5398ae6b93b.txt,CSV 행을 YOLO txt로 변환
+valid/c--21-_jpg.rf.c14e6cc95d446ec2d89a794cfa68fc0c.jpg,images/val/c--21-_jpg.rf.c14e6cc95d446ec2d89a794cfa68fc0c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--21-_jpg.rf.c14e6cc95d446ec2d89a794cfa68fc0c.txt,CSV 행을 YOLO txt로 변환
+valid/c--22-_jpg.rf.435638a1dd5074b716ad78ad28a06cb9.jpg,images/val/c--22-_jpg.rf.435638a1dd5074b716ad78ad28a06cb9.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--22-_jpg.rf.435638a1dd5074b716ad78ad28a06cb9.txt,CSV 행을 YOLO txt로 변환
+valid/c--23-_jpg.rf.74df4ed4e90eb51ebf380dbd3f962265.jpg,images/val/c--23-_jpg.rf.74df4ed4e90eb51ebf380dbd3f962265.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--23-_jpg.rf.74df4ed4e90eb51ebf380dbd3f962265.txt,CSV 행을 YOLO txt로 변환
+valid/c--24-_jpg.rf.238a28575d9e715a7992b00b0d74e1a7.jpg,images/val/c--24-_jpg.rf.238a28575d9e715a7992b00b0d74e1a7.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--24-_jpg.rf.238a28575d9e715a7992b00b0d74e1a7.txt,CSV 행을 YOLO txt로 변환
+valid/c--25-_jpg.rf.c7b8c3ad35689b885590cc09c805dc7f.jpg,images/val/c--25-_jpg.rf.c7b8c3ad35689b885590cc09c805dc7f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--25-_jpg.rf.c7b8c3ad35689b885590cc09c805dc7f.txt,CSV 행을 YOLO txt로 변환
+valid/c--26-_jpg.rf.3623cac76c9a86c3839ec138bd60ad38.jpg,images/val/c--26-_jpg.rf.3623cac76c9a86c3839ec138bd60ad38.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--26-_jpg.rf.3623cac76c9a86c3839ec138bd60ad38.txt,CSV 행을 YOLO txt로 변환
+valid/c--27-_jpg.rf.0caad65ba0c0030d955dcf4d99ad7496.jpg,images/val/c--27-_jpg.rf.0caad65ba0c0030d955dcf4d99ad7496.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--27-_jpg.rf.0caad65ba0c0030d955dcf4d99ad7496.txt,CSV 행을 YOLO txt로 변환
+valid/c--28-_jpg.rf.63cf2b462abe6a606a2f98eeee9fac97.jpg,images/val/c--28-_jpg.rf.63cf2b462abe6a606a2f98eeee9fac97.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--28-_jpg.rf.63cf2b462abe6a606a2f98eeee9fac97.txt,CSV 행을 YOLO txt로 변환
+valid/c--29-_jpg.rf.c745f8305bbad434ef2f033ced947a96.jpg,images/val/c--29-_jpg.rf.c745f8305bbad434ef2f033ced947a96.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--29-_jpg.rf.c745f8305bbad434ef2f033ced947a96.txt,CSV 행을 YOLO txt로 변환
+valid/c--3-_jpg.rf.81e764c371b815a320261f0fdf5b1c99.jpg,images/val/c--3-_jpg.rf.81e764c371b815a320261f0fdf5b1c99.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--3-_jpg.rf.81e764c371b815a320261f0fdf5b1c99.txt,CSV 행을 YOLO txt로 변환
+valid/c--30-_jpg.rf.dc31d1c1b3a5e0297ea8625cda59cf97.jpg,images/val/c--30-_jpg.rf.dc31d1c1b3a5e0297ea8625cda59cf97.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--30-_jpg.rf.dc31d1c1b3a5e0297ea8625cda59cf97.txt,CSV 행을 YOLO txt로 변환
+valid/c--31-_jpg.rf.66b0a781ec2ef637329eab5e3dcfd3af.jpg,images/val/c--31-_jpg.rf.66b0a781ec2ef637329eab5e3dcfd3af.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--31-_jpg.rf.66b0a781ec2ef637329eab5e3dcfd3af.txt,CSV 행을 YOLO txt로 변환
+valid/c--32-_jpg.rf.ba4e2455307a29f2f386e5c1f4974476.jpg,images/val/c--32-_jpg.rf.ba4e2455307a29f2f386e5c1f4974476.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--32-_jpg.rf.ba4e2455307a29f2f386e5c1f4974476.txt,CSV 행을 YOLO txt로 변환
+valid/c--33-_jpg.rf.060df43ce21c08b048fc7006cddde82c.jpg,images/val/c--33-_jpg.rf.060df43ce21c08b048fc7006cddde82c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--33-_jpg.rf.060df43ce21c08b048fc7006cddde82c.txt,CSV 행을 YOLO txt로 변환
+valid/c--34-_jpg.rf.e852f0fb16bb5a7204a0cf1670a3da31.jpg,images/val/c--34-_jpg.rf.e852f0fb16bb5a7204a0cf1670a3da31.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--34-_jpg.rf.e852f0fb16bb5a7204a0cf1670a3da31.txt,CSV 행을 YOLO txt로 변환
+valid/c--35-_jpg.rf.11b7b9f40d845e49e3d656a8c5dc34c5.jpg,images/val/c--35-_jpg.rf.11b7b9f40d845e49e3d656a8c5dc34c5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--35-_jpg.rf.11b7b9f40d845e49e3d656a8c5dc34c5.txt,CSV 행을 YOLO txt로 변환
+valid/c--36-_jpg.rf.095669007899fc6932329c83b4d21c68.jpg,images/val/c--36-_jpg.rf.095669007899fc6932329c83b4d21c68.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--36-_jpg.rf.095669007899fc6932329c83b4d21c68.txt,CSV 행을 YOLO txt로 변환
+valid/c--37-_jpg.rf.c56cab6f013e88f18752b5cc3d23d7ba.jpg,images/val/c--37-_jpg.rf.c56cab6f013e88f18752b5cc3d23d7ba.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--37-_jpg.rf.c56cab6f013e88f18752b5cc3d23d7ba.txt,CSV 행을 YOLO txt로 변환
+valid/c--38-_jpg.rf.6f6d22e248524cc394c14c605ee83238.jpg,images/val/c--38-_jpg.rf.6f6d22e248524cc394c14c605ee83238.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--38-_jpg.rf.6f6d22e248524cc394c14c605ee83238.txt,CSV 행을 YOLO txt로 변환
+valid/c--39-_jpg.rf.4133545d32cf99a24c0cdd0280ae10ab.jpg,images/val/c--39-_jpg.rf.4133545d32cf99a24c0cdd0280ae10ab.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--39-_jpg.rf.4133545d32cf99a24c0cdd0280ae10ab.txt,CSV 행을 YOLO txt로 변환
+valid/c--4-_jpg.rf.f69e65573d335931c14ee37a0cf9af6f.jpg,images/val/c--4-_jpg.rf.f69e65573d335931c14ee37a0cf9af6f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--4-_jpg.rf.f69e65573d335931c14ee37a0cf9af6f.txt,CSV 행을 YOLO txt로 변환
+valid/c--40-_jpg.rf.9f217f3f081c76f280a24c03f91fce7b.jpg,images/val/c--40-_jpg.rf.9f217f3f081c76f280a24c03f91fce7b.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--40-_jpg.rf.9f217f3f081c76f280a24c03f91fce7b.txt,CSV 행을 YOLO txt로 변환
+valid/c--41-_jpg.rf.5615879d294858630cf3ce62385553e2.jpg,images/val/c--41-_jpg.rf.5615879d294858630cf3ce62385553e2.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--41-_jpg.rf.5615879d294858630cf3ce62385553e2.txt,CSV 행을 YOLO txt로 변환
+valid/c--42-_jpg.rf.6ac4e7861933cafe922f3abcf1384eed.jpg,images/val/c--42-_jpg.rf.6ac4e7861933cafe922f3abcf1384eed.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--42-_jpg.rf.6ac4e7861933cafe922f3abcf1384eed.txt,CSV 행을 YOLO txt로 변환
+valid/c--43-_jpg.rf.8c4959bd330ff5ac473ccc296ebfc27a.jpg,images/val/c--43-_jpg.rf.8c4959bd330ff5ac473ccc296ebfc27a.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--43-_jpg.rf.8c4959bd330ff5ac473ccc296ebfc27a.txt,CSV 행을 YOLO txt로 변환
+valid/c--44-_jpg.rf.aae771386d128b9756e935a45d2d7c5c.jpg,images/val/c--44-_jpg.rf.aae771386d128b9756e935a45d2d7c5c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--44-_jpg.rf.aae771386d128b9756e935a45d2d7c5c.txt,CSV 행을 YOLO txt로 변환
+valid/c--45-_jpg.rf.a6a1d41b212d4b9ea7290a4474ed4473.jpg,images/val/c--45-_jpg.rf.a6a1d41b212d4b9ea7290a4474ed4473.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--45-_jpg.rf.a6a1d41b212d4b9ea7290a4474ed4473.txt,CSV 행을 YOLO txt로 변환
+valid/c--46-_jpg.rf.dc818e8db1b49c87b872e0919f535125.jpg,images/val/c--46-_jpg.rf.dc818e8db1b49c87b872e0919f535125.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--46-_jpg.rf.dc818e8db1b49c87b872e0919f535125.txt,CSV 행을 YOLO txt로 변환
+valid/c--47-_jpg.rf.641b989be2eb6c20fcbf9f591cac1f11.jpg,images/val/c--47-_jpg.rf.641b989be2eb6c20fcbf9f591cac1f11.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--47-_jpg.rf.641b989be2eb6c20fcbf9f591cac1f11.txt,CSV 행을 YOLO txt로 변환
+valid/c--48-_jpg.rf.27b501a811a3c5fff2e016aed54df53b.jpg,images/val/c--48-_jpg.rf.27b501a811a3c5fff2e016aed54df53b.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--48-_jpg.rf.27b501a811a3c5fff2e016aed54df53b.txt,CSV 행을 YOLO txt로 변환
+valid/c--49-_jpg.rf.c945f2e5ebfb7b16328e4bd970003cb0.jpg,images/val/c--49-_jpg.rf.c945f2e5ebfb7b16328e4bd970003cb0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--49-_jpg.rf.c945f2e5ebfb7b16328e4bd970003cb0.txt,CSV 행을 YOLO txt로 변환
+valid/c--5-_jpg.rf.e987df9bff6061ef3010945913a35d59.jpg,images/val/c--5-_jpg.rf.e987df9bff6061ef3010945913a35d59.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--5-_jpg.rf.e987df9bff6061ef3010945913a35d59.txt,CSV 행을 YOLO txt로 변환
+valid/c--50-_jpg.rf.b3f95f199205f73aaa53e00bfeb2a21d.jpg,images/val/c--50-_jpg.rf.b3f95f199205f73aaa53e00bfeb2a21d.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--50-_jpg.rf.b3f95f199205f73aaa53e00bfeb2a21d.txt,CSV 행을 YOLO txt로 변환
+valid/c--51-_jpg.rf.fd39da9ab3817fc910f73805615dd55c.jpg,images/val/c--51-_jpg.rf.fd39da9ab3817fc910f73805615dd55c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--51-_jpg.rf.fd39da9ab3817fc910f73805615dd55c.txt,CSV 행을 YOLO txt로 변환
+valid/c--52-_jpg.rf.04dbfa2df074ab4c13ee61da878cce86.jpg,images/val/c--52-_jpg.rf.04dbfa2df074ab4c13ee61da878cce86.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--52-_jpg.rf.04dbfa2df074ab4c13ee61da878cce86.txt,CSV 행을 YOLO txt로 변환
+valid/c--53-_jpg.rf.08a6885937f0e85045ad0ca2f94c05f8.jpg,images/val/c--53-_jpg.rf.08a6885937f0e85045ad0ca2f94c05f8.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--53-_jpg.rf.08a6885937f0e85045ad0ca2f94c05f8.txt,CSV 행을 YOLO txt로 변환
+valid/c--54-_jpg.rf.dcda4d5fd6da39d739cd613b414c731e.jpg,images/val/c--54-_jpg.rf.dcda4d5fd6da39d739cd613b414c731e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--54-_jpg.rf.dcda4d5fd6da39d739cd613b414c731e.txt,CSV 행을 YOLO txt로 변환
+valid/c--55-_jpg.rf.fe4f8cfb75f3da70e30f98dfcced9d2c.jpg,images/val/c--55-_jpg.rf.fe4f8cfb75f3da70e30f98dfcced9d2c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--55-_jpg.rf.fe4f8cfb75f3da70e30f98dfcced9d2c.txt,CSV 행을 YOLO txt로 변환
+valid/c--56-_jpg.rf.327e9572816d254e294e1bd2dd41918a.jpg,images/val/c--56-_jpg.rf.327e9572816d254e294e1bd2dd41918a.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--56-_jpg.rf.327e9572816d254e294e1bd2dd41918a.txt,CSV 행을 YOLO txt로 변환
+valid/c--57-_jpg.rf.124bdf17a8e81f82372621c8ef41915c.jpg,images/val/c--57-_jpg.rf.124bdf17a8e81f82372621c8ef41915c.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--57-_jpg.rf.124bdf17a8e81f82372621c8ef41915c.txt,CSV 행을 YOLO txt로 변환
+valid/c--58-_jpg.rf.996d121726d06f8d58bdb6909d35bd47.jpg,images/val/c--58-_jpg.rf.996d121726d06f8d58bdb6909d35bd47.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--58-_jpg.rf.996d121726d06f8d58bdb6909d35bd47.txt,CSV 행을 YOLO txt로 변환
+valid/c--59-_jpg.rf.4a86418df2cc6824dd52d53f6f9e20d5.jpg,images/val/c--59-_jpg.rf.4a86418df2cc6824dd52d53f6f9e20d5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--59-_jpg.rf.4a86418df2cc6824dd52d53f6f9e20d5.txt,CSV 행을 YOLO txt로 변환
+valid/c--6-_jpg.rf.9ff82a58a37f91f8e6f57c4b9f09ee81.jpg,images/val/c--6-_jpg.rf.9ff82a58a37f91f8e6f57c4b9f09ee81.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--6-_jpg.rf.9ff82a58a37f91f8e6f57c4b9f09ee81.txt,CSV 행을 YOLO txt로 변환
+valid/c--60-_jpg.rf.8a696cfbdfe586ebb9ce57daebb8da17.jpg,images/val/c--60-_jpg.rf.8a696cfbdfe586ebb9ce57daebb8da17.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--60-_jpg.rf.8a696cfbdfe586ebb9ce57daebb8da17.txt,CSV 행을 YOLO txt로 변환
+valid/c--61-_jpg.rf.6bdcdbae7ebb1515ee203cf9a79eade0.jpg,images/val/c--61-_jpg.rf.6bdcdbae7ebb1515ee203cf9a79eade0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--61-_jpg.rf.6bdcdbae7ebb1515ee203cf9a79eade0.txt,CSV 행을 YOLO txt로 변환
+valid/c--62-_jpg.rf.d14c9bc47d5073872883622ac6fef3b1.jpg,images/val/c--62-_jpg.rf.d14c9bc47d5073872883622ac6fef3b1.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--62-_jpg.rf.d14c9bc47d5073872883622ac6fef3b1.txt,CSV 행을 YOLO txt로 변환
+valid/c--63-_jpg.rf.3d66391c67ed0068cfd7847189eed6e0.jpg,images/val/c--63-_jpg.rf.3d66391c67ed0068cfd7847189eed6e0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--63-_jpg.rf.3d66391c67ed0068cfd7847189eed6e0.txt,CSV 행을 YOLO txt로 변환
+valid/c--64-_jpg.rf.eaa73a88b5baa9db91ba9aa42a204611.jpg,images/val/c--64-_jpg.rf.eaa73a88b5baa9db91ba9aa42a204611.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--64-_jpg.rf.eaa73a88b5baa9db91ba9aa42a204611.txt,CSV 행을 YOLO txt로 변환
+valid/c--65-_jpg.rf.991c343f81438255490fe97e5e285ad5.jpg,images/val/c--65-_jpg.rf.991c343f81438255490fe97e5e285ad5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--65-_jpg.rf.991c343f81438255490fe97e5e285ad5.txt,CSV 행을 YOLO txt로 변환
+valid/c--66-_jpg.rf.a6c86839628f180ad5e8b8421ed20873.jpg,images/val/c--66-_jpg.rf.a6c86839628f180ad5e8b8421ed20873.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--66-_jpg.rf.a6c86839628f180ad5e8b8421ed20873.txt,CSV 행을 YOLO txt로 변환
+valid/c--67-_jpg.rf.03c27a6e809cbfcf3ac36e52a83b6ee5.jpg,images/val/c--67-_jpg.rf.03c27a6e809cbfcf3ac36e52a83b6ee5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--67-_jpg.rf.03c27a6e809cbfcf3ac36e52a83b6ee5.txt,CSV 행을 YOLO txt로 변환
+valid/c--68-_jpg.rf.f08b69d4c04cc2b51516b5e1d71e6cef.jpg,images/val/c--68-_jpg.rf.f08b69d4c04cc2b51516b5e1d71e6cef.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--68-_jpg.rf.f08b69d4c04cc2b51516b5e1d71e6cef.txt,CSV 행을 YOLO txt로 변환
+valid/c--69-_jpg.rf.3957a3460762ebdef8b08e044289b229.jpg,images/val/c--69-_jpg.rf.3957a3460762ebdef8b08e044289b229.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--69-_jpg.rf.3957a3460762ebdef8b08e044289b229.txt,CSV 행을 YOLO txt로 변환
+valid/c--7-_jpg.rf.c6ffcb2b7210f2a9803ecade4423dbac.jpg,images/val/c--7-_jpg.rf.c6ffcb2b7210f2a9803ecade4423dbac.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--7-_jpg.rf.c6ffcb2b7210f2a9803ecade4423dbac.txt,CSV 행을 YOLO txt로 변환
+valid/c--70-_jpg.rf.050e808aa9f90f3d0097f57e61887b5f.jpg,images/val/c--70-_jpg.rf.050e808aa9f90f3d0097f57e61887b5f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--70-_jpg.rf.050e808aa9f90f3d0097f57e61887b5f.txt,CSV 행을 YOLO txt로 변환
+valid/c--71-_jpg.rf.b1cc381d982d258583014caf2cdc3a35.jpg,images/val/c--71-_jpg.rf.b1cc381d982d258583014caf2cdc3a35.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--71-_jpg.rf.b1cc381d982d258583014caf2cdc3a35.txt,CSV 행을 YOLO txt로 변환
+valid/c--72-_jpg.rf.e3cdcdf20310e9432bf6fb7e91576872.jpg,images/val/c--72-_jpg.rf.e3cdcdf20310e9432bf6fb7e91576872.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--72-_jpg.rf.e3cdcdf20310e9432bf6fb7e91576872.txt,CSV 행을 YOLO txt로 변환
+valid/c--73-_jpg.rf.82225c2e474e6f517e8e668051b99970.jpg,images/val/c--73-_jpg.rf.82225c2e474e6f517e8e668051b99970.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--73-_jpg.rf.82225c2e474e6f517e8e668051b99970.txt,CSV 행을 YOLO txt로 변환
+valid/c--74-_jpg.rf.1e1e220f9d653d2eb7348d9b13a19c2f.jpg,images/val/c--74-_jpg.rf.1e1e220f9d653d2eb7348d9b13a19c2f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--74-_jpg.rf.1e1e220f9d653d2eb7348d9b13a19c2f.txt,CSV 행을 YOLO txt로 변환
+valid/c--75-_jpg.rf.0c182238125f83ccaacc8677f3f16f00.jpg,images/val/c--75-_jpg.rf.0c182238125f83ccaacc8677f3f16f00.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--75-_jpg.rf.0c182238125f83ccaacc8677f3f16f00.txt,CSV 행을 YOLO txt로 변환
+valid/c--76-_jpg.rf.79ebbcca309c298a16fc362a78234fb0.jpg,images/val/c--76-_jpg.rf.79ebbcca309c298a16fc362a78234fb0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--76-_jpg.rf.79ebbcca309c298a16fc362a78234fb0.txt,CSV 행을 YOLO txt로 변환
+valid/c--77-_jpg.rf.d0757ba2fd080cc2bf7eabe8c1ede585.jpg,images/val/c--77-_jpg.rf.d0757ba2fd080cc2bf7eabe8c1ede585.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--77-_jpg.rf.d0757ba2fd080cc2bf7eabe8c1ede585.txt,CSV 행을 YOLO txt로 변환
+valid/c--78-_jpg.rf.ebbe97357e52c519aed13647cdefae27.jpg,images/val/c--78-_jpg.rf.ebbe97357e52c519aed13647cdefae27.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--78-_jpg.rf.ebbe97357e52c519aed13647cdefae27.txt,CSV 행을 YOLO txt로 변환
+valid/c--79-_jpg.rf.a989da0905327fd55ae0bf5e6bb0f9cf.jpg,images/val/c--79-_jpg.rf.a989da0905327fd55ae0bf5e6bb0f9cf.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--79-_jpg.rf.a989da0905327fd55ae0bf5e6bb0f9cf.txt,CSV 행을 YOLO txt로 변환
+valid/c--8-_jpg.rf.6a58234f1d1bc7051816e00949215841.jpg,images/val/c--8-_jpg.rf.6a58234f1d1bc7051816e00949215841.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--8-_jpg.rf.6a58234f1d1bc7051816e00949215841.txt,CSV 행을 YOLO txt로 변환
+valid/c--80-_jpg.rf.c1d42d212a2a712ec9d6ee142c288344.jpg,images/val/c--80-_jpg.rf.c1d42d212a2a712ec9d6ee142c288344.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--80-_jpg.rf.c1d42d212a2a712ec9d6ee142c288344.txt,CSV 행을 YOLO txt로 변환
+valid/c--81-_jpg.rf.e52081310dbb8e3fff8e5ea663abba98.jpg,images/val/c--81-_jpg.rf.e52081310dbb8e3fff8e5ea663abba98.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--81-_jpg.rf.e52081310dbb8e3fff8e5ea663abba98.txt,CSV 행을 YOLO txt로 변환
+valid/c--82-_jpg.rf.98a655b37dc393a91af5501459685878.jpg,images/val/c--82-_jpg.rf.98a655b37dc393a91af5501459685878.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--82-_jpg.rf.98a655b37dc393a91af5501459685878.txt,CSV 행을 YOLO txt로 변환
+valid/c--83-_jpg.rf.9f541a40b42ccd5070759c68df1338e8.jpg,images/val/c--83-_jpg.rf.9f541a40b42ccd5070759c68df1338e8.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--83-_jpg.rf.9f541a40b42ccd5070759c68df1338e8.txt,CSV 행을 YOLO txt로 변환
+valid/c--84-_jpg.rf.57fb8761bfbe6030b7b4b2b46be0787a.jpg,images/val/c--84-_jpg.rf.57fb8761bfbe6030b7b4b2b46be0787a.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--84-_jpg.rf.57fb8761bfbe6030b7b4b2b46be0787a.txt,CSV 행을 YOLO txt로 변환
+valid/c--85-_jpg.rf.f6838c602dceccd3b68d69db59154172.jpg,images/val/c--85-_jpg.rf.f6838c602dceccd3b68d69db59154172.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--85-_jpg.rf.f6838c602dceccd3b68d69db59154172.txt,CSV 행을 YOLO txt로 변환
+valid/c--86-_jpg.rf.4ec983fac5ca777574451d5549033606.jpg,images/val/c--86-_jpg.rf.4ec983fac5ca777574451d5549033606.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--86-_jpg.rf.4ec983fac5ca777574451d5549033606.txt,CSV 행을 YOLO txt로 변환
+valid/c--87-_jpg.rf.c7180b1074e47bceb0985944a0dc085e.jpg,images/val/c--87-_jpg.rf.c7180b1074e47bceb0985944a0dc085e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--87-_jpg.rf.c7180b1074e47bceb0985944a0dc085e.txt,CSV 행을 YOLO txt로 변환
+valid/c--88-_jpg.rf.34d7d608352ba8b74f1b82d433e7c1c7.jpg,images/val/c--88-_jpg.rf.34d7d608352ba8b74f1b82d433e7c1c7.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--88-_jpg.rf.34d7d608352ba8b74f1b82d433e7c1c7.txt,CSV 행을 YOLO txt로 변환
+valid/c--89-_jpg.rf.285c476d489dcc60e2c2087e9d0a38a3.jpg,images/val/c--89-_jpg.rf.285c476d489dcc60e2c2087e9d0a38a3.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--89-_jpg.rf.285c476d489dcc60e2c2087e9d0a38a3.txt,CSV 행을 YOLO txt로 변환
+valid/c--9-_jpg.rf.9e6a6e449de3217a6737923d26a276d0.jpg,images/val/c--9-_jpg.rf.9e6a6e449de3217a6737923d26a276d0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--9-_jpg.rf.9e6a6e449de3217a6737923d26a276d0.txt,CSV 행을 YOLO txt로 변환
+valid/c--90-_jpg.rf.7341660982749acd4f79f3b7fd004e0b.jpg,images/val/c--90-_jpg.rf.7341660982749acd4f79f3b7fd004e0b.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--90-_jpg.rf.7341660982749acd4f79f3b7fd004e0b.txt,CSV 행을 YOLO txt로 변환
+valid/c--91-_jpg.rf.fd4615a24ba1bf4c59222cf13db5c464.jpg,images/val/c--91-_jpg.rf.fd4615a24ba1bf4c59222cf13db5c464.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--91-_jpg.rf.fd4615a24ba1bf4c59222cf13db5c464.txt,CSV 행을 YOLO txt로 변환
+valid/c--92-_jpg.rf.1bc5c02d6bd4041847097d4f58804260.jpg,images/val/c--92-_jpg.rf.1bc5c02d6bd4041847097d4f58804260.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--92-_jpg.rf.1bc5c02d6bd4041847097d4f58804260.txt,CSV 행을 YOLO txt로 변환
+valid/c--93-_jpg.rf.6b75dd24411c3ff857686011d4adbb68.jpg,images/val/c--93-_jpg.rf.6b75dd24411c3ff857686011d4adbb68.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--93-_jpg.rf.6b75dd24411c3ff857686011d4adbb68.txt,CSV 행을 YOLO txt로 변환
+valid/c--94-_jpg.rf.c627b1f3c4503b49d23df4995bdf2797.jpg,images/val/c--94-_jpg.rf.c627b1f3c4503b49d23df4995bdf2797.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--94-_jpg.rf.c627b1f3c4503b49d23df4995bdf2797.txt,CSV 행을 YOLO txt로 변환
+valid/c--95-_jpg.rf.040898b558cf72633e939a31415b00cf.jpg,images/val/c--95-_jpg.rf.040898b558cf72633e939a31415b00cf.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--95-_jpg.rf.040898b558cf72633e939a31415b00cf.txt,CSV 행을 YOLO txt로 변환
+valid/c--96-_jpg.rf.8d2da905c6aef356ed00ffaee5d88216.jpg,images/val/c--96-_jpg.rf.8d2da905c6aef356ed00ffaee5d88216.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--96-_jpg.rf.8d2da905c6aef356ed00ffaee5d88216.txt,CSV 행을 YOLO txt로 변환
+valid/c--97-_jpg.rf.7d8a55ef0acaba6d85161d5327dc2ab1.jpg,images/val/c--97-_jpg.rf.7d8a55ef0acaba6d85161d5327dc2ab1.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--97-_jpg.rf.7d8a55ef0acaba6d85161d5327dc2ab1.txt,CSV 행을 YOLO txt로 변환
+valid/c--98-_jpg.rf.dc4bb77820fa1868fd06673f8f9acb94.jpg,images/val/c--98-_jpg.rf.dc4bb77820fa1868fd06673f8f9acb94.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--98-_jpg.rf.dc4bb77820fa1868fd06673f8f9acb94.txt,CSV 행을 YOLO txt로 변환
+valid/c--99-_jpg.rf.8e62e693e2d2ec6c58d64e9673e410b7.jpg,images/val/c--99-_jpg.rf.8e62e693e2d2ec6c58d64e9673e410b7.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/c--99-_jpg.rf.8e62e693e2d2ec6c58d64e9673e410b7.txt,CSV 행을 YOLO txt로 변환
+valid/d--14-_jpg.rf.721fb3ecbe01cf8e0ea25aba8aadf5ff.jpg,images/val/d--14-_jpg.rf.721fb3ecbe01cf8e0ea25aba8aadf5ff.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--14-_jpg.rf.721fb3ecbe01cf8e0ea25aba8aadf5ff.txt,CSV 행을 YOLO txt로 변환
+valid/d--17-_jpg.rf.22ba2f8b8b408084198875024de87813.jpg,images/val/d--17-_jpg.rf.22ba2f8b8b408084198875024de87813.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--17-_jpg.rf.22ba2f8b8b408084198875024de87813.txt,CSV 행을 YOLO txt로 변환
+valid/d--18-_jpg.rf.56f9d9426478a463e3d2342346b02fc6.jpg,images/val/d--18-_jpg.rf.56f9d9426478a463e3d2342346b02fc6.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--18-_jpg.rf.56f9d9426478a463e3d2342346b02fc6.txt,CSV 행을 YOLO txt로 변환
+valid/d--42-_jpg.rf.0811848782d8f404779d8317f549fcd1.jpg,images/val/d--42-_jpg.rf.0811848782d8f404779d8317f549fcd1.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--42-_jpg.rf.0811848782d8f404779d8317f549fcd1.txt,CSV 행을 YOLO txt로 변환
+valid/d--43-_jpg.rf.614289e8894cf559ab218b2fcdc0b02e.jpg,images/val/d--43-_jpg.rf.614289e8894cf559ab218b2fcdc0b02e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--43-_jpg.rf.614289e8894cf559ab218b2fcdc0b02e.txt,CSV 행을 YOLO txt로 변환
+valid/d--45-_jpg.rf.467252ef1218f9dec3cfc63de01c3eec.jpg,images/val/d--45-_jpg.rf.467252ef1218f9dec3cfc63de01c3eec.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--45-_jpg.rf.467252ef1218f9dec3cfc63de01c3eec.txt,CSV 행을 YOLO txt로 변환
+valid/d--54-_jpg.rf.b2c223f16454ffe9a2b3c013d01ff5a6.jpg,images/val/d--54-_jpg.rf.b2c223f16454ffe9a2b3c013d01ff5a6.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--54-_jpg.rf.b2c223f16454ffe9a2b3c013d01ff5a6.txt,CSV 행을 YOLO txt로 변환
+valid/d--57-_jpg.rf.c05a10a639d08e6bc69a5feb78856959.jpg,images/val/d--57-_jpg.rf.c05a10a639d08e6bc69a5feb78856959.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--57-_jpg.rf.c05a10a639d08e6bc69a5feb78856959.txt,CSV 행을 YOLO txt로 변환
+valid/d--58-_jpg.rf.bd3fa7b2def684beeae6eb2bc61289e5.jpg,images/val/d--58-_jpg.rf.bd3fa7b2def684beeae6eb2bc61289e5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--58-_jpg.rf.bd3fa7b2def684beeae6eb2bc61289e5.txt,CSV 행을 YOLO txt로 변환
+valid/d--59-_jpg.rf.4a27f3dc984023509fec8c6a4de30a76.jpg,images/val/d--59-_jpg.rf.4a27f3dc984023509fec8c6a4de30a76.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--59-_jpg.rf.4a27f3dc984023509fec8c6a4de30a76.txt,CSV 행을 YOLO txt로 변환
+valid/d--6-_jpg.rf.3c64d69dbe8bbddcfb7691cacc2bccbb.jpg,images/val/d--6-_jpg.rf.3c64d69dbe8bbddcfb7691cacc2bccbb.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--6-_jpg.rf.3c64d69dbe8bbddcfb7691cacc2bccbb.txt,CSV 행을 YOLO txt로 변환
+valid/d--68-_jpg.rf.a939856757dd8a36ffb6c48b364522ba.jpg,images/val/d--68-_jpg.rf.a939856757dd8a36ffb6c48b364522ba.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--68-_jpg.rf.a939856757dd8a36ffb6c48b364522ba.txt,CSV 행을 YOLO txt로 변환
+valid/d--69-_jpg.rf.cba7e7baf07068e9390dd49595bb4cde.jpg,images/val/d--69-_jpg.rf.cba7e7baf07068e9390dd49595bb4cde.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--69-_jpg.rf.cba7e7baf07068e9390dd49595bb4cde.txt,CSV 행을 YOLO txt로 변환
+valid/d--75-_jpg.rf.3b1bf5766e57e9f1de9a1df32f069cb0.jpg,images/val/d--75-_jpg.rf.3b1bf5766e57e9f1de9a1df32f069cb0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--75-_jpg.rf.3b1bf5766e57e9f1de9a1df32f069cb0.txt,CSV 행을 YOLO txt로 변환
+valid/d--77-_jpg.rf.84995c9e1346e58c80469258e984e259.jpg,images/val/d--77-_jpg.rf.84995c9e1346e58c80469258e984e259.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--77-_jpg.rf.84995c9e1346e58c80469258e984e259.txt,CSV 행을 YOLO txt로 변환
+valid/d--81-_jpg.rf.cd6b045374185d67cc7a38a6378265cf.jpg,images/val/d--81-_jpg.rf.cd6b045374185d67cc7a38a6378265cf.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--81-_jpg.rf.cd6b045374185d67cc7a38a6378265cf.txt,CSV 행을 YOLO txt로 변환
+valid/d--85-_jpg.rf.306207ac8094d1cf2db43ab3740bcc16.jpg,images/val/d--85-_jpg.rf.306207ac8094d1cf2db43ab3740bcc16.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/d--85-_jpg.rf.306207ac8094d1cf2db43ab3740bcc16.txt,CSV 행을 YOLO txt로 변환
+valid/f--103-_jpg.rf.ed9b67fd6b80a99ad4bde6a583098131.jpg,images/val/f--103-_jpg.rf.ed9b67fd6b80a99ad4bde6a583098131.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--103-_jpg.rf.ed9b67fd6b80a99ad4bde6a583098131.txt,CSV 행을 YOLO txt로 변환
+valid/f--11-_jpg.rf.3f002db831a7cff3ff47824394658d2d.jpg,images/val/f--11-_jpg.rf.3f002db831a7cff3ff47824394658d2d.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--11-_jpg.rf.3f002db831a7cff3ff47824394658d2d.txt,CSV 행을 YOLO txt로 변환
+valid/f--134-_jpg.rf.9b0bb35a947fd0b393fbc6cd2e0e7fbc.jpg,images/val/f--134-_jpg.rf.9b0bb35a947fd0b393fbc6cd2e0e7fbc.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--134-_jpg.rf.9b0bb35a947fd0b393fbc6cd2e0e7fbc.txt,CSV 행을 YOLO txt로 변환
+valid/f--135-_jpg.rf.da5d89174df74166cf10d84d786ac83e.jpg,images/val/f--135-_jpg.rf.da5d89174df74166cf10d84d786ac83e.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--135-_jpg.rf.da5d89174df74166cf10d84d786ac83e.txt,CSV 행을 YOLO txt로 변환
+valid/f--137-_jpg.rf.66f2bb89726e9a6719c952be6104341d.jpg,images/val/f--137-_jpg.rf.66f2bb89726e9a6719c952be6104341d.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--137-_jpg.rf.66f2bb89726e9a6719c952be6104341d.txt,CSV 행을 YOLO txt로 변환
+valid/f--138-_jpg.rf.072ce3b77221d1e986b6a16cdb665dd1.jpg,images/val/f--138-_jpg.rf.072ce3b77221d1e986b6a16cdb665dd1.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--138-_jpg.rf.072ce3b77221d1e986b6a16cdb665dd1.txt,CSV 행을 YOLO txt로 변환
+valid/f--144-_jpg.rf.ed5510c624dd84bd65e21483c4aa760d.jpg,images/val/f--144-_jpg.rf.ed5510c624dd84bd65e21483c4aa760d.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--144-_jpg.rf.ed5510c624dd84bd65e21483c4aa760d.txt,CSV 행을 YOLO txt로 변환
+valid/f--147-_jpg.rf.021b9250b139c3ff578d10b64dfeff95.jpg,images/val/f--147-_jpg.rf.021b9250b139c3ff578d10b64dfeff95.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--147-_jpg.rf.021b9250b139c3ff578d10b64dfeff95.txt,CSV 행을 YOLO txt로 변환
+valid/f--148-_jpg.rf.77f505d8bb4a9f89dfa8a596bf881709.jpg,images/val/f--148-_jpg.rf.77f505d8bb4a9f89dfa8a596bf881709.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--148-_jpg.rf.77f505d8bb4a9f89dfa8a596bf881709.txt,CSV 행을 YOLO txt로 변환
+valid/f--149-_jpg.rf.794975c6f460b59c78e3dcc5f0de69c8.jpg,images/val/f--149-_jpg.rf.794975c6f460b59c78e3dcc5f0de69c8.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--149-_jpg.rf.794975c6f460b59c78e3dcc5f0de69c8.txt,CSV 행을 YOLO txt로 변환
+valid/f--15-_jpg.rf.f9cc0c09bcf07409978fc11d674e94b0.jpg,images/val/f--15-_jpg.rf.f9cc0c09bcf07409978fc11d674e94b0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--15-_jpg.rf.f9cc0c09bcf07409978fc11d674e94b0.txt,CSV 행을 YOLO txt로 변환
+valid/f--150-_jpg.rf.6b705da474117512fe933182304b2722.jpg,images/val/f--150-_jpg.rf.6b705da474117512fe933182304b2722.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--150-_jpg.rf.6b705da474117512fe933182304b2722.txt,CSV 행을 YOLO txt로 변환
+valid/f--158-_jpg.rf.8b6f5b9b1304213ced02bd17ac1a8a76.jpg,images/val/f--158-_jpg.rf.8b6f5b9b1304213ced02bd17ac1a8a76.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--158-_jpg.rf.8b6f5b9b1304213ced02bd17ac1a8a76.txt,CSV 행을 YOLO txt로 변환
+valid/f--163-_jpg.rf.d94bb6ab9a006caa6f49daeac1d3c1db.jpg,images/val/f--163-_jpg.rf.d94bb6ab9a006caa6f49daeac1d3c1db.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--163-_jpg.rf.d94bb6ab9a006caa6f49daeac1d3c1db.txt,CSV 행을 YOLO txt로 변환
+valid/f--166-_jpg.rf.cf337eb20d9cf6095fab46139cb62218.jpg,images/val/f--166-_jpg.rf.cf337eb20d9cf6095fab46139cb62218.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--166-_jpg.rf.cf337eb20d9cf6095fab46139cb62218.txt,CSV 행을 YOLO txt로 변환
+valid/f--169-_jpg.rf.85d55df7c3bff552202ff707c505604a.jpg,images/val/f--169-_jpg.rf.85d55df7c3bff552202ff707c505604a.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--169-_jpg.rf.85d55df7c3bff552202ff707c505604a.txt,CSV 행을 YOLO txt로 변환
+valid/f--182-_jpg.rf.3168edb7cf7f6a2d8073fbc0ccb784e1.jpg,images/val/f--182-_jpg.rf.3168edb7cf7f6a2d8073fbc0ccb784e1.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--182-_jpg.rf.3168edb7cf7f6a2d8073fbc0ccb784e1.txt,CSV 행을 YOLO txt로 변환
+valid/f--196-_jpg.rf.09ae3f755b81acd5075c587a15b7feed.jpg,images/val/f--196-_jpg.rf.09ae3f755b81acd5075c587a15b7feed.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--196-_jpg.rf.09ae3f755b81acd5075c587a15b7feed.txt,CSV 행을 YOLO txt로 변환
+valid/f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0.jpg,images/val/f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0.txt,CSV 행을 YOLO txt로 변환
+valid/f--28-_jpg.rf.de4fc5ebba3bbc0baea64e669225c7c5.jpg,images/val/f--28-_jpg.rf.de4fc5ebba3bbc0baea64e669225c7c5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--28-_jpg.rf.de4fc5ebba3bbc0baea64e669225c7c5.txt,CSV 행을 YOLO txt로 변환
+valid/f--46-_jpg.rf.56f235e94be31d30b971fa58c20b7b50.jpg,images/val/f--46-_jpg.rf.56f235e94be31d30b971fa58c20b7b50.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--46-_jpg.rf.56f235e94be31d30b971fa58c20b7b50.txt,CSV 행을 YOLO txt로 변환
+valid/f--5-_jpg.rf.3f432ceb94aa0081a348c99e6f38463f.jpg,images/val/f--5-_jpg.rf.3f432ceb94aa0081a348c99e6f38463f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--5-_jpg.rf.3f432ceb94aa0081a348c99e6f38463f.txt,CSV 행을 YOLO txt로 변환
+valid/f--63-_jpg.rf.63d2d0ffb809747cd6893cea91ba90e5.jpg,images/val/f--63-_jpg.rf.63d2d0ffb809747cd6893cea91ba90e5.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--63-_jpg.rf.63d2d0ffb809747cd6893cea91ba90e5.txt,CSV 행을 YOLO txt로 변환
+valid/f--69-_jpg.rf.f64befeb75667b0721e71c38d792398f.jpg,images/val/f--69-_jpg.rf.f64befeb75667b0721e71c38d792398f.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--69-_jpg.rf.f64befeb75667b0721e71c38d792398f.txt,CSV 행을 YOLO txt로 변환
+valid/f--76-_jpg.rf.bb8558129ef69b8ac4cbd84c63003c9d.jpg,images/val/f--76-_jpg.rf.bb8558129ef69b8ac4cbd84c63003c9d.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--76-_jpg.rf.bb8558129ef69b8ac4cbd84c63003c9d.txt,CSV 행을 YOLO txt로 변환
+valid/f--81-_jpg.rf.81c38398a7e4015a09b5db1b6e84c530.jpg,images/val/f--81-_jpg.rf.81c38398a7e4015a09b5db1b6e84c530.jpg,폴더 이름을 valid에서 val로 변경
+valid/_annotations.csv,labels/val/f--81-_jpg.rf.81c38398a7e4015a09b5db1b6e84c530.txt,CSV 행을 YOLO txt로 변환
