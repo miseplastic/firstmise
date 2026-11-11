@@ -1,0 +1,10 @@
+{
+  "readable_images": 781,
+  "discovered_images": 781,
+  "objects": 7126,
+  "error_count": 0,
+  "review_count": 0,
+  "exact_duplicate_groups": 0,
+  "near_candidates": 0,
+  "note": "dHash is only a candidate search; rotation/crop/compression duplicates may be missed. Group identity requires review."
+}

@@ -1,0 +1,4 @@
+experiment/**/*.csv text eol=lf
+experiment/**/*.txt text eol=lf
+experiment/**/*.yaml text eol=lf
+experiment/**/*.json text eol=lf

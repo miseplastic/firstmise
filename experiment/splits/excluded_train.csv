@@ -1,0 +1,3 @@
+﻿condition,repeat,image_id,reason
+R,1,train/f--108-_jpg.rf.959750db9c9ad9c6e5d9d6ce284d08ff.jpg,match train image count
+R,3,train/d--7-_jpg.rf.503eb53780af3e6a457906f2a521cbcc.jpg,match train image count

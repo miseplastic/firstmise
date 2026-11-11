@@ -1,0 +1,10 @@
+﻿image_id,before,after,reviewer,reason
+train/110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3.jpg,G_ISOLATE_PENDING_POOL,solo_110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+train/1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db.jpg,G_ISOLATE_PENDING_POOL,solo_1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+train/a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71.jpg,G_ISOLATE_PENDING_POOL,solo_a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+train/b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49.jpg,G_ISOLATE_PENDING_POOL,solo_b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+train/b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077.jpg,G_ISOLATE_PENDING_POOL,solo_b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+train/c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def.jpg,G_ISOLATE_PENDING_POOL,solo_c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+val/f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0.jpg,G_ISOLATE_PENDING_POOL,solo_f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+train/f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a.jpg,G_ISOLATE_PENDING_POOL,solo_f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a,Codex,원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입
+train/d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg,G_D_1_28,G_D_12_30,Codex,feature2 중복 문서의 d--12 / d--30 그룹과 일치하도록 정확한 파일 번호로 매핑

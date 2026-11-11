@@ -1,0 +1,6 @@
+{
+  "status": "SPLITS_GENERATED",
+  "grouping_sha256": "42a6b6cc3932592f3380e0fbe58c30da8376b4d86c6fadba3ef5a0bae0a8daf1",
+  "is_demo": false,
+  "note": "Inspect distribution.csv and box_sizes.csv. R/G test sets differ, so score differences also reflect test-set composition."
+}

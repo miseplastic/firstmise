@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-11",
+  "approved_by": "feature3 build requested by user",
+  "images": 781,
+  "boxes": 7126,
+  "round_trip_mismatches": 0,
+  "copy_hash_mismatches": 0,
+  "classes": [
+    "Microplastic"
+  ],
+  "split_map": {
+    "train": "train",
+    "valid": "val"
+  },
+  "test_split": "없음. 제공 분할에 없어 만들지 않음",
+  "box_convention": "CSV의 xmin, ymin, xmax, ymax를 픽셀 모서리 좌표로 보고 변환함. 출처 문서로는 미확인"
+}
