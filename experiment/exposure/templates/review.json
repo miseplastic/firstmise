@@ -1,0 +1,8 @@
+{
+  "manifest_sha256": "REPLACE_AFTER_FINAL_CSV",
+  "groups_reviewed": {"approved": false, "reviewer": "", "evidence": ""},
+  "gt_reviewed": {"approved": false, "reviewer": "", "evidence": ""},
+  "split_reviewed": {"approved": false, "reviewer": "", "evidence": ""},
+  "control_reviewed": {"approved": false, "reviewer": "", "evidence": ""},
+  "train_known_errors_resolved": {"approved": false, "reviewer": "", "evidence": ""}
+}

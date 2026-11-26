@@ -1,4 +1,5 @@
 numpy
+PyYAML>=6
 pandas
 pillow
 scipy

@@ -1,3 +1,4 @@
 experiment/.runtime/
 experiment/splits/**/*.cache
 __pycache__/
+experiment/.inputs/
