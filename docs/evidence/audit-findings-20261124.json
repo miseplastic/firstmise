@@ -1,0 +1,512 @@
+{
+  "scope": "LOCAL_WORKSPACE\\output\\팀원별_인계자료\\02_박준현\\기본자료",
+  "date": "2026-11-24",
+  "changes_to_source": false,
+  "image_label_audit": {
+    "images": 781,
+    "labels": 781,
+    "boxes": 7126,
+    "original_folders": {
+      "train": 577,
+      "val": 204
+    },
+    "missing_labels": [],
+    "orphan_labels": [],
+    "decode_errors": [],
+    "format_errors": [],
+    "corners_outside": [],
+    "duplicate_label_rows": [],
+    "coordinate_csv_dimension_mismatch": [],
+    "count_changes_vs_source": [],
+    "box_changes_vs_source": [],
+    "image_changes_vs_source_manifest": [],
+    "image_changes_vs_repo_original": [],
+    "same_file_hash_groups": [],
+    "same_decoded_pixel_groups": [],
+    "exact_flip_rotation_groups": [],
+    "small_side_le_5px_boxes": 19,
+    "small_side_images": 15,
+    "within_1px_boundary_boxes": 930,
+    "within_1px_boundary_images": 525,
+    "gt_min": 1,
+    "gt_max": 52,
+    "empty_gt_images": 0,
+    "unique_dimensions": 2,
+    "most_common_dimensions": [
+      [
+        "563x537",
+        777
+      ],
+      [
+        "353x336",
+        4
+      ]
+    ],
+    "nontrivial_exif_orientation": 0
+  },
+  "four_reported_label_issues": [
+    {
+      "image_id": "val/b--12-_jpg.rf.016f209b7c5439a4f12cfde8e1b20114.jpg",
+      "current_boxes": 28,
+      "source_boxes": 28,
+      "same_as_source_within_1e_6": true
+    },
+    {
+      "image_id": "val/c--173-_jpg.rf.a61c25de76db954defe8bae82b0837c2.jpg",
+      "current_boxes": 6,
+      "source_boxes": 6,
+      "same_as_source_within_1e_6": true
+    },
+    {
+      "image_id": "val/c--20-_jpg.rf.1485254046fe3dfc47a09cb7208644d3.jpg",
+      "current_boxes": 8,
+      "source_boxes": 8,
+      "same_as_source_within_1e_6": true
+    },
+    {
+      "image_id": "val/c--68-_jpg.rf.f08b69d4c04cc2b51516b5e1d71e6cef.jpg",
+      "current_boxes": 18,
+      "source_boxes": 18,
+      "same_as_source_within_1e_6": true
+    }
+  ],
+  "review_tables": {
+    "label_review.csv": {
+      "rows": 60,
+      "fields": [
+        "image_id",
+        "overlay_file",
+        "reviewer",
+        "decision",
+        "notes",
+        "selection_reason",
+        "unlabeled_particles"
+      ],
+      "decision": {
+        "(blank)": 60
+      },
+      "reviewer": {
+        "(blank)": 60
+      }
+    },
+    "pair_review.csv": {
+      "rows": 110,
+      "fields": [
+        "image_a",
+        "image_b",
+        "decision",
+        "reviewer",
+        "evidence",
+        "notes",
+        "review_tier",
+        "comparison_file",
+        "split_a",
+        "split_b",
+        "dhash_distance",
+        "layout_score",
+        "masked_ncc",
+        "shift_peak",
+        "best_transform"
+      ],
+      "decision": {
+        "(blank)": 110
+      },
+      "reviewer": {
+        "(blank)": 110
+      },
+      "review_tier": {
+        "경계": 20,
+        "신호상위": 60,
+        "후보_무작위": 20,
+        "비후보_무작위": 10
+      }
+    },
+    "open_items.csv": {
+      "rows": 2709,
+      "fields": [
+        "kind",
+        "image_a",
+        "image_b",
+        "status",
+        "notes"
+      ],
+      "status": {
+        "미판정": 170,
+        "검토표 밖 후보": 2539
+      },
+      "kind": {
+        "label": 60,
+        "pair": 2649
+      }
+    },
+    "image_coverage.csv": {
+      "rows": 781,
+      "fields": [
+        "image_id",
+        "search_methods",
+        "candidate_pairs",
+        "pairs_in_review",
+        "nearest_dhash",
+        "score_dhash",
+        "nearest_layout",
+        "score_layout",
+        "nearest_ncc",
+        "score_ncc",
+        "nearest_shift",
+        "score_shift"
+      ]
+    },
+    "change_log.csv": {
+      "rows": 0,
+      "fields": []
+    }
+  },
+  "groups": {
+    "rows": 781,
+    "distinct_ids": 781,
+    "distinct_groups": 777,
+    "group_sizes": {
+      "1": 773,
+      "2": 4
+    },
+    "multi_image_groups": {
+      "G_D_1_28": [
+        "train/d--1-_jpg.rf.b37e794762fcd2f017ba3289c0e8183f.jpg",
+        "train/d--28-_jpg.rf.6ac3e5875346b295980f47d51d2ffbdd.jpg"
+      ],
+      "G_D_12_30": [
+        "train/d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg",
+        "train/d--30-_jpg.rf.c15d6e586efe0fd55ee78f1280a4ed36.jpg"
+      ],
+      "G_D_31_32": [
+        "train/d--31-_jpg.rf.e974a263856c8993d294bba282d7bef4.jpg",
+        "train/d--32-_jpg.rf.644adb98535b87f67582f61ae029981f.jpg"
+      ],
+      "G_D_39_40": [
+        "train/d--39-_jpg.rf.ad058b973ec93f9e4c2974e46ee53cf9.jpg",
+        "train/d--40-_jpg.rf.6da89bed0ed9949fb0de2e2c108df063.jpg"
+      ]
+    },
+    "missing_ids": [],
+    "unknown_ids": []
+  },
+  "document_group_pairs": [
+    {
+      "pair": [
+        "d--1-",
+        "d--28-"
+      ],
+      "document_state": "document: split",
+      "a": [
+        [
+          "train/d--1-_jpg.rf.b37e794762fcd2f017ba3289c0e8183f.jpg",
+          "G_D_1_28"
+        ]
+      ],
+      "b": [
+        [
+          "train/d--28-_jpg.rf.6ac3e5875346b295980f47d51d2ffbdd.jpg",
+          "G_D_1_28"
+        ]
+      ],
+      "same_group": true
+    },
+    {
+      "pair": [
+        "d--12-",
+        "d--30-"
+      ],
+      "document_state": "document: split",
+      "a": [
+        [
+          "train/d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg",
+          "G_D_12_30"
+        ]
+      ],
+      "b": [
+        [
+          "train/d--30-_jpg.rf.c15d6e586efe0fd55ee78f1280a4ed36.jpg",
+          "G_D_12_30"
+        ]
+      ],
+      "same_group": true
+    },
+    {
+      "pair": [
+        "d--31-",
+        "d--32-"
+      ],
+      "document_state": "document: keep",
+      "a": [
+        [
+          "train/d--31-_jpg.rf.e974a263856c8993d294bba282d7bef4.jpg",
+          "G_D_31_32"
+        ]
+      ],
+      "b": [
+        [
+          "train/d--32-_jpg.rf.644adb98535b87f67582f61ae029981f.jpg",
+          "G_D_31_32"
+        ]
+      ],
+      "same_group": true
+    },
+    {
+      "pair": [
+        "d--39-",
+        "d--40-"
+      ],
+      "document_state": "document: keep",
+      "a": [
+        [
+          "train/d--39-_jpg.rf.ad058b973ec93f9e4c2974e46ee53cf9.jpg",
+          "G_D_39_40"
+        ]
+      ],
+      "b": [
+        [
+          "train/d--40-_jpg.rf.6da89bed0ed9949fb0de2e2c108df063.jpg",
+          "G_D_39_40"
+        ]
+      ],
+      "same_group": true
+    },
+    {
+      "pair": [
+        "a--63-",
+        "a--64-"
+      ],
+      "document_state": "document: discuss",
+      "a": [
+        [
+          "train/a--63-_jpg.rf.c4f483904f14ce7bf174f164d0af58a5.jpg",
+          "solo_a--63-_jpg.rf.c4f483904f14ce7bf174f164d0af58a5"
+        ]
+      ],
+      "b": [
+        [
+          "train/a--64-_jpg.rf.795308943bf5527c15d98cd657fbc407.jpg",
+          "solo_a--64-_jpg.rf.795308943bf5527c15d98cd657fbc407"
+        ]
+      ],
+      "same_group": false
+    },
+    {
+      "pair": [
+        "f--38-",
+        "f--39-"
+      ],
+      "document_state": "document: discuss",
+      "a": [
+        [
+          "train/f--38-_jpg.rf.e935b9dd6b238382233285b63064e2c9.jpg",
+          "solo_f--38-_jpg.rf.e935b9dd6b238382233285b63064e2c9"
+        ]
+      ],
+      "b": [
+        [
+          "train/f--39-_jpg.rf.2ec59d11412e285ffea6c5748785e800.jpg",
+          "solo_f--39-_jpg.rf.2ec59d11412e285ffea6c5748785e800"
+        ]
+      ],
+      "same_group": false
+    },
+    {
+      "pair": [
+        "a--23-",
+        "a--26-"
+      ],
+      "document_state": "document: discuss",
+      "a": [
+        [
+          "val/a--23-_jpg.rf.1ab5e302030f3bb3c08981ca42a8e631.jpg",
+          "solo_a--23-_jpg.rf.1ab5e302030f3bb3c08981ca42a8e631"
+        ]
+      ],
+      "b": [
+        [
+          "val/a--26-_jpg.rf.0ae749f9f22dbfa00f0889c68594bdc9.jpg",
+          "solo_a--26-_jpg.rf.0ae749f9f22dbfa00f0889c68594bdc9"
+        ]
+      ],
+      "same_group": false
+    },
+    {
+      "pair": [
+        "c--19-",
+        "c--20-"
+      ],
+      "document_state": "document: discuss",
+      "a": [
+        [
+          "val/c--19-_jpg.rf.52bcdc3f9330bb012be38038b55458e0.jpg",
+          "solo_c--19-_jpg.rf.52bcdc3f9330bb012be38038b55458e0"
+        ]
+      ],
+      "b": [
+        [
+          "val/c--20-_jpg.rf.1485254046fe3dfc47a09cb7208644d3.jpg",
+          "solo_c--20-_jpg.rf.1485254046fe3dfc47a09cb7208644d3"
+        ]
+      ],
+      "same_group": false
+    }
+  ],
+  "nine_old_group_changes": [
+    {
+      "image_id": "train/110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_110_jpg.rf.2c87278f41415f6dfc58e3844a3c61f3",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "train/1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_1_jpg.rf.3bd160570ca04ce20d506e7d30bba9db",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "train/a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_a--84-_jpg.rf.b3bb6d47e23cfcc8e731f1556f9b8a71",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "train/b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_b--122-_jpg.rf.3521716567c5fbb8b9ec1cdc62259d49",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "train/b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_b--84-_jpg.rf.50411d6e71c6131f7cbb9a51df837077",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "train/c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_c--1-_jpg.rf.6dae75ad0dda950816fac8c31f181def",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "val/f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_f--200-_jpg.rf.645677c4f2c27c0ee1428f8f4eb21ab0",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "train/f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a.jpg",
+      "before": "G_ISOLATE_PENDING_POOL",
+      "after": "solo_f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a",
+      "reviewer": "Codex",
+      "reason": "원본 입자 배치와 라벨을 비교한 뒤 사용자 요청에 따라 독립 그룹으로 편입",
+      "current_group": "solo_f--94-_jpg.rf.f13fe6a99865757498e2a7e21bf8b48a",
+      "matches_recorded_after": true
+    },
+    {
+      "image_id": "train/d--12-_jpg.rf.76a846b929a17769e8ec120f0ccdace2.jpg",
+      "before": "G_D_1_28",
+      "after": "G_D_12_30",
+      "reviewer": "Codex",
+      "reason": "feature2 중복 문서의 d--12 / d--30 그룹과 일치하도록 정확한 파일 번호로 매핑",
+      "current_group": "G_D_12_30",
+      "matches_recorded_after": true
+    }
+  ],
+  "old_draft_reproduction_NOT_FINAL": {
+    "seed": 11,
+    "images": {
+      "train": 546,
+      "val": 117,
+      "test": 118
+    },
+    "groups": {
+      "train": 543,
+      "val": 117,
+      "test": 117
+    },
+    "half_count": 59,
+    "groups_split_by_half": [
+      "G_D_12_30"
+    ]
+  },
+  "team_copy_comparison": [
+    {
+      "bundle": "01_양현준",
+      "label_hash_differences": 0,
+      "changed_ids": [],
+      "code_hash_matches": {
+        "base.py": true,
+        "build_exposure.py": true,
+        "run_exposure.py": true
+      }
+    },
+    {
+      "bundle": "03_박도현",
+      "label_hash_differences": 0,
+      "changed_ids": [],
+      "code_hash_matches": {
+        "base.py": true,
+        "build_exposure.py": true,
+        "run_exposure.py": true
+      }
+    },
+    {
+      "bundle": "04_서승덕",
+      "label_hash_differences": 0,
+      "changed_ids": [],
+      "code_hash_matches": {
+        "base.py": true,
+        "build_exposure.py": true,
+        "run_exposure.py": true
+      }
+    }
+  ],
+  "additional_evidence": {
+    "label_review.csv": {
+      "referenced": 60,
+      "missing_at_referenced_path": 60
+    },
+    "pair_review.csv": {
+      "referenced": 110,
+      "missing_at_referenced_path": 110
+    },
+    "pair_review_image_coverage": {
+      "images_in_review": 150,
+      "images_not_in_pair_review": 631,
+      "note": "not a claim of no automated search or no separate human review"
+    },
+    "candidate_pairs": 2639,
+    "source_coordinate_convention": "Original CSV treated as pixel corner coordinates; provenance documentation remains unconfirmed. Numeric conversion consistency is not convention correctness.",
+    "source_file_hashes": {
+      "C:\\Users\\mycom\\OneDrive\\문서\\ChatGPT\\딥러닝\\output\\팀원별_인계자료\\02_박준현\\기본자료\\초기그룹.csv": "42a6b6cc3932592f3380e0fbe58c30da8376b4d86c6fadba3ef5a0bae0a8daf1",
+      "C:\\Users\\mycom\\OneDrive\\문서\\ChatGPT\\딥러닝\\output\\팀원별_인계자료\\02_박준현\\기본자료\\원본주석\\train\\_annotations.csv": "aa831eb130decd3f5ad4d0fe75e6d43209a7d7665389a0dd64991f680acd7222",
+      "C:\\Users\\mycom\\OneDrive\\문서\\ChatGPT\\딥러닝\\output\\팀원별_인계자료\\02_박준현\\기본자료\\원본주석\\valid\\_annotations.csv": "0a39f4eeca3fe63e2309259dcd117a3db2126b5896313dbb1e39b932c15ec7b0",
+      "C:\\Users\\mycom\\OneDrive\\문서\\ChatGPT\\딥러닝\\output\\팀원별_인계자료\\02_박준현\\tools\\build_exposure.py": "349f9cf03e66b705ca527171f2f3532337869388b3eea974b7accf1c9d7c86bf",
+      "C:\\Users\\mycom\\OneDrive\\문서\\ChatGPT\\딥러닝\\output\\팀원별_인계자료\\02_박준현\\tools\\base.py": "291dabc814c2de2fd5975ce36a7e5a2532db833e8bd6475baea750c7c1bfe977",
+      "C:\\Users\\mycom\\OneDrive\\문서\\ChatGPT\\딥러닝\\output\\팀원별_인계자료\\02_박준현\\tools\\run_exposure.py": "b3e6b1bb3397f3376a935a6793c738c10ed8ff08da8a91a8efc58cb51403b043"
+    }
+  }
+}

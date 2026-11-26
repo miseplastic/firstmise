@@ -1,83 +1,48 @@
-# 미세플라스틱 탐지의 데이터 분할 민감도 분석
+# 미세플라스틱 객체 탐지에서 데이터 누수가 탐지 성능과 입자 계수 오차에 미치는 영향 — 시험 이미지 반전본의 학습 노출 실험
 
-2026-11-11 `feature3`의 R/G 학습 데이터와 실행 명령은 [학습 준비 기록과 Q&A](experiment/README.md)에 있습니다.
+기준일: 2026-11-26 · 최신 문서 브랜치: `feature4`
 
-## 연구 목적
+시험 사진의 반전본을 학습했을 때 탐지 점수가 어떤 사진·오류에서 달라지고, 입자 계수 오차도 함께 달라지는지 확인한다. 같은 Test·GT를 모든 모델에 적용한다.
 
-유사·중복 이미지의 존재 여부를 감사하고, 이미지 단위 분할과 그룹 단위 분할에서 YOLOv5s의 성능을 비교한다.
+## 먼저 읽을 문서
 
-## 연구 질문
+1. [최종 연구 설계](docs/RESEARCH_PLAN.md): 질문·지표·네 조건·통계·해석 범위
+2. [역할분담](docs/ROLES.md): 네 사람의 책임과 완료 기준
+3. [개인별 일정·날짜별 인수인계](docs/SCHEDULE.md): 11/26-12/6 계획
+4. [구현·데이터 상태](docs/IMPLEMENTATION_STATUS.md): 확인된 것과 아직 확인할 것
+5. [실행 전 로드맵](docs/ROADMAP.md), [미해결 사항](docs/TEAM_AGENDA.md), [작업 기록](docs/WORKLOG.md)
+6. [최신 PDF](docs/pdf/README.md): 설계·역할·일정 공유본과 SHA-256
 
-- RQ1: 공식 train/valid 사이에 완전 중복 또는 동일 원본의 변형 이미지가 있는가?
-- RQ2: 동일 원본 그룹을 분리하지 않는 분할에서 탐지 성능은 어떻게 달라지는가?
+## 본실험 설계
 
-## 현재 단계 (2026-11-03)
-
-데이터 감사 1차를 마쳤다. 결과는 [docs/REPORT_01.md](docs/REPORT_01.md)에 있다.
-
-- SHA-256 완전 중복은 0건이다.
-- 전역 pHash는 배경이 지배해 중복 판별에 쓸 수 없다. 거리가 0인 쌍도 서로 다른 장면이었다.
-- valid의 66%가 `c` 접두라 train과 입자 분포가 다르다.
-
-사람 검토, 그룹 확정, 분할 생성, 탐지 성능 실험은 아직 하지 않았다. 분할 비율, seed, 학습 설정도 미확정이다.
-
-## 처음 보는 사람이 읽을 순서
-
-1. [docs/REPORT_01.md](docs/REPORT_01.md): 지금까지 데이터에서 확인한 내용. 0절 요약부터 읽는다
-2. [docs/RESEARCH_PLAN.md](docs/RESEARCH_PLAN.md): 확정된 기준, 미확정 항목, 결정 기록
-3. [docs/WORKLOG.md](docs/WORKLOG.md): 작업 목록(T01–T06)과 날짜별 기록
-
-## 폴더 구조
-
-```
-miseplastic/
-├─ README.md
-├─ requirements.txt
-├─ train/                     원본 데이터 (jpg 577장 + _annotations.csv)
-├─ valid/                     원본 데이터 (jpg 204장 + _annotations.csv)
-├─ docs/
-│  ├─ REPORT_01.md            1차 데이터 분석 보고서
-│  ├─ RESEARCH_PLAN.md        연구 기준·실험 설계·결정 기록
-│  ├─ WORKLOG.md              작업 현황과 기록
-│  └─ references/             참고 캡처 (데이터 점검 체크리스트, 그룹 판정 원칙)
-├─ notebook/
-│  └─ 01_data_inventory.ipynb 이미지 목록과 분포 그림 생성 (T01)
-├─ scripts/
-│  └─ report01_audit.py       무결성·SHA-256·pHash·박스 통계 감사 (REPORT_01)
-└─ artifacts/                 위 노트북과 스크립트가 만든 결과 (재생성 가능)
-```
-
-### artifacts/ 파일
-
-| 파일 | 만드는 곳 | 내용 |
+| 조건 | A 대응 슬롯 | B 대응 슬롯 |
 |---|---|---|
-| `data_inventory.csv` | notebook | 이미지별 분할, 크기, 박스 수, 접두, 번호 |
-| `dataset_overview.png`, `sample_boxes.png` | notebook | 분포 그림, 박스 예시 |
-| `report01_image_audit.csv` | script | 이미지별 SHA-256, 디코딩 결과, 실제 크기, 밝기 |
-| `exact_duplicates.csv` | script | SHA-256 일치 파일 (현재 0건) |
-| `phash_candidates.csv` | script | pHash 최소 거리 4 이하 쌍 |
-| `phash_nearest.csv` | script | 이미지별 최근접 이미지와 거리 |
-| `box_layout_candidates.csv` | script | 박스 배치 점수 0.5 이상 쌍 |
-| `report01_candidate_pairs.png`, `report01_prefix_samples.png` | script | 후보 쌍 비교, 접두별 예시 |
+| 0% | 일반 대조 반전본 | 일반 대조 반전본 |
+| 50A | Test A 반전본 | 일반 대조 반전본 |
+| 50B | 일반 대조 반전본 | Test B 반전본 |
+| 100% | Test A 반전본 | Test B 반전본 |
 
-## 실행 방법
+검토 그룹 단위로 분할·A/B를 고정한다. 대조 원본은 공통 Train에서 제외하고 1:1 교체한다. 네 조건 × 학습 시드 101·102·103 = 12회가 계획이다. 50A/B의 실제 노출률은 그룹 크기에 따라 다를 수 있다.
 
-Python 3.12 기준이다. Anaconda 환경이면 필요한 패키지가 이미 들어 있다.
+주 비교는 전체 Test의 100%-0%, A/B 교환은 변화 위치 분석이다. 핵심 지표는 mAP@50:95와 계수 MAE, 설명 지표는 FP·FN·계수 편향이다.
 
-```bash
-pip install -r requirements.txt
+## 현재 상태
 
-# 1) 이미지 목록 생성 → artifacts/data_inventory.csv  (스크립트보다 먼저)
-jupyter nbconvert --to notebook --execute --inplace notebook/01_data_inventory.ipynb
+이번 변경은 **문서·PDF 갱신**이다. 최종 그룹/GT/분할/대조 목록 검증, 새 네 조건 생성·실행 코드, 평가 코드 검산, 서버 확인, 12회 본학습·통계는 완료 증거를 받기 전까지 완료로 표시하지 않는다.
 
-# 2) 1차 감사 → artifacts/report01_*, exact_duplicates.csv 등  (약 1–2분)
-python scripts/report01_audit.py
-```
+`experiment/`에는 이전 R/G 설계 코드·산출물이 있다. [실행 안내](experiment/README.md)를 먼저 읽는다. 기존 코드는 새 본실험용으로 검증되지 않았으며 R/G 결과는 배경·예비 자료로만 쓴다. 과거 학습 로그는 환경과 소요 시간 확인에 재사용할 수 있다.
 
-학습, 평가 명령은 분할 기준이 확정된 뒤에 추가한다.
+## 역할
 
-## 데이터 메모
+| 담당 | 책임 |
+|---|---|
+| 박준현 | 그룹·어려운 라벨 판정, GT 수정, 사례의 정답 근거 |
+| 박도현 | 그룹 분할·노출 생성, 목록 검사, 명확한 검수·코드 검산 지원 |
+| 양현준 | 명확한 사진 검수, 설계·기록 대조, 결과 표·사진 연결 확인 |
+| 서승덕 | 서버·학습·평가 코드, 12회 실행, 임계값·비교표·부트스트랩 |
 
-- 주석 형식: CSV(`filename,width,height,class,xmin,ymin,xmax,ymax`), 클래스는 `Microplastic` 하나
-- `test` 분할은 없다
-- 출처 URL, 버전, 라이선스, 다운로드 날짜는 아직 기록되지 않았다. 공유 전에 이용 조건을 확인한다
+## 자료와 기록의 구분
+
+원본은 `train/` 577장·`valid/` 204장, 총 781장·7,126박스·단일 클래스다. 원래 폴더명은 새 실험의 split과 다르다. [과거 데이터 보고서](docs/REPORT_01.md)의 날짜별 사실과 최신 구현 상태를 구분한다. 다운로드 이력·좌표 관례 등 미확인 항목은 미확인으로 남긴다. 데이터 출처는 [Kaggle 배포본](https://www.kaggle.com/datasets/imtkaggleteam/microplastic-dataset-for-computer-vision)이며 Arju 논문의 데이터·보고 정확도를 같은 자료·지표로 취급하지 않는다.
+
+현재 제목의 단일 기준은 [RESEARCH_TITLE.txt](RESEARCH_TITLE.txt)다.

@@ -1,3 +1,5 @@
+> 과거 데이터 감사 기록: 아래 수치는 당시 검사 범위·날짜의 관찰이다. 현재 제목·설계는 [RESEARCH_PLAN.md](RESEARCH_PLAN.md), 실행 상태는 [IMPLEMENTATION_STATUS.md](IMPLEMENTATION_STATUS.md)를 따른다. 과거의 미확인/완료 표기를 새 본실험 상태로 승계하지 않는다.
+
 # 1차 데이터 분석 보고서
 
 - 작성일: 2026-11-03

@@ -1,0 +1,27 @@
+{
+  "title": "미세플라스틱 객체 탐지에서 데이터 누수가 탐지 성능과 입자 계수 오차에 미치는 영향 — 시험 이미지 반전본의 학습 노출 실험",
+  "included_on": "2026-11-26",
+  "files": [
+    {
+      "path": "research-design.pdf",
+      "source_name": "2조_미세플라스틱_연구설계_최종검토본_20261124.pdf",
+      "pages": 25,
+      "bytes": 326879,
+      "sha256": "4771b31acedea4f5fbd20730e22a8e437b8e9f515004077b0fd7f7741def7ced"
+    },
+    {
+      "path": "roles.pdf",
+      "source_name": "2조_학습전_역할분담표_20261125.pdf",
+      "pages": 7,
+      "bytes": 162991,
+      "sha256": "0ee044bec0923829f074dcccffb62357d243aaafb067988e42fad5d4abb6f83b"
+    },
+    {
+      "path": "schedule.pdf",
+      "source_name": "2조_개인별일정_인수인계표_20261126.pdf",
+      "pages": 8,
+      "bytes": 167819,
+      "sha256": "a72b383d425ea69320f533d3624d41a621583197e098ede571ffe9f4a8aa07db"
+    }
+  ]
+}
